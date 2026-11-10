@@ -1,6 +1,20 @@
-# Falcon App Uninstaller · GestorFalcon
+<p align="center">
+  <img src="docs/images/banner.png" width="1280" alt="GestorFalcon · Gestión de desinstalación masiva con CrowdStrike Falcon">
+</p>
 
-**Gestión y desinstalación masiva de aplicaciones con CrowdStrike Falcon.**
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-e51937?style=flat-square" alt="Versión 1.0.0">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python 3.10 o superior">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-238636?style=flat-square" alt="Licencia GPL-3.0"></a>
+  <a href="https://github.com/vicnpc202/falcon-app-uninstaller/actions/workflows/tests.yml"><img src="https://github.com/vicnpc202/falcon-app-uninstaller/actions/workflows/tests.yml/badge.svg" alt="Estado de las pruebas"></a>
+</p>
+
+<p align="center">
+  <a href="#instalación-rápida">Instalación</a> ·
+  <a href="#permisos-de-la-api">Permisos API</a> ·
+  <a href="#uso-habitual">Cómo se usa</a> ·
+  <a href="#primer-escaneo-tarda-más">Primer escaneo</a>
+</p>
 
 Aplicación de escritorio en Python para consultar el inventario de Falcon,
 buscar software, revisar los equipos donde está instalado y enviar scripts de
