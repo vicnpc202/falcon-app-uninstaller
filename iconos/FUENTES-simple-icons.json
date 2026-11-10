@@ -1,0 +1,2236 @@
+{
+  "collection": "https://github.com/simple-icons/simple-icons",
+  "version": "13.21.0",
+  "icons": {
+    "academia": {
+      "title": "Academia",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/academia.svg",
+      "brand_source": "https://www.academia.edu",
+      "brand_license": null,
+      "hex": "41454A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "acer": {
+      "title": "Acer",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/acer.svg",
+      "brand_source": "https://www.acer.com",
+      "brand_license": null,
+      "hex": "83B81A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "adblock": {
+      "title": "AdBlock",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/adblock.svg",
+      "brand_source": "https://getadblock.com",
+      "brand_license": null,
+      "hex": "F40D12",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "adblockplus": {
+      "title": "Adblock Plus",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/adblockplus.svg",
+      "brand_source": "https://adblockplus.org",
+      "brand_license": null,
+      "hex": "C70D2C",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "adguard": {
+      "title": "AdGuard",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/adguard.svg",
+      "brand_source": "https://adguard.com/en/media-materials.html",
+      "brand_license": null,
+      "hex": "68BC71",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "adobe": {
+      "title": "Adobe",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/adobe.svg",
+      "brand_source": "https://www.adobe.com",
+      "brand_license": null,
+      "hex": "FF0000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "adobeacrobatreader": {
+      "title": "Adobe Acrobat Reader",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/adobeacrobatreader.svg",
+      "brand_source": "https://acrobat.adobe.com",
+      "brand_license": null,
+      "hex": "EC1C24",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "adobeaftereffects": {
+      "title": "Adobe After Effects",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/adobeaftereffects.svg",
+      "brand_source": "https://www.adobe.com/creativecloud.html",
+      "brand_license": null,
+      "hex": "9999FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "adobeaudition": {
+      "title": "Adobe Audition",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/adobeaudition.svg",
+      "brand_source": "https://www.adobe.com/creativecloud.html",
+      "brand_license": null,
+      "hex": "9999FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "adobedreamweaver": {
+      "title": "Adobe Dreamweaver",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/adobedreamweaver.svg",
+      "brand_source": "https://www.adobe.com/products/catalog.html",
+      "brand_license": null,
+      "hex": "FF61F6",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "adobeindesign": {
+      "title": "Adobe InDesign",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/adobeindesign.svg",
+      "brand_source": "https://www.adobe.com/creativecloud.html",
+      "brand_license": null,
+      "hex": "FF3366",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "adobelightroomclassic": {
+      "title": "Adobe Lightroom Classic",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/adobelightroomclassic.svg",
+      "brand_source": "https://www.adobe.com/creativecloud.html",
+      "brand_license": null,
+      "hex": "31A8FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "affinity": {
+      "title": "Affinity",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/affinity.svg",
+      "brand_source": "https://affinity.serif.com",
+      "brand_license": null,
+      "hex": "222324",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "amd": {
+      "title": "AMD",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/amd.svg",
+      "brand_source": "https://www.amd.com",
+      "brand_license": null,
+      "hex": "ED1C24",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "anaconda": {
+      "title": "Anaconda",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/anaconda.svg",
+      "brand_source": "https://www.anaconda.com",
+      "brand_license": null,
+      "hex": "44A833",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "androidstudio": {
+      "title": "Android Studio",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/androidstudio.svg",
+      "brand_source": "https://developer.android.com/studio",
+      "brand_license": null,
+      "hex": "3DDC84",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "anydesk": {
+      "title": "AnyDesk",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/anydesk.svg",
+      "brand_source": "https://anydesk.com",
+      "brand_license": null,
+      "hex": "EF443B",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "apachenetbeanside": {
+      "title": "Apache NetBeans IDE",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/apachenetbeanside.svg",
+      "brand_source": "https://apache.org/logos",
+      "brand_license": {
+        "type": "Apache-2.0"
+      },
+      "hex": "1B6AC6",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "apacheopenoffice": {
+      "title": "Apache OpenOffice",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/apacheopenoffice.svg",
+      "brand_source": "https://apache.org/logos",
+      "brand_license": {
+        "type": "Apache-2.0"
+      },
+      "hex": "0E85CD",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "arcgis": {
+      "title": "ArcGIS",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/arcgis.svg",
+      "brand_source": "https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview",
+      "brand_license": null,
+      "hex": "2C7AC3",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "archicad": {
+      "title": "Archicad",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/archicad.svg",
+      "brand_source": "https://graphisoft.com/contact-us/press-relations#/documents/archicad-logo-98604",
+      "brand_license": null,
+      "hex": "2D50A5",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "asana": {
+      "title": "Asana",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/asana.svg",
+      "brand_source": "https://asana.com/brand",
+      "brand_license": null,
+      "hex": "F06A6A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "asus": {
+      "title": "ASUS",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/asus.svg",
+      "brand_source": "https://www.asus.com",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "atari": {
+      "title": "Atari",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/atari.svg",
+      "brand_source": "https://atarivcs.com",
+      "brand_license": null,
+      "hex": "E4202E",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "autodesk": {
+      "title": "Autodesk",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/autodesk.svg",
+      "brand_source": "https://brand.autodesk.com/brand-system/logo",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "autodeskrevit": {
+      "title": "Autodesk Revit",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/autodeskrevit.svg",
+      "brand_source": "https://www.autodesk.com/products/revit",
+      "brand_license": null,
+      "hex": "186BFF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "autohotkey": {
+      "title": "AutoHotkey",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/autohotkey.svg",
+      "brand_source": "https://www.autohotkey.com",
+      "brand_license": null,
+      "hex": "334455",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "autoit": {
+      "title": "AutoIt",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/autoit.svg",
+      "brand_source": "https://www.autoitscript.com",
+      "brand_license": null,
+      "hex": "5D83AC",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "avast": {
+      "title": "Avast",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/avast.svg",
+      "brand_source": "https://press.avast.com/media-materials#logos-and-brand-guidelines",
+      "brand_license": null,
+      "hex": "FF7800",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "avira": {
+      "title": "Avira",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/avira.svg",
+      "brand_source": "https://www.avira.com/en/media-library",
+      "brand_license": null,
+      "hex": "E02027",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "bamboo": {
+      "title": "Bamboo",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/bamboo.svg",
+      "brand_source": "https://www.atlassian.design/guidelines/marketing/resources/logo-files",
+      "brand_license": null,
+      "hex": "0052CC",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "basicattentiontoken": {
+      "title": "Basic Attention Token",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/basicattentiontoken.svg",
+      "brand_source": "https://brave.com/media-assets",
+      "brand_license": null,
+      "hex": "80247B",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "battledotnet": {
+      "title": "Battle.net",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/battledotnet.svg",
+      "brand_source": "https://battle.net",
+      "brand_license": null,
+      "hex": "4381C3",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "bitdefender": {
+      "title": "Bitdefender",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/bitdefender.svg",
+      "brand_source": "https://brand.bitdefender.com",
+      "brand_license": null,
+      "hex": "ED1C24",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "bittorrent": {
+      "title": "BitTorrent",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/bittorrent.svg",
+      "brand_source": "https://www.bittorrent.com/products",
+      "brand_license": null,
+      "hex": "050505",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "blackberry": {
+      "title": "Blackberry",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/blackberry.svg",
+      "brand_source": "https://www.blackberry.com",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "boost": {
+      "title": "Boost",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/boost.svg",
+      "brand_source": "https://www.boostmobile.com",
+      "brand_license": null,
+      "hex": "F7901E",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "bosch": {
+      "title": "Bosch",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/bosch.svg",
+      "brand_source": "https://www.bosch.de",
+      "brand_license": null,
+      "hex": "EA0016",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "bose": {
+      "title": "Bose",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/bose.svg",
+      "brand_source": "https://www.bose.com",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "broadcom": {
+      "title": "Broadcom",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/broadcom.svg",
+      "brand_source": "https://www.broadcom.com/support",
+      "brand_license": {
+        "type": "custom",
+        "url": "https://logorequest.broadcom.com/Home.aspx"
+      },
+      "hex": "E31837",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "bruno": {
+      "title": "Bruno",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/bruno.svg",
+      "brand_source": "https://www.usebruno.com",
+      "brand_license": null,
+      "hex": "F4AA41",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "burpsuite": {
+      "title": "Burp Suite",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/burpsuite.svg",
+      "brand_source": "https://portswigger.net",
+      "brand_license": null,
+      "hex": "FF6633",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "caffeine": {
+      "title": "Caffeine",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/caffeine.svg",
+      "brand_source": "https://www.caffeine.tv",
+      "brand_license": null,
+      "hex": "0000FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "canva": {
+      "title": "Canva",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/canva.svg",
+      "brand_source": "https://www.canva.com",
+      "brand_license": null,
+      "hex": "00C4CC",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "ccleaner": {
+      "title": "CCleaner",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/ccleaner.svg",
+      "brand_source": "https://www.ccleaner.com",
+      "brand_license": null,
+      "hex": "CB2D29",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "chatbot": {
+      "title": "ChatBot",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/chatbot.svg",
+      "brand_source": "https://chatbot.design",
+      "brand_license": null,
+      "hex": "0066FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "chocolatey": {
+      "title": "Chocolatey",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/chocolatey.svg",
+      "brand_source": "https://chocolatey.org/media-kit",
+      "brand_license": null,
+      "hex": "80B5E3",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "cinema4d": {
+      "title": "Cinema 4D",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/cinema4d.svg",
+      "brand_source": "https://www.maxon.net/en/about-maxon/branding",
+      "brand_license": null,
+      "hex": "011A6A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "cisco": {
+      "title": "Cisco",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/cisco.svg",
+      "brand_source": "https://www.cisco.com",
+      "brand_license": null,
+      "hex": "1BA0D7",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "citrix": {
+      "title": "Citrix",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/citrix.svg",
+      "brand_source": "https://brand.citrix.com",
+      "brand_license": null,
+      "hex": "452170",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "cmake": {
+      "title": "CMake",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/cmake.svg",
+      "brand_source": "https://www.kitware.com/platforms/",
+      "brand_license": null,
+      "hex": "064F8C",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "codeium": {
+      "title": "Codeium",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/codeium.svg",
+      "brand_source": "https://github.com/Exafunction/codeium.vim/blob/e03c410a7673dbbe7f64afbc9a08f423363ded81/codeium-simple-logo.svg",
+      "brand_license": null,
+      "hex": "09B6A2",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "composer": {
+      "title": "Composer",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/composer.svg",
+      "brand_source": "https://getcomposer.org",
+      "brand_license": null,
+      "hex": "885630",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "containerd": {
+      "title": "containerd",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/containerd.svg",
+      "brand_source": "https://cncf-branding.netlify.app/projects/containerd/",
+      "brand_license": null,
+      "hex": "575757",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "corsair": {
+      "title": "Corsair",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/corsair.svg",
+      "brand_source": "https://www.corsair.com",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "counterstrike": {
+      "title": "Counter-Strike",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/counterstrike.svg",
+      "brand_source": "https://www.counter-strike.net",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "creality": {
+      "title": "Creality",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/creality.svg",
+      "brand_source": "https://www.creality.com",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "curl": {
+      "title": "curl",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/curl.svg",
+      "brand_source": "https://curl.haxx.se/logo/",
+      "brand_license": null,
+      "hex": "073551",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "dash": {
+      "title": "Dash",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/dash.svg",
+      "brand_source": "https://www.dash.org/brand-assets/",
+      "brand_license": null,
+      "hex": "008DE4",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "datagrip": {
+      "title": "DataGrip",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/datagrip.svg",
+      "brand_source": "https://www.jetbrains.com/company/brand/logos/",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "davinciresolve": {
+      "title": "DaVinci Resolve",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/davinciresolve.svg",
+      "brand_source": "https://www.blackmagicdesign.com/media/images/davinci-resolve-logo-square",
+      "brand_license": null,
+      "hex": "233A51",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "dbeaver": {
+      "title": "DBeaver",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/dbeaver.svg",
+      "brand_source": "https://dbeaver.com",
+      "brand_license": null,
+      "hex": "382923",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "deepl": {
+      "title": "DeepL",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/deepl.svg",
+      "brand_source": "https://www.deepl.com/press.html",
+      "brand_license": null,
+      "hex": "0F2B46",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "deno": {
+      "title": "Deno",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/deno.svg",
+      "brand_source": "https://github.com/denoland/docs/blob/5dee713844c7447f80acd4093caa9d350d80bf36/static/img/logo.svg",
+      "brand_license": {
+        "type": "MIT"
+      },
+      "hex": "70FFAF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "dotnet": {
+      "title": ".NET",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/dotnet.svg",
+      "brand_source": "https://github.com/dotnet/brand/blob/defe0408e765b48223a434a0d9a94213edc062f8/logo/dotnet-logo.svg",
+      "brand_license": null,
+      "hex": "512BD4",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "doxygen": {
+      "title": "Doxygen",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/doxygen.svg",
+      "brand_source": "https://github.com/doxygen/doxygen/blob/2e73e6a53abe00a57b7eb0ea5ed6474baf4ebab7/templates/html/doxygen.svg",
+      "brand_license": null,
+      "hex": "2C4AA8",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "duckdb": {
+      "title": "DuckDB",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/duckdb.svg",
+      "brand_source": "https://duckdb.org",
+      "brand_license": null,
+      "hex": "FFF000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "electron": {
+      "title": "Electron",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/electron.svg",
+      "brand_source": "https://www.electronjs.org",
+      "brand_license": null,
+      "hex": "47848F",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "elementary": {
+      "title": "elementary",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/elementary.svg",
+      "brand_source": "https://elementary.io/brand",
+      "brand_license": null,
+      "hex": "64BAFF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "elgato": {
+      "title": "Elgato",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/elgato.svg",
+      "brand_source": "https://www.elgato.com/en/media-room",
+      "brand_license": null,
+      "hex": "101010",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "embarcadero": {
+      "title": "Embarcadero",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/embarcadero.svg",
+      "brand_source": "https://www.embarcadero.com/news/logo",
+      "brand_license": null,
+      "hex": "ED1F35",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "epel": {
+      "title": "EPEL",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/epel.svg",
+      "brand_source": "https://fedoraproject.org/wiki/EPEL",
+      "brand_license": null,
+      "hex": "FC0000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "epson": {
+      "title": "Epson",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/epson.svg",
+      "brand_source": "https://global.epson.com/IR/library/",
+      "brand_license": null,
+      "hex": "003399",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "erlang": {
+      "title": "Erlang",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/erlang.svg",
+      "brand_source": "https://github.com/erlang/erlide_eclipse/blob/99d1d61fde8e32ef1630ca0e1b05a6822b3d6489/meta/media/erlang-logo.svg",
+      "brand_license": null,
+      "hex": "A90533",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "evernote": {
+      "title": "Evernote",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/evernote.svg",
+      "brand_source": "https://evernote.com/about-us",
+      "brand_license": null,
+      "hex": "00A82D",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "express": {
+      "title": "Express",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/express.svg",
+      "brand_source": "https://github.com/openjs-foundation/artwork/blob/ac43961d1157f973c54f210cf5e0c9c45e3d3f10/projects/express/express-icon-black.svg",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "expressvpn": {
+      "title": "ExpressVPN",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/expressvpn.svg",
+      "brand_source": "https://www.expressvpn.com/press",
+      "brand_license": null,
+      "hex": "DA3940",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "falcon": {
+      "title": "Falcon",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/falcon.svg",
+      "brand_source": "https://falconframework.org",
+      "brand_license": null,
+      "hex": "F0AD4E",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "ffmpeg": {
+      "title": "FFmpeg",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/ffmpeg.svg",
+      "brand_source": "https://commons.wikimedia.org/wiki/File:FFmpeg_Logo_new.svg",
+      "brand_license": null,
+      "hex": "007808",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "files": {
+      "title": "Files",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/files.svg",
+      "brand_source": "https://files.google.com",
+      "brand_license": null,
+      "hex": "4285F4",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "fing": {
+      "title": "Fing",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/fing.svg",
+      "brand_source": "https://www.fing.com",
+      "brand_license": null,
+      "hex": "009AEE",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "flatpak": {
+      "title": "Flatpak",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/flatpak.svg",
+      "brand_source": "https://flatpak.org/press",
+      "brand_license": {
+        "type": "CC-BY-3.0"
+      },
+      "hex": "4A90D9",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "flyway": {
+      "title": "Flyway",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/flyway.svg",
+      "brand_source": "https://github.com/flyway/flywaydb.org/blob/8a7923cb9ead016442d4c5caf2e8ba5a9bfad5cf/assets/logo/flyway-logo.png",
+      "brand_license": null,
+      "hex": "CC0200",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "foobar2000": {
+      "title": "foobar2000",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/foobar2000.svg",
+      "brand_source": "https://hydrogenaud.io/index.php?topic=55604.0",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "fortinet": {
+      "title": "Fortinet",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/fortinet.svg",
+      "brand_source": "https://www.fortinet.com",
+      "brand_license": null,
+      "hex": "EE3124",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "fujifilm": {
+      "title": "Fujifilm",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/fujifilm.svg",
+      "brand_source": "https://www.fujifilm.com",
+      "brand_license": null,
+      "hex": "FB0020",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "fujitsu": {
+      "title": "Fujitsu",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/fujitsu.svg",
+      "brand_source": "https://www.fujitsu.com/global/about/brandmanagement/logo/",
+      "brand_license": null,
+      "hex": "FF0000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "garmin": {
+      "title": "Garmin",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/garmin.svg",
+      "brand_source": "https://creative.garmin.com/styleguide/logo/",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "gdal": {
+      "title": "GDAL",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/gdal.svg",
+      "brand_source": "https://www.osgeo.org/projects/gdal/",
+      "brand_license": null,
+      "hex": "5CAE58",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "genius": {
+      "title": "Genius",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/genius.svg",
+      "brand_source": "https://genius.com",
+      "brand_license": null,
+      "hex": "FFFF64",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "gnome": {
+      "title": "GNOME",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/gnome.svg",
+      "brand_source": "https://wiki.gnome.org/Engagement/BrandGuidelines",
+      "brand_license": null,
+      "hex": "4A86CF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "gnuprivacyguard": {
+      "title": "GNU Privacy Guard",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/gnuprivacyguard.svg",
+      "brand_source": "https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git;a=tree;f=artwork/icons",
+      "brand_license": {
+        "type": "GPL-3.0-or-later"
+      },
+      "hex": "0093DD",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "godotengine": {
+      "title": "Godot Engine",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/godotengine.svg",
+      "brand_source": "https://godotengine.org/press",
+      "brand_license": {
+        "type": "CC-BY-4.0"
+      },
+      "hex": "478CBF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "googleearth": {
+      "title": "Google Earth",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/googleearth.svg",
+      "brand_source": "https://earth.google.com/web/",
+      "brand_license": null,
+      "hex": "4285F4",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "gotomeeting": {
+      "title": "GoToMeeting",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/gotomeeting.svg",
+      "brand_source": "https://www.gotomeeting.com",
+      "brand_license": null,
+      "hex": "F68D2E",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "grammarly": {
+      "title": "Grammarly",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/grammarly.svg",
+      "brand_source": "https://www.grammarly.com/media-assets",
+      "brand_license": null,
+      "hex": "027E6F",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "gstreamer": {
+      "title": "GStreamer",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/gstreamer.svg",
+      "brand_source": "https://gstreamer.freedesktop.org/artwork",
+      "brand_license": null,
+      "hex": "FF3131",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "helium": {
+      "title": "Helium",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/helium.svg",
+      "brand_source": "https://www.helium.com",
+      "brand_license": null,
+      "hex": "0ACF83",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "helix": {
+      "title": "Helix",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/helix.svg",
+      "brand_source": "https://helix-editor.com",
+      "brand_license": null,
+      "hex": "281733",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "hermes": {
+      "title": "Hermes",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/hermes.svg",
+      "brand_source": "https://www.myhermes.de/assets/touchicons/favicon.svg",
+      "brand_license": null,
+      "hex": "0091CD",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "honor": {
+      "title": "Honor",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/honor.svg",
+      "brand_source": "https://www.hihonor.com",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "hp": {
+      "title": "HP",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/hp.svg",
+      "brand_source": "https://brandcentral.hp.com/us/en/elements/hp-logo.html",
+      "brand_license": null,
+      "hex": "0096D6",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "htop": {
+      "title": "htop",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/htop.svg",
+      "brand_source": "https://github.com/htop-dev/htop/blob/03d5e4746f53bd07daf68638d714a7fec336297b/htop.svg",
+      "brand_license": null,
+      "hex": "009020",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "huawei": {
+      "title": "Huawei",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/huawei.svg",
+      "brand_source": "https://e.huawei.com/ph/material/partner/0a72728b864949c48b22106454352483",
+      "brand_license": null,
+      "hex": "FF0000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "hyperx": {
+      "title": "HyperX",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/hyperx.svg",
+      "brand_source": "https://ca.hyperx.com/cdn/shop/files/image_placeholder.svg",
+      "brand_license": null,
+      "hex": "E21836",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "icon": {
+      "title": "ICON",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/icon.svg",
+      "brand_source": "https://icon.foundation/contents/resrce/media",
+      "brand_license": null,
+      "hex": "31B8BB",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "insomnia": {
+      "title": "Insomnia",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/insomnia.svg",
+      "brand_source": "https://insomnia.rest",
+      "brand_license": null,
+      "hex": "4000BF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "insta360": {
+      "title": "Insta360",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/insta360.svg",
+      "brand_source": "https://www.insta360.com/press/logo",
+      "brand_license": null,
+      "hex": "FFEE00",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "intel": {
+      "title": "Intel",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/intel.svg",
+      "brand_source": "https://www.intel.com/content/www/us/en/newsroom/resources/press-kits-intel-overview.html",
+      "brand_license": null,
+      "hex": "0071C5",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "intellijidea": {
+      "title": "IntelliJ IDEA",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/intellijidea.svg",
+      "brand_source": "https://www.jetbrains.com/idea/",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "interbase": {
+      "title": "Interbase",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/interbase.svg",
+      "brand_source": "https://www.embarcadero.com/news/logo",
+      "brand_license": null,
+      "hex": "E62431",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "itunes": {
+      "title": "iTunes",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/itunes.svg",
+      "brand_source": "https://commons.wikimedia.org/wiki/File:ITunes_logo.svg",
+      "brand_license": null,
+      "hex": "FB5BC5",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "javascript": {
+      "title": "JavaScript",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/javascript.svg",
+      "brand_source": "https://github.com/voodootikigod/logo.js/blob/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg",
+      "brand_license": {
+        "type": "MIT"
+      },
+      "hex": "F7DF1E",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "json": {
+      "title": "JSON",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/json.svg",
+      "brand_source": "https://commons.wikimedia.org/wiki/File:JSON_vector_logo.svg",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "kakaotalk": {
+      "title": "KakaoTalk",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/kakaotalk.svg",
+      "brand_source": "https://commons.wikimedia.org/wiki/File:KakaoTalk_logo.svg",
+      "brand_license": null,
+      "hex": "FFCD00",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "kaspersky": {
+      "title": "Kaspersky",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/kaspersky.svg",
+      "brand_source": "https://www.kaspersky.com",
+      "brand_license": null,
+      "hex": "006D5C",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "kdenlive": {
+      "title": "Kdenlive",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/kdenlive.svg",
+      "brand_source": "https://kdenlive.org/en/trademark-logo/",
+      "brand_license": null,
+      "hex": "527EB2",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "kingstontechnology": {
+      "title": "Kingston Technology",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/kingstontechnology.svg",
+      "brand_source": "https://www.kingston.com",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "known": {
+      "title": "Known",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/known.svg",
+      "brand_source": "https://github.com/idno/known/tree/22c4935b57a61d94d2508651128b4f828f864989/gfx/logos",
+      "brand_license": null,
+      "hex": "333333",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "kodak": {
+      "title": "Kodak",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/kodak.svg",
+      "brand_source": "https://www.kodak.com",
+      "brand_license": null,
+      "hex": "ED0000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "kofax": {
+      "title": "Kofax",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/kofax.svg",
+      "brand_source": "https://www.kofax.com",
+      "brand_license": null,
+      "hex": "00558C",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "krita": {
+      "title": "Krita",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/krita.svg",
+      "brand_source": "https://krita.org/en/about/press/",
+      "brand_license": null,
+      "hex": "3BABFF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "kyocera": {
+      "title": "Kyocera",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/kyocera.svg",
+      "brand_source": "https://uk.kyocera.com",
+      "brand_license": null,
+      "hex": "DF0522",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "laragon": {
+      "title": "Laragon",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/laragon.svg",
+      "brand_source": "https://laragon.org",
+      "brand_license": null,
+      "hex": "0E83CD",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "laravel": {
+      "title": "Laravel",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/laravel.svg",
+      "brand_source": "https://github.com/laravel/art/tree/5a8325b064634b900f25dbb6f1cafd888b2d2211",
+      "brand_license": null,
+      "hex": "FF2D20",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "lenovo": {
+      "title": "Lenovo",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/lenovo.svg",
+      "brand_source": "https://news.lenovo.com/press-kits/",
+      "brand_license": null,
+      "hex": "E2231A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "lens": {
+      "title": "Lens",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/lens.svg",
+      "brand_source": "https://github.com/lensapp/lens/blob/3cc12d9599b655a366e7a34c356d2a84654b2466/docs/img/lens-logo-icon.svg",
+      "brand_license": null,
+      "hex": "3D90CE",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "less": {
+      "title": "Less",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/less.svg",
+      "brand_source": "https://github.com/less/logo/blob/c9c10c328cfc00071e92443934b35e389310abf8/less_logo.ai",
+      "brand_license": null,
+      "hex": "1D365D",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "libuv": {
+      "title": "libuv",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/libuv.svg",
+      "brand_source": "https://github.com/libuv/libuv/blob/e4087dedf837f415056a45a838f639a3d9dc3ced/img/logos.svg",
+      "brand_license": null,
+      "hex": "403C3D",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "lightburn": {
+      "title": "LightBurn",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/lightburn.svg",
+      "brand_source": "https://lightburnsoftware.com",
+      "brand_license": null,
+      "hex": "57182D",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "line": {
+      "title": "LINE",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/line.svg",
+      "brand_source": "https://line.me/en/logo",
+      "brand_license": null,
+      "hex": "00C300",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "llvm": {
+      "title": "LLVM",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/llvm.svg",
+      "brand_source": "https://llvm.org/Logo.html",
+      "brand_license": null,
+      "hex": "262D3A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "local": {
+      "title": "Local",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/local.svg",
+      "brand_source": "https://localwp.com",
+      "brand_license": null,
+      "hex": "51BB7B",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "logitech": {
+      "title": "Logitech",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/logitech.svg",
+      "brand_source": "https://www.logitech.com/en-us/pr/library",
+      "brand_license": null,
+      "hex": "00B8FC",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "logitechg": {
+      "title": "Logitech G",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/logitechg.svg",
+      "brand_source": "https://www.logitechg.com",
+      "brand_license": null,
+      "hex": "00B8FC",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "logstash": {
+      "title": "Logstash",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/logstash.svg",
+      "brand_source": "https://www.elastic.co/brand",
+      "brand_license": null,
+      "hex": "005571",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "magic": {
+      "title": "Magic",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/magic.svg",
+      "brand_source": "https://magic.link/brand-assets",
+      "brand_license": null,
+      "hex": "6851FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "make": {
+      "title": "Make",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/make.svg",
+      "brand_source": "https://www.make.com/en/press",
+      "brand_license": null,
+      "hex": "6D00CC",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "malwarebytes": {
+      "title": "Malwarebytes",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/malwarebytes.svg",
+      "brand_source": "https://www.malwarebytes.com",
+      "brand_license": null,
+      "hex": "0D3ECC",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "mamp": {
+      "title": "MAMP",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/mamp.svg",
+      "brand_source": "https://www.mamp.info/en/mamp/mac/",
+      "brand_license": null,
+      "hex": "02749C",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "mcafee": {
+      "title": "McAfee",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/mcafee.svg",
+      "brand_source": "https://www.mcafee.com/enterprise/en-us/about/newsroom/product-images.html",
+      "brand_license": null,
+      "hex": "C01818",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "mediatek": {
+      "title": "MediaTek",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/mediatek.svg",
+      "brand_source": "https://corp.mediatek.com/news-events/press-library",
+      "brand_license": null,
+      "hex": "EC9430",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "mendeley": {
+      "title": "Mendeley",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/mendeley.svg",
+      "brand_source": "https://www.mendeley.com",
+      "brand_license": null,
+      "hex": "9D1620",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "mercurial": {
+      "title": "Mercurial",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/mercurial.svg",
+      "brand_source": "https://www.mercurial-scm.org/hg-logo/",
+      "brand_license": {
+        "type": "GPL-2.0-or-later"
+      },
+      "hex": "999999",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "messenger": {
+      "title": "Messenger",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/messenger.svg",
+      "brand_source": "https://about.meta.com/brand/resources/messenger/messenger-brand",
+      "brand_license": null,
+      "hex": "00B2FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "miro": {
+      "title": "Miro",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/miro.svg",
+      "brand_source": "https://miro.com",
+      "brand_license": null,
+      "hex": "050038",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "mocha": {
+      "title": "Mocha",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/mocha.svg",
+      "brand_source": "https://mochajs.org",
+      "brand_license": null,
+      "hex": "8D6748",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "motorola": {
+      "title": "Motorola",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/motorola.svg",
+      "brand_source": "https://motorola-global-portal-de.custhelp.com",
+      "brand_license": null,
+      "hex": "E1140A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "musescore": {
+      "title": "MuseScore",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/musescore.svg",
+      "brand_source": "https://musescore.org/en/about/logos-and-graphics",
+      "brand_license": null,
+      "hex": "1A70B8",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "nano": {
+      "title": "Nano",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/nano.svg",
+      "brand_source": "https://nano.org/resources",
+      "brand_license": null,
+      "hex": "4A90E2",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "naver": {
+      "title": "Naver",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/naver.svg",
+      "brand_source": "https://developers.naver.com/docs/login/bi/bi.md",
+      "brand_license": null,
+      "hex": "03C75A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "neovim": {
+      "title": "Neovim",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/neovim.svg",
+      "brand_source": "https://neovim.io",
+      "brand_license": {
+        "type": "CC-BY-SA-3.0"
+      },
+      "hex": "57A143",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "ngrok": {
+      "title": "ngrok",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/ngrok.svg",
+      "brand_source": "https://ngrok.com",
+      "brand_license": null,
+      "hex": "1F1E37",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "norton": {
+      "title": "Norton",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/norton.svg",
+      "brand_source": "https://us.norton.com",
+      "brand_license": null,
+      "hex": "FFE01A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "nuget": {
+      "title": "NuGet",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/nuget.svg",
+      "brand_source": "https://github.com/NuGet/Media/blob/89f7c87245e52e8ce91d94c0a47f44c6576e3a0d/Images/MainLogo/Vector/nuget.svg",
+      "brand_license": null,
+      "hex": "004880",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "numpy": {
+      "title": "NumPy",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/numpy.svg",
+      "brand_source": "https://numpy.org/press-kit/",
+      "brand_license": null,
+      "hex": "013243",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "nvidia": {
+      "title": "NVIDIA",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/nvidia.svg",
+      "brand_source": "https://www.nvidia.com/en-us",
+      "brand_license": null,
+      "hex": "76B900",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "obsstudio": {
+      "title": "OBS Studio",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/obsstudio.svg",
+      "brand_source": "https://commons.wikimedia.org/wiki/File:OBS.svg",
+      "brand_license": null,
+      "hex": "302E31",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "ocaml": {
+      "title": "OCaml",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/ocaml.svg",
+      "brand_source": "https://ocaml.org/logo",
+      "brand_license": {
+        "type": "Unlicense"
+      },
+      "hex": "EC6813",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "opencv": {
+      "title": "OpenCV",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/opencv.svg",
+      "brand_source": "https://opencv.org/resources/media-kit/",
+      "brand_license": null,
+      "hex": "5C3EE8",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "openscad": {
+      "title": "OpenSCAD",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/openscad.svg",
+      "brand_source": "https://commons.wikimedia.org/wiki/File:Openscad.svg",
+      "brand_license": null,
+      "hex": "F9D72C",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "openssl": {
+      "title": "OpenSSL",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/openssl.svg",
+      "brand_source": "https://www.openssl.org",
+      "brand_license": null,
+      "hex": "721412",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "opentext": {
+      "title": "OpenText",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/opentext.svg",
+      "brand_source": "https://www.opentext.com",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "operagx": {
+      "title": "Opera GX",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/operagx.svg",
+      "brand_source": "https://brand.opera.com/1472-2/opera-logos/",
+      "brand_license": null,
+      "hex": "EE2950",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "origin": {
+      "title": "Origin",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/origin.svg",
+      "brand_source": "https://www.origin.com/gbr/en-us/store",
+      "brand_license": null,
+      "hex": "F56C2D",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "osu": {
+      "title": "osu!",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/osu.svg",
+      "brand_source": "https://osu.ppy.sh/wiki/Brand_identity_guidelines",
+      "brand_license": null,
+      "hex": "FF66AA",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "oxygen": {
+      "title": "Oxygen",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/oxygen.svg",
+      "brand_source": "https://oxygenbuilder.com",
+      "brand_license": null,
+      "hex": "3A209E",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "perl": {
+      "title": "Perl",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/perl.svg",
+      "brand_source": "https://github.com/tpf/marketing-materials/blob/6765c6fd71bc5b123d6c1a77b86e08cdd6376078/images/onion-logo/tpf-logo-onion.svg",
+      "brand_license": null,
+      "hex": "39457E",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "perplexity": {
+      "title": "Perplexity",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/perplexity.svg",
+      "brand_source": "https://www.perplexity.ai",
+      "brand_license": null,
+      "hex": "1FB8CD",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "photon": {
+      "title": "Photon",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/photon.svg",
+      "brand_source": "https://www.photonengine.com",
+      "brand_license": null,
+      "hex": "004480",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "phpstorm": {
+      "title": "PhpStorm",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/phpstorm.svg",
+      "brand_source": "https://www.jetbrains.com/company/brand/logos/",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "poly": {
+      "title": "Poly",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/poly.svg",
+      "brand_source": "https://www.poly.com",
+      "brand_license": null,
+      "hex": "EB3C00",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "postman": {
+      "title": "Postman",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/postman.svg",
+      "brand_source": "https://www.getpostman.com/resources/media-assets/",
+      "brand_license": null,
+      "hex": "FF6C37",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "prezi": {
+      "title": "Prezi",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/prezi.svg",
+      "brand_source": "https://prezi.com/press/kit/",
+      "brand_license": null,
+      "hex": "3181FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "primevideo": {
+      "title": "Prime Video",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/primevideo.svg",
+      "brand_source": "https://videodirect.amazon.com/home/help?topicId=GT7W7GJBTDJW6Z8W#G8T2JFQZXPMHJLRZ",
+      "brand_license": null,
+      "hex": "1F2E3E",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "progress": {
+      "title": "Progress",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/progress.svg",
+      "brand_source": "https://www.progress.com",
+      "brand_license": null,
+      "hex": "5CE500",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "proton": {
+      "title": "Proton",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/proton.svg",
+      "brand_source": "https://proton.me/media/kit",
+      "brand_license": null,
+      "hex": "6D4AFF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "puppet": {
+      "title": "Puppet",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/puppet.svg",
+      "brand_source": "https://puppet.com/company/press-room/",
+      "brand_license": null,
+      "hex": "FFAE1A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "pycharm": {
+      "title": "PyCharm",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/pycharm.svg",
+      "brand_source": "https://www.jetbrains.com/company/brand/logos/",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "qgis": {
+      "title": "Qgis",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/qgis.svg",
+      "brand_source": "https://www.qgis.org/en/site/getinvolved/styleguide.html",
+      "brand_license": null,
+      "hex": "589632",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "qualcomm": {
+      "title": "Qualcomm",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/qualcomm.svg",
+      "brand_source": "https://www.qualcomm.com",
+      "brand_license": null,
+      "hex": "3253DC",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "qualys": {
+      "title": "Qualys",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/qualys.svg",
+      "brand_source": "https://www.qualys.com",
+      "brand_license": null,
+      "hex": "ED2E26",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "quarto": {
+      "title": "Quarto",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/quarto.svg",
+      "brand_source": "https://github.com/quarto-dev/quarto-web/blob/fd2a993e3274b3433a0088d5daf85080bdf68d71/quarto-icon.svg",
+      "brand_license": null,
+      "hex": "39729E",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "quest": {
+      "title": "Quest",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/quest.svg",
+      "brand_source": "https://brand.quest.com/quest/questlogos",
+      "brand_license": null,
+      "hex": "FB4F14",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "quicklook": {
+      "title": "QuickLook",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/quicklook.svg",
+      "brand_source": "https://github.com/QL-Win/QuickLook/blob/f726841d99bbceafd5399e5777b4dba302bf1e51/QuickLook/Resources/app.svg",
+      "brand_license": {
+        "type": "GPL-3.0-or-later"
+      },
+      "hex": "0078D3",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "quicktime": {
+      "title": "QuickTime",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/quicktime.svg",
+      "brand_source": "https://support.apple.com/quicktime",
+      "brand_license": null,
+      "hex": "1C69F0",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "radstudio": {
+      "title": "RAD Studio",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/radstudio.svg",
+      "brand_source": "https://www.embarcadero.com/news/logo",
+      "brand_license": null,
+      "hex": "E62431",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "rainmeter": {
+      "title": "Rainmeter",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/rainmeter.svg",
+      "brand_source": "https://github.com/rainmeter/rainmeter-www/blob/867fd905fda8d1b1083730adcb7f49f1775cb5b0/source/img/logo_blue.ai",
+      "brand_license": null,
+      "hex": "19519B",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "rapid": {
+      "title": "Rapid",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/rapid.svg",
+      "brand_source": "https://rapidapi.com",
+      "brand_license": null,
+      "hex": "0055DA",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "react": {
+      "title": "React",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/react.svg",
+      "brand_source": "https://github.com/facebook/create-react-app/blob/282c03f9525fdf8061ffa1ec50dce89296d916bd/test/fixtures/relative-paths/src/logo.svg",
+      "brand_license": null,
+      "hex": "61DAFB",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "readme": {
+      "title": "ReadMe",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/readme.svg",
+      "brand_source": "https://readme.com",
+      "brand_license": null,
+      "hex": "018EF5",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "reason": {
+      "title": "Reason",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/reason.svg",
+      "brand_source": "https://github.com/reasonml/reasonml.github.io/blob/18dc62ad841f0def6551a65e41083c9d5784da93/website/static/img/reason.svg",
+      "brand_license": null,
+      "hex": "DD4B39",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "redragon": {
+      "title": "Redragon",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/redragon.svg",
+      "brand_source": "https://redragonshop.com",
+      "brand_license": null,
+      "hex": "E60012",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "relay": {
+      "title": "Relay",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/relay.svg",
+      "brand_source": "https://relay.dev",
+      "brand_license": null,
+      "hex": "F26B00",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "retroarch": {
+      "title": "RetroArch",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/retroarch.svg",
+      "brand_source": "https://github.com/libretro/RetroArch/blob/b01aabf7d1f025999ad0f7812e6e6816d011e631/media/retroarch.svg",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "rider": {
+      "title": "Rider",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/rider.svg",
+      "brand_source": "https://www.jetbrains.com/company/brand/logos/",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "rocket": {
+      "title": "Rocket",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/rocket.svg",
+      "brand_source": "https://rocket.rs",
+      "brand_license": null,
+      "hex": "D33847",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "ruby": {
+      "title": "Ruby",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/ruby.svg",
+      "brand_source": "https://www.ruby-lang.org/en/about/logo/",
+      "brand_license": {
+        "type": "CC-BY-SA-2.5"
+      },
+      "hex": "CC342D",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "rubygems": {
+      "title": "RubyGems",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/rubygems.svg",
+      "brand_source": "https://rubygems.org/pages/about",
+      "brand_license": null,
+      "hex": "E9573F",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "rust": {
+      "title": "Rust",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/rust.svg",
+      "brand_source": "https://www.rust-lang.org",
+      "brand_license": {
+        "type": "CC-BY-SA-4.0"
+      },
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "samsung": {
+      "title": "Samsung",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/samsung.svg",
+      "brand_source": "https://www.samsung.com/us/about-us/brand-identity/logo/",
+      "brand_license": null,
+      "hex": "1428A0",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "sandisk": {
+      "title": "SanDisk",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sandisk.svg",
+      "brand_source": "https://kb.sandisk.com",
+      "brand_license": null,
+      "hex": "ED1C24",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "scratch": {
+      "title": "Scratch",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/scratch.svg",
+      "brand_source": "https://github.com/LLK/scratch-link/blob/027e3754ba6db976495e905023d5ac5e730dccfc/Assets/Windows/SVG/Windows%20Tray%20400x400.svg",
+      "brand_license": null,
+      "hex": "4D97FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "sega": {
+      "title": "Sega",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sega.svg",
+      "brand_source": "https://commons.wikimedia.org/wiki/File:SEGA_logo.svg",
+      "brand_license": null,
+      "hex": "0089CF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "selenium": {
+      "title": "Selenium",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/selenium.svg",
+      "brand_source": "https://github.com/SeleniumHQ/heroku-selenium/blob/2f66891ba030d3aa1f36ab1748c52ba4fb4e057d/selenium-green.svg",
+      "brand_license": null,
+      "hex": "43B02A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "sennheiser": {
+      "title": "Sennheiser",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sennheiser.svg",
+      "brand_source": "https://sennheiser.com",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "session": {
+      "title": "Session",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/session.svg",
+      "brand_source": "https://getsession.org",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "shadow": {
+      "title": "Shadow",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/shadow.svg",
+      "brand_source": "https://shadow.tech",
+      "brand_license": null,
+      "hex": "0A0C0D",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "sharex": {
+      "title": "ShareX",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sharex.svg",
+      "brand_source": "https://getsharex.com/brand-assets",
+      "brand_license": null,
+      "hex": "2885F1",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "sketchup": {
+      "title": "SketchUp",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sketchup.svg",
+      "brand_source": "https://www.sketchup.com",
+      "brand_license": null,
+      "hex": "005F9E",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "slides": {
+      "title": "Slides",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/slides.svg",
+      "brand_source": "https://slides.com/about",
+      "brand_license": null,
+      "hex": "E4637C",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "smart": {
+      "title": "smart",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/smart.svg",
+      "brand_source": "https://global.smart.com",
+      "brand_license": null,
+      "hex": "D7E600",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "smartthings": {
+      "title": "SmartThings",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/smartthings.svg",
+      "brand_source": "https://www.smartthings.com/press-kit",
+      "brand_license": null,
+      "hex": "15BFFF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "solid": {
+      "title": "Solid",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/solid.svg",
+      "brand_source": "https://www.solidjs.com/media",
+      "brand_license": null,
+      "hex": "2C4F7C",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "sonicwall": {
+      "title": "SonicWall",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sonicwall.svg",
+      "brand_source": "https://brandfolder.com/sonicwall/sonicwall-external",
+      "brand_license": null,
+      "hex": "FF791A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "sourcetree": {
+      "title": "Sourcetree",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sourcetree.svg",
+      "brand_source": "https://atlassian.design/resources/logo-library",
+      "brand_license": null,
+      "hex": "0052CC",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "spotlight": {
+      "title": "Spotlight",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/spotlight.svg",
+      "brand_source": "https://www.spotlight.com",
+      "brand_license": null,
+      "hex": "352A71",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "sqlite": {
+      "title": "SQLite",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sqlite.svg",
+      "brand_source": "https://github.com/sqlite/sqlite/blob/43e862723ec680542ca6f608f9963c0993dd7324/art/sqlite370.eps",
+      "brand_license": null,
+      "hex": "003B57",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "stardock": {
+      "title": "Stardock",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/stardock.svg",
+      "brand_source": "https://www.stardock.com/press/stardock%20branding/",
+      "brand_license": null,
+      "hex": "004B8D",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "startpage": {
+      "title": "Startpage",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/startpage.svg",
+      "brand_source": "https://startpage.com/en/about-us",
+      "brand_license": null,
+      "hex": "6563FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "steelseries": {
+      "title": "Steelseries",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/steelseries.svg",
+      "brand_source": "https://techblog.steelseries.com/ux-guide/index.html",
+      "brand_license": null,
+      "hex": "FF5200",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "steinberg": {
+      "title": "Steinberg",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/steinberg.svg",
+      "brand_source": "https://new.steinberg.net/press/",
+      "brand_license": null,
+      "hex": "C90827",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "stellar": {
+      "title": "Stellar",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/stellar.svg",
+      "brand_source": "https://www.stellar.org/press",
+      "brand_license": null,
+      "hex": "7D00FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "streamlabs": {
+      "title": "Streamlabs",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/streamlabs.svg",
+      "brand_source": "https://streamlabs.com/about",
+      "brand_license": null,
+      "hex": "80F5D2",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "stremio": {
+      "title": "Stremio",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/stremio.svg",
+      "brand_source": "https://github.com/Stremio/stremio-brand/blob/3f3743087b11e81374cf943aaf1e041af1c97ee3/logos/SVG/stremio-logo-icon-only-fullcolor.svg",
+      "brand_license": null,
+      "hex": "685CEE",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "studio3t": {
+      "title": "Studio 3T",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/studio3t.svg",
+      "brand_source": "https://studio3t.com",
+      "brand_license": null,
+      "hex": "17AF66",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "sublimetext": {
+      "title": "Sublime Text",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sublimetext.svg",
+      "brand_source": "https://www.sublimetext.com",
+      "brand_license": null,
+      "hex": "FF9800",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "subtitleedit": {
+      "title": "Subtitle Edit",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/subtitleedit.svg",
+      "brand_source": "https://github.com/SubtitleEdit/subtitleedit/issues/61#issuecomment-1442100888",
+      "brand_license": null,
+      "hex": "CC2424",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "subversion": {
+      "title": "Subversion",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/subversion.svg",
+      "brand_source": "https://subversion.apache.org/logo",
+      "brand_license": null,
+      "hex": "809CC9",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "swift": {
+      "title": "Swift",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/swift.svg",
+      "brand_source": "https://developer.apple.com/swift/resources/",
+      "brand_license": null,
+      "hex": "F05138",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "symantec": {
+      "title": "Symantec",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/symantec.svg",
+      "brand_source": "https://commons.wikimedia.org/wiki/File:Symantec_logo10.svg",
+      "brand_license": null,
+      "hex": "FDB511",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "termius": {
+      "title": "Termius",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/termius.svg",
+      "brand_source": "https://termius.com/brand-resources",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "thinkpad": {
+      "title": "ThinkPad",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/thinkpad.svg",
+      "brand_source": "https://www.lenovo.com/us/en/thinkpad",
+      "brand_license": null,
+      "hex": "EE2624",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "tmux": {
+      "title": "tmux",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/tmux.svg",
+      "brand_source": "https://github.com/tmux/tmux/blob/e26356607e38cbb4676a7c91815ae2d5734443c3/logo/tmux-logo-1-color.svg",
+      "brand_license": null,
+      "hex": "1BB91F",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "tomtom": {
+      "title": "TomTom",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/tomtom.svg",
+      "brand_source": "https://brandguide.tomtom.com/design/logo",
+      "brand_license": null,
+      "hex": "DF1B12",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "trimble": {
+      "title": "Trimble",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/trimble.svg",
+      "brand_source": "https://www.trimble.com",
+      "brand_license": null,
+      "hex": "0063A3",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "tunein": {
+      "title": "TuneIn",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/tunein.svg",
+      "brand_source": "https://cms.tunein.com/press/",
+      "brand_license": null,
+      "hex": "14D8CC",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "turbo": {
+      "title": "Turbo",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/turbo.svg",
+      "brand_source": "https://turbo.hotwired.dev",
+      "brand_license": null,
+      "hex": "5CD8E5",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "ubiquiti": {
+      "title": "Ubiquiti",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/ubiquiti.svg",
+      "brand_source": "https://www.ui.com",
+      "brand_license": null,
+      "hex": "0559C9",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "ubisoft": {
+      "title": "Ubisoft",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/ubisoft.svg",
+      "brand_source": "https://www.ubisoft.com/en-US/company/overview.aspx",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "uipath": {
+      "title": "UiPath",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/uipath.svg",
+      "brand_source": "https://www.uipath.com/newsroom",
+      "brand_license": null,
+      "hex": "FA4616",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "unicode": {
+      "title": "Unicode",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/unicode.svg",
+      "brand_source": "https://commons.wikimedia.org/wiki/File:New_Unicode_logo.svg",
+      "brand_license": null,
+      "hex": "5455FE",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "unity": {
+      "title": "Unity",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/unity.svg",
+      "brand_source": "https://brand.unity.com",
+      "brand_license": null,
+      "hex": "FFFFFF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "unrealengine": {
+      "title": "Unreal Engine",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/unrealengine.svg",
+      "brand_source": "https://www.unrealengine.com/en-US/branding",
+      "brand_license": null,
+      "hex": "0E1128",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "vegas": {
+      "title": "VEGAS",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/vegas.svg",
+      "brand_source": "https://www.vegascreativesoftware.com",
+      "brand_license": null,
+      "hex": "1A1A1A",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "veritas": {
+      "title": "Veritas",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/veritas.svg",
+      "brand_source": "https://my.veritas.com/cs/groups/partner/documents/styleguide/mdaw/mdq5/~edisp/tus3cpeapp3855186572.pdf",
+      "brand_license": null,
+      "hex": "B1181E",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "virtualbox": {
+      "title": "VirtualBox",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/virtualbox.svg",
+      "brand_source": "https://www.virtualbox.org/svn/vbox/trunk/src/VBox/Artwork/OSE",
+      "brand_license": null,
+      "hex": "2F61B4",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "vivaldi": {
+      "title": "Vivaldi",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/vivaldi.svg",
+      "brand_source": "https://vivaldi.com/press",
+      "brand_license": {
+        "type": "CC-BY-4.0"
+      },
+      "hex": "EF3939",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "vlcmediaplayer": {
+      "title": "VLC media player",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/vlcmediaplayer.svg",
+      "brand_source": "https://code.videolan.org/videolan/vlc/-/blob/1ce7f686ee17a028d2d79627ae69f22d905f2e23/extras/package/macosx/asset_sources/vlc_app_icon.svg",
+      "brand_license": null,
+      "hex": "FF8800",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "vmware": {
+      "title": "VMware",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/vmware.svg",
+      "brand_source": "https://myvmware.workspaceair.com",
+      "brand_license": null,
+      "hex": "607078",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "vulkan": {
+      "title": "Vulkan",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/vulkan.svg",
+      "brand_source": "https://www.khronos.org/legal/trademarks",
+      "brand_license": null,
+      "hex": "A41E22",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "wacom": {
+      "title": "Wacom",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/wacom.svg",
+      "brand_source": "https://support.wacom.com/hc/en-us",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "warp": {
+      "title": "Warp",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/warp.svg",
+      "brand_source": "https://warp.dev",
+      "brand_license": null,
+      "hex": "01A4FF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "wayland": {
+      "title": "Wayland",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/wayland.svg",
+      "brand_source": "https://gitlab.freedesktop.org/wayland/weston/-/blob/77ede00a938b8137bd638ce67b6f58cb52b1d1b0/data/wayland.svg",
+      "brand_license": {
+        "type": "MIT"
+      },
+      "hex": "FFBC00",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "webex": {
+      "title": "Webex",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/webex.svg",
+      "brand_source": "https://github.com/momentum-design/momentum-ui/blob/970c5bec962a3f72e17e0b7ed69f2c38d298c405/icons-rebrand/svg/webex-helix-filled.svg",
+      "brand_license": {
+        "type": "custom",
+        "url": "https://www.cisco.com/c/en/us/about/legal/trademarks.html"
+      },
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "webrtc": {
+      "title": "WebRTC",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/webrtc.svg",
+      "brand_source": "https://webrtc.org",
+      "brand_license": null,
+      "hex": "333333",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "webstorm": {
+      "title": "WebStorm",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/webstorm.svg",
+      "brand_source": "https://www.jetbrains.com/company/brand/logos",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "westerndigital": {
+      "title": "Western Digital",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/westerndigital.svg",
+      "brand_source": "https://www.westerndigital.com",
+      "brand_license": null,
+      "hex": "995DFF",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "wezterm": {
+      "title": "WezTerm",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/wezterm.svg",
+      "brand_source": "https://github.com/wez/wezterm/blob/fe78b5821fc106c1061f4c1cc454ff01e74bf97d/assets/icon/wezterm-icon.svg",
+      "brand_license": null,
+      "hex": "4E49EE",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "winamp": {
+      "title": "Winamp",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/winamp.svg",
+      "brand_source": "https://www.winamp.com",
+      "brand_license": null,
+      "hex": "F93821",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "wire": {
+      "title": "Wire",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/wire.svg",
+      "brand_source": "https://brand.wire.com",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "wireshark": {
+      "title": "Wireshark",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/wireshark.svg",
+      "brand_source": "https://gitlab.com/wanduow/wireshark/-/blob/cd5539b0f76975474869984a9d2f0fce29d5c21e/image/wsicon.svg",
+      "brand_license": null,
+      "hex": "1679A7",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "wise": {
+      "title": "Wise",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/wise.svg",
+      "brand_source": "https://wise.design/foundations/logo",
+      "brand_license": null,
+      "hex": "9FE870",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "wish": {
+      "title": "Wish",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/wish.svg",
+      "brand_source": "https://wish.com",
+      "brand_license": null,
+      "hex": "32E476",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "wondershare": {
+      "title": "Wondershare",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/wondershare.svg",
+      "brand_source": "https://www.wondershare.com/news/media-assets.html",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "wondersharefilmora": {
+      "title": "Wondershare Filmora",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/wondersharefilmora.svg",
+      "brand_source": "https://filmora.wondershare.com",
+      "brand_license": null,
+      "hex": "07273D",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "xampp": {
+      "title": "XAMPP",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/xampp.svg",
+      "brand_source": "https://apachefriends.org",
+      "brand_license": null,
+      "hex": "FB7A24",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "xcode": {
+      "title": "Xcode",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/xcode.svg",
+      "brand_source": "https://developer.apple.com/develop",
+      "brand_license": null,
+      "hex": "147EFB",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "xfce": {
+      "title": "XFCE",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/xfce.svg",
+      "brand_source": "https://www.xfce.org/download#artwork",
+      "brand_license": null,
+      "hex": "2284F2",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "xiaomi": {
+      "title": "Xiaomi",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/xiaomi.svg",
+      "brand_source": "https://www.mi.com/global",
+      "brand_license": null,
+      "hex": "FF6900",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "yarn": {
+      "title": "Yarn",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/yarn.svg",
+      "brand_source": "https://github.com/yarnpkg/assets/blob/76d30ca2aebed5b73ea8131d972218fb860bd32d/yarn-kitten-circle.svg",
+      "brand_license": {
+        "type": "CC-BY-4.0"
+      },
+      "hex": "2C8EBB",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "youtubemusic": {
+      "title": "YouTube Music",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/youtubemusic.svg",
+      "brand_source": "https://partnermarketinghub.withgoogle.com/#/brands",
+      "brand_license": null,
+      "hex": "FF0000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "zebratechnologies": {
+      "title": "Zebra Technologies",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/zebratechnologies.svg",
+      "brand_source": "https://www.zebra.com",
+      "brand_license": null,
+      "hex": "000000",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    },
+    "zoiper": {
+      "title": "Zoiper",
+      "library_source": "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/zoiper.svg",
+      "brand_source": "https://www.zoiper.com/en/products",
+      "brand_license": null,
+      "hex": "F47920",
+      "changes": "SVG monocromo con color de marca, convertido a PNG RGBA 128, 20 y 42 px"
+    }
+  }
+}

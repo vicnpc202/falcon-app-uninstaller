@@ -1,0 +1,215 @@
+{
+  "icons": {
+    "canon": {
+      "source": "https://global.canon/apple-touch-icon.png",
+      "site": "https://www.canon.com/",
+      "sha256": "9dc1b0a47e4473b14cc8e591f3c2523302bfa0876311e4ff59e14f027edbf974",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "zimbra": {
+      "source": "https://www.zimbra.com/wp-content/uploads/2023/07/cropped-favicon-180x180.png",
+      "site": "https://www.zimbra.com/",
+      "sha256": "ee3e5614178acd0ada7b070bf86aa01a6ce4bd34958ef3683782ce887e84cf3f",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "realtek": {
+      "source": "https://wwwfile.realtek.com/favicon.ico",
+      "site": "https://www.realtek.com/",
+      "sha256": "a56327dff1b8c8bf77a4a34c9f64cf909da692cd4ae8c1595984cd8c1095ea3b",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "iobit": {
+      "source": "https://www.iobit.com/tpl/images/favicon.ico",
+      "site": "https://www.iobit.com/",
+      "sha256": "7ce5ff7d3ca3fa04ac4718ef6433256a44b6181cbf255f68fb248f7ee7b02239",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "roxio": {
+      "source": "https://www.roxio.com/static/roxio/images/favicon.ico",
+      "site": "https://www.roxio.com/",
+      "sha256": "a4250af42b4f7fc9b58e305885adfd95274c2332f0dc37509e2eac16c8f7d0b0",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "movavi": {
+      "source": "https://www.movavi.com/favicon.ico",
+      "site": "https://www.movavi.com/",
+      "sha256": "7a0fa256fe3c9cebe244f7f35c45b1e37d3627a594feac30e5bda7dd41bc924c",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "irfanview": {
+      "source": "https://www.irfanview.com/images/favicon.png",
+      "site": "https://www.irfanview.com/",
+      "sha256": "3d1dff42266de661e2a21e94c4771a7b7b7bd739bf955691eafc9ce4c7b44c25",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "rproject": {
+      "source": "https://www.r-project.org/favicon-16x16.png",
+      "site": "https://www.r-project.org/",
+      "sha256": "8544f741efd246b29fc53e1a56bbaea062fef9da3410809804bab858b4148989",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "revouninstaller": {
+      "source": "https://www.revouninstaller.com/favicon.ico",
+      "site": "https://www.revouninstaller.com/",
+      "sha256": "91e8f868eef6967dcfca5eeb8e428184a0f4dcd017246c78138e71e158a78db7",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "axis": {
+      "source": "https://www.axis.com/themes/custom/axiscom/favicon.ico",
+      "site": "https://www.axis.com/",
+      "sha256": "adb799f23426914c7d6333d76b1a06dc952678a119135da8666a65335312956f",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "ableton": {
+      "source": "https://cdn-resources.ableton.com/80bA26cPQ1hEJDFjpUKntxfqdmG3ZykO/static/images/favicon.f83afbda6c78.ico",
+      "site": "https://www.ableton.com/",
+      "sha256": "efd39f7c8c0102e6a0e2704f1e129336658fe02dd6971feb080716e36600dbb9",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "bluestacks": {
+      "source": "https://cdn-www.bluestacks.com/bs-images/favicon.png",
+      "site": "https://www.bluestacks.com/",
+      "sha256": "686aea8f002a5b5aded2ce2bbb8d54c180efed34a4c60786b16a945f6b52c5bb",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "mpchc": {
+      "source": "https://mpc-hc.org/assets/img/favicons/favicon.ico",
+      "site": "https://mpc-hc.org/",
+      "sha256": "cdd3161abe118d04abfd905e324f3772df1e578accae8e25c05080dac0767a34",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "atlas": {
+      "source": "https://atlasti.com/favicon.png",
+      "site": "https://atlasti.com/",
+      "sha256": "065eb57dfb9190880d99f3a5d4c79d40f385a98a36b096e96fc0ed526596da7c",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "avsaudio": {
+      "source": "https://www.avs4you.com/favicon.ico",
+      "site": "https://www.avs4you.com/",
+      "sha256": "2e430cd091b0596be41d237a933c4baa9e407c8cbbca99a9e54dbede9912c900",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "advancedip": {
+      "source": "https://www.advanced-ip-scanner.com/favicon.svg",
+      "site": "https://www.advanced-ip-scanner.com/",
+      "sha256": "3022dbdac255433820930c7dd686a4edc2dc798c6e8b0bd5481e5960b2bf8e07",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "radmin": {
+      "source": "https://www.radmin.com/favicon.svg",
+      "site": "https://www.radmin.com/",
+      "sha256": "5f9cde5475bff03ec0ed0e078dccea7f0b951a26b8edd68895235d8610c8a50b",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "agilefirma": {
+      "source": "https://www.chilecompra.cl/wp-content/uploads/2021/05/IconoChC256x256.jpg",
+      "site": "https://www.chilecompra.cl/",
+      "sha256": "bdfc8fdc99a5f0b267b2d74bbbc11950f7d0c48636c3a73b04c89d18366f218f",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "lafirma": {
+      "source": "https://firmaelectronica.gob.es/content/dam/firmaelectronica/favicon.ico",
+      "site": "https://firmaelectronica.gob.es/",
+      "sha256": "37c46b8c88bd9239f9cde14738175c59fa83f9062540d33c2d3c2fc2dbdb98df",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "qihoo": {
+      "source": "https://p0.ssl.qhimg.com/t01b3f77edb6ca8b408.png",
+      "site": "https://www.360.cn/",
+      "sha256": "b82fc126904ca072d8df218083911d7563d673e7480772083de75c15621b53db",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "easypdf": {
+      "source": "https://www.softmaker.com/templates/joomaker/images/favicon.ico",
+      "site": "https://www.softmaker.com/",
+      "sha256": "f4621c9ea035563d397513541699fc483aa583f4cbcd2e67417b9889835b3d63",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "passmark": {
+      "source": "https://www.passmark.com/source/images/favicon.png",
+      "site": "https://www.passmark.com/",
+      "sha256": "713999669b67502770dc735176d2f63941d591488609114aa68c93d2bca75d42",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "hwinfo": {
+      "source": "https://www.hwinfo.com/images/hwi_logo_flat_square_192.png",
+      "site": "https://www.hwinfo.com/",
+      "sha256": "2840e1a7c481c2ae883cab63b8b602dff90fc4ce56208b9ee89b3039e3c83d45",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "rufus": {
+      "source": "https://rufus.ie/favicon.ico",
+      "site": "https://rufus.ie/",
+      "sha256": "9f8683e9854eaa6141eff83bd4fece71f5aed3477002c7017a9f41449bf30084",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "bulkrename": {
+      "source": "https://www.bulkrenameutility.co.uk/favicon.ico",
+      "site": "https://www.bulkrenameutility.co.uk/",
+      "sha256": "5c1786abd55854715b0021c0e2d7482bb6464b4ae2cb86ebec8b349e1fb455a7",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "advancedrenamer": {
+      "source": "https://www.advancedrenamer.com/img/apple-touch-icon.png",
+      "site": "https://www.advancedrenamer.com/",
+      "sha256": "95f778e5da384598d46e2f488bb9a7185724bad723815805eb7e865c602c52d6",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "displaylink": {
+      "source": "https://www.synaptics.com/sites/default/files/synaptics-bean-only-logo-all-blue_0.png",
+      "site": "https://www.synaptics.com/",
+      "sha256": "d96ad0a3f215b687a2c43f4e972aabceb9ed1cb368b1f3bb34fa1efff4254168",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "synaptics": {
+      "source": "https://www.synaptics.com/sites/default/files/synaptics-bean-only-logo-all-blue_0.png",
+      "site": "https://www.synaptics.com/",
+      "sha256": "d96ad0a3f215b687a2c43f4e972aabceb9ed1cb368b1f3bb34fa1efff4254168",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    },
+    "huawei": {
+      "source": "https://www.huawei.com/-/media/htemplate-home/1.0.1.20251205144752/components/assets/img/apple-touch-icon-180.png",
+      "site": "https://www.huawei.com/",
+      "sha256": "f56e1f0616fe91c18416dea24ce30da8192c32eb82443ba1af412ad309dd8265",
+      "license": "No declarada en el archivo; marca de su titular",
+      "changes": "PNG centrado a 128/20/42 px"
+    }
+  },
+  "unavailable": [
+    "faststone",
+    "veritas",
+    "avg",
+    "mcafee",
+    "techsmith",
+    "realvnc"
+  ]
+}

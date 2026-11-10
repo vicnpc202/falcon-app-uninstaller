@@ -1,0 +1,458 @@
+[
+  {
+    "alias": "online media technologies",
+    "archivo": "familias/official-avsaudio.png"
+  },
+  {
+    "alias": "the document foundation",
+    "archivo": "familias/libreoffice.png"
+  },
+  {
+    "alias": "advanced micro devices",
+    "archivo": "familias/si-amd.png"
+  },
+  {
+    "alias": "axis communications",
+    "archivo": "familias/official-axis.png"
+  },
+  {
+    "alias": "postgresql global",
+    "archivo": "familias/postgresql.png"
+  },
+  {
+    "alias": "tracker software",
+    "archivo": "familias/web-pdfxchange.png"
+  },
+  {
+    "alias": "scooter software",
+    "archivo": "familias/web-scooter.png"
+  },
+  {
+    "alias": "hewlett-packard",
+    "archivo": "familias/si-hp.png"
+  },
+  {
+    "alias": "quest software",
+    "archivo": "familias/web-quest.png"
+  },
+  {
+    "alias": "epson america",
+    "archivo": "familias/si-epson.png"
+  },
+  {
+    "alias": "acro software",
+    "archivo": "familias/web-cutepdf.png"
+  },
+  {
+    "alias": "geek software",
+    "archivo": "familias/web-pdf24.png"
+  },
+  {
+    "alias": "irfan skiljan",
+    "archivo": "familias/official-irfanview.png"
+  },
+  {
+    "alias": "chengdu yiwo",
+    "archivo": "familias/web-easeus.png"
+  },
+  {
+    "alias": "nch software",
+    "archivo": "familias/web-nch.png"
+  },
+  {
+    "alias": "sysinternals",
+    "archivo": "familias/vendor-microsoft.png"
+  },
+  {
+    "alias": "seiko epson",
+    "archivo": "familias/si-epson.png"
+  },
+  {
+    "alias": "wondershare",
+    "archivo": "familias/web-wondershare.png"
+  },
+  {
+    "alias": "r core team",
+    "archivo": "familias/official-rproject.png"
+  },
+  {
+    "alias": "mpc-hc team",
+    "archivo": "familias/official-mpchc.png"
+  },
+  {
+    "alias": "displaylink",
+    "archivo": "familias/official-displaylink.png"
+  },
+  {
+    "alias": "tenorshare",
+    "archivo": "familias/web-tenorshare.png"
+  },
+  {
+    "alias": "microsoft",
+    "archivo": "familias/vendor-microsoft.png"
+  },
+  {
+    "alias": "canonical",
+    "archivo": "familias/ubuntu.png"
+  },
+  {
+    "alias": "almalinux",
+    "archivo": "familias/vendor-almalinux.png"
+  },
+  {
+    "alias": "kaspersky",
+    "archivo": "familias/si-kaspersky.png"
+  },
+  {
+    "alias": "jetbrains",
+    "archivo": "familias/jetbrains.png"
+  },
+  {
+    "alias": "bluestack",
+    "archivo": "familias/official-bluestacks.png"
+  },
+  {
+    "alias": "softmaker",
+    "archivo": "familias/official-easypdf.png"
+  },
+  {
+    "alias": "synaptics",
+    "archivo": "familias/official-synaptics.png"
+  },
+  {
+    "alias": "autodesk",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "qualcomm",
+    "archivo": "familias/si-qualcomm.png"
+  },
+  {
+    "alias": "fortinet",
+    "archivo": "familias/si-fortinet.png"
+  },
+  {
+    "alias": "symantec",
+    "archivo": "familias/web-norton.png"
+  },
+  {
+    "alias": "minitool",
+    "archivo": "familias/web-minitool.png"
+  },
+  {
+    "alias": "bandicam",
+    "archivo": "familias/web-bandicam.png"
+  },
+  {
+    "alias": "freemake",
+    "archivo": "familias/web-freemake.png"
+  },
+  {
+    "alias": "logitech",
+    "archivo": "familias/web-logitech.png"
+  },
+  {
+    "alias": "glavsoft",
+    "archivo": "familias/web-tightvnc.png"
+  },
+  {
+    "alias": "ultravnc",
+    "archivo": "familias/web-ultravnc.png"
+  },
+  {
+    "alias": "atlas.ti",
+    "archivo": "familias/official-atlas.png"
+  },
+  {
+    "alias": "famatech",
+    "archivo": "familias/official-radmin.png"
+  },
+  {
+    "alias": "passmark",
+    "archivo": "familias/official-passmark.png"
+  },
+  {
+    "alias": "hulubulu",
+    "archivo": "familias/official-advancedrenamer.png"
+  },
+  {
+    "alias": "brother",
+    "archivo": "familias/brother.png"
+  },
+  {
+    "alias": "asustek",
+    "archivo": "familias/si-asus.png"
+  },
+  {
+    "alias": "samsung",
+    "archivo": "familias/si-samsung.png"
+  },
+  {
+    "alias": "red hat",
+    "archivo": "familias/vendor-redhat.png"
+  },
+  {
+    "alias": "xubuntu",
+    "archivo": "familias/ubuntu.png"
+  },
+  {
+    "alias": "acronis",
+    "archivo": "familias/web-acronis.png"
+  },
+  {
+    "alias": "gretech",
+    "archivo": "familias/web-gom.png"
+  },
+  {
+    "alias": "genexus",
+    "archivo": "familias/web-genexus.png"
+  },
+  {
+    "alias": "imyfone",
+    "archivo": "familias/web-imyfone.png"
+  },
+  {
+    "alias": "passfab",
+    "archivo": "familias/web-passfab.png"
+  },
+  {
+    "alias": "bullzip",
+    "archivo": "familias/web-bullzip.png"
+  },
+  {
+    "alias": "lexmark",
+    "archivo": "familias/web-lexmark.png"
+  },
+  {
+    "alias": "win.rar",
+    "archivo": "familias/web-winrar.png"
+  },
+  {
+    "alias": "realtek",
+    "archivo": "familias/official-realtek.png"
+  },
+  {
+    "alias": "vs revo",
+    "archivo": "familias/official-revouninstaller.png"
+  },
+  {
+    "alias": "ableton",
+    "archivo": "familias/official-ableton.png"
+  },
+  {
+    "alias": "atlasti",
+    "archivo": "familias/official-atlas.png"
+  },
+  {
+    "alias": "google",
+    "archivo": "familias/vendor-google.png"
+  },
+  {
+    "alias": "oracle",
+    "archivo": "familias/vendor-oracle.png"
+  },
+  {
+    "alias": "hp inc",
+    "archivo": "familias/si-hp.png"
+  },
+  {
+    "alias": "nvidia",
+    "archivo": "familias/si-nvidia.png"
+  },
+  {
+    "alias": "lenovo",
+    "archivo": "familias/si-lenovo.png"
+  },
+  {
+    "alias": "ubuntu",
+    "archivo": "familias/ubuntu.png"
+  },
+  {
+    "alias": "fedora",
+    "archivo": "familias/fedora.png"
+  },
+  {
+    "alias": "centos",
+    "archivo": "familias/centos.png"
+  },
+  {
+    "alias": "debian",
+    "archivo": "familias/vendor-debian.png"
+  },
+  {
+    "alias": "vmware",
+    "archivo": "familias/si-vmware.png"
+  },
+  {
+    "alias": "citrix",
+    "archivo": "familias/si-citrix.png"
+  },
+  {
+    "alias": "norton",
+    "archivo": "familias/web-norton.png"
+  },
+  {
+    "alias": "easeus",
+    "archivo": "familias/web-easeus.png"
+  },
+  {
+    "alias": "nuance",
+    "archivo": "familias/web-nuance.png"
+  },
+  {
+    "alias": "aranda",
+    "archivo": "familias/web-aranda.png"
+  },
+  {
+    "alias": "pdfsam",
+    "archivo": "familias/web-pdfsam.png"
+  },
+  {
+    "alias": "zwsoft",
+    "archivo": "familias/web-zwsoft.png"
+  },
+  {
+    "alias": "zimbra",
+    "archivo": "familias/official-zimbra.png"
+  },
+  {
+    "alias": "movavi",
+    "archivo": "familias/official-movavi.png"
+  },
+  {
+    "alias": "360.cn",
+    "archivo": "familias/official-qihoo.png"
+  },
+  {
+    "alias": "realix",
+    "archivo": "familias/official-hwinfo.png"
+  },
+  {
+    "alias": "huawei",
+    "archivo": "familias/official-huawei.png"
+  },
+  {
+    "alias": "apple",
+    "archivo": "familias/vendor-apple.png"
+  },
+  {
+    "alias": "adobe",
+    "archivo": "familias/si-adobe.png"
+  },
+  {
+    "alias": "intel",
+    "archivo": "familias/si-intel.png"
+  },
+  {
+    "alias": "cisco",
+    "archivo": "familias/si-cisco.png"
+  },
+  {
+    "alias": "epson",
+    "archivo": "familias/si-epson.png"
+  },
+  {
+    "alias": "rocky",
+    "archivo": "familias/vendor-rockylinux.png"
+  },
+  {
+    "alias": "razer",
+    "archivo": "familias/razer.png"
+  },
+  {
+    "alias": "aomei",
+    "archivo": "familias/web-aomei.png"
+  },
+  {
+    "alias": "foxit",
+    "archivo": "familias/web-foxit.png"
+  },
+  {
+    "alias": "nitro",
+    "archivo": "familias/web-nitro.png"
+  },
+  {
+    "alias": "corel",
+    "archivo": "familias/web-corel.png"
+  },
+  {
+    "alias": "cpuid",
+    "archivo": "familias/web-cpuid.png"
+  },
+  {
+    "alias": "pdf24",
+    "archivo": "familias/web-pdf24.png"
+  },
+  {
+    "alias": "abbyy",
+    "archivo": "familias/web-abbyy.png"
+  },
+  {
+    "alias": "canon",
+    "archivo": "familias/official-canon.png"
+  },
+  {
+    "alias": "iobit",
+    "archivo": "familias/official-iobit.png"
+  },
+  {
+    "alias": "roxio",
+    "archivo": "familias/official-roxio.png"
+  },
+  {
+    "alias": "qihoo",
+    "archivo": "familias/official-qihoo.png"
+  },
+  {
+    "alias": "tgrmn",
+    "archivo": "familias/official-bulkrename.png"
+  },
+  {
+    "alias": "dell",
+    "archivo": "familias/dell.png"
+  },
+  {
+    "alias": "asus",
+    "archivo": "familias/si-asus.png"
+  },
+  {
+    "alias": "eset",
+    "archivo": "familias/web-eset.png"
+  },
+  {
+    "alias": "nero",
+    "archivo": "familias/web-nero.png"
+  },
+  {
+    "alias": "logi",
+    "archivo": "familias/web-logitech.png"
+  },
+  {
+    "alias": "uvnc",
+    "archivo": "familias/web-ultravnc.png"
+  },
+  {
+    "alias": "klcp",
+    "archivo": "familias/web-klite.png"
+  },
+  {
+    "alias": "qihu",
+    "archivo": "familias/official-qihoo.png"
+  },
+  {
+    "alias": "akeo",
+    "archivo": "familias/official-rufus.png"
+  },
+  {
+    "alias": "amd",
+    "archivo": "familias/si-amd.png"
+  },
+  {
+    "alias": "gom",
+    "archivo": "familias/web-gom.png"
+  },
+  {
+    "alias": "hp",
+    "archivo": "familias/si-hp.png"
+  }
+]

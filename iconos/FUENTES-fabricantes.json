@@ -1,0 +1,347 @@
+{
+  "winrar": {
+    "site": "https://www.rarlab.com/",
+    "source": "https://www.rarlab.com/favicon.ico",
+    "sha256": "7aec4a643d6846610958cd1796b6c8ed6c120bff4c3a507a8f2ed5a73e9ec6d7",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "pdf24": {
+    "site": "https://tools.pdf24.org/",
+    "source": "https://tools.pdf24.org/static/img/appIcons/v3/icon_192.png?v=5ca75609",
+    "sha256": "105138e40e23833d6219e22c4c482fbc8724939b8e18895fbb47dd57b9a07309",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "abbyy": {
+    "site": "https://www.abbyy.com/",
+    "source": "https://medialib.abbyy.com/abbyydeveloc5ba-xmc0fa5-prod859e-c28d/media/images/abbyy-favicon-192x192.png",
+    "sha256": "1c737d95b935d88021de8ffdbffd8dd1e9b406641b1b9a2fd5457acbc44fcccc",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "tightvnc": {
+    "site": "https://www.tightvnc.com/",
+    "source": "https://www.tightvnc.com/favicon.ico",
+    "sha256": "9c0b20a1fbb386c328ffcb1530de2675f7245abaa66009841d528b2efe689169",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "ultravnc": {
+    "site": "https://uvnc.com/",
+    "source": "https://uvnc.com/images/favicon.ico",
+    "sha256": "76e9413847767b0d666ada7fb64aecdf8b996a0571549ce1fff5512c4e978feb",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "klite": {
+    "site": "https://codecguide.com/",
+    "source": "https://codecguide.com/mpc_logo.png",
+    "sha256": "4257d4bcc520ec5cb8ca82b0301dfaf4cb3dd31eeeee2c70eb4482f169116a6d",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "wondershare": {
+    "site": "https://www.wondershare.com/",
+    "source": "https://www.wondershare.com/favicon-dark.ico",
+    "sha256": "bfd73433047b5ef296ec8f81a0f6d6b16a51b448229324866e5f2fb6683fbddd",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "eset": {
+    "site": "https://www.eset.com/",
+    "source": "https://web-assets.eset.com/typo3conf/ext/eset_base/Resources/Public/img/device/apple-touch-icon.png",
+    "sha256": "36bbb70889bee1718c62eac6eefb4315aef7c499a66de64c74bb0f52a3497f2d",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "norton": {
+    "site": "https://us.norton.com/",
+    "source": "https://us.norton.com/content/dam/norton/cb/norton-touch-icon.png",
+    "sha256": "2aa2fc93d514e3909a98268318b08cca6a88068d096813d87bd5672df7ca720f",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "acronis": {
+    "site": "https://www.acronis.com/",
+    "source": "https://www.acronis.com/public/favicon/apple-touch-icon.png",
+    "sha256": "e585e7d7e85e8f616dc9eed3584f14224de89c50cfe9f8fe7e36146ada3d4ed3",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "aomei": {
+    "site": "https://www.aomeitech.com/",
+    "source": "https://www.aomeitech.com/images/favicon.ico",
+    "sha256": "74cc68ca047bb8ea8e8f6fa91e567b10380a006b7f6ed1b027b6155fff8a8dc1",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "minitool": {
+    "site": "https://www.minitool.com/",
+    "source": "https://www.minitool.com/favicon.ico",
+    "sha256": "9cf94b76bddd35ba07c27b707556990e03b8f2694473ebf9a1d39a248fb94ec9",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "easeus": {
+    "site": "https://www.easeus.com/",
+    "source": "https://www.easeus.com/images_2016/fav.ico",
+    "sha256": "26f9c1238fd6067b167a67c6bc2696ac067ccf8a12ad4c39cc30203ee3421db0",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "nero": {
+    "site": "https://www.nero.com/",
+    "source": "https://cdnwww.nero.com/nero-com-wGlobal/wGlobal/layout/images/favicon.ico",
+    "sha256": "f833d1014ae6e661eb00be5076b58217406e7d0060ff59e34fed356859b84def",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "nch": {
+    "site": "https://www.nchsoftware.com/",
+    "source": "https://www.nchsoftware.com/favicon.ico",
+    "sha256": "73e52431b6333ef6f5b00cbc3cff62fe47c3ea94ea489a4d7979672694d67e88",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "bandicam": {
+    "site": "https://www.bandicam.com/",
+    "source": "https://www.bandicam.com/img/256-bandicam.png",
+    "sha256": "77238dacdffe96bb67f270c8b0c7fecab7b221c2e12367e7060f28a359c35b9e",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "gom": {
+    "site": "https://www.gomlab.com/",
+    "source": "https://www.gomlab.com/live/ui/images/favicon/apple-touch-icon.png",
+    "sha256": "b9440ec14851a71481d360ed7efdb003cdb95876633ad7721d53a36a0fbe1941",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "freemake": {
+    "site": "https://www.freemake.com/",
+    "source": "https://www.freemake.com/favicon.ico",
+    "sha256": "831b61b4ba2552b5a1d1669e6cd029fb5e5699123044aa3be2a1f704aa1c1b17",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "anyvideoconverter": {
+    "site": "https://www.any-video-converter.com/",
+    "source": "https://www.any-video-converter.com/images/avc-icon.ico",
+    "sha256": "8db133f755fb779486315bcf8c9f2330e2329db4331b4e4911481b5078522386",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "quest": {
+    "site": "https://www.quest.com/",
+    "source": "https://www.quest.com/favicon.ico",
+    "sha256": "f7927b01f9470d1cb35f6f6ec78840b925ae3e1f97605a6caf1fea20b7a193e4",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "nuance": {
+    "site": "https://www.nuance.com/",
+    "source": "https://dragon.nuance.com/shared/images/favicon-16x16.png",
+    "sha256": "26a1ea04ea5c04ac063350c8aca228f1b8a0b55154678a19179811782d612918",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "foxit": {
+    "site": "https://www.foxit.com/",
+    "source": "https://www.foxit.com/assets/favicons/favicon180.png",
+    "sha256": "d763a73600bda3d017857141678257e19e024f5f74f9b675021849d70409c16c",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "genexus": {
+    "site": "https://www.genexus.com/",
+    "source": "https://www.genexus.com/media/images/favicon-genexus.png?timestamp=20260113184958",
+    "sha256": "118e1616a34ff4d3b79639ab273b3227b234235b1ed3815849340f2b39951177",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "aranda": {
+    "site": "https://arandasoft.com/",
+    "source": "https://arandasoft.com/wp-content/uploads/2021/03/cropped-favicon-aranda-software-2021-180x180.png",
+    "sha256": "001133efb20ae01c90cb01ccc6f355d15e1bfee3212d64a0d50f3296fc456cd3",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "logitech": {
+    "site": "https://www.logitech.com/",
+    "source": "https://www.logitech.com/favicon.ico",
+    "sha256": "f87813ebf69507120ce41a89d9555e68b8646a11bdab2145d04d4f80ce8db2ff",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "tenorshare": {
+    "site": "https://www.tenorshare.com/",
+    "source": "https://www.tenorshare.com/images/logo-2023.ico?w=32&h=32",
+    "sha256": "1d2ee1993423875ccaf834347d0a81049ce6ba7cbf86719268c1e03e0f4aea61",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "imyfone": {
+    "site": "https://www.imyfone.com/",
+    "source": "https://www.imyfone.com/images/2015/07/favicon.ico",
+    "sha256": "de9b65e00243fb763118d9b0552f3395038031b20566f7a3adf7751cba044add",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "passfab": {
+    "site": "https://www.passfab.com/",
+    "source": "https://www.passfab.com/images/home/logo.ico",
+    "sha256": "4321cb31da7daa87d28858a1dcdf688bd335d82633e19ee8802336b759e5b6db",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "nitro": {
+    "site": "https://www.gonitro.com/",
+    "source": "https://www.gonitro.com/hubfs/favicon-196x196.png",
+    "sha256": "efaeb0977c2780fb912e987f7a770984f34a4a47d488345fde094414bd410aac",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "pdfxchange": {
+    "site": "https://www.pdf-xchange.com/",
+    "source": "https://cdn.pdf-xchange.com/static/common/images/apple-touch-icon-114x114.png",
+    "sha256": "c01acf6ab01021232629acf29841189d510349536ae3f08f3078b0cf4b7d7c75",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "bullzip": {
+    "site": "https://www.bullzip.com/",
+    "source": "https://www.bullzip.com/favicon.ico",
+    "sha256": "2c97fd99419a661e24dbcd7c99eb5b9cdb1f55f1d83349ebf848c146496177e2",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "cutepdf": {
+    "site": "https://www.cutepdf.com/",
+    "source": "https://www.cutepdf.com/images/favicon.ico",
+    "sha256": "b24e29cdc992531db2213e85f200e2e659eb78b0c91bff9c657269df7992b907",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "pdfsam": {
+    "site": "https://pdfsam.org/",
+    "source": "https://pdfsam.org/icns/android-chrome-192x192.png",
+    "sha256": "b0980723ca0eb877651e89106520eb82d49caecfb4536b222df4bc05be3c4d0f",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "zwsoft": {
+    "site": "https://www.zwsoft.com/",
+    "source": "https://www.zwsoft.com/favicon.ico",
+    "sha256": "451ac1c7970e3059638550015cd8cc38fdf58968558532d20f0de2a2c9f742e7",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "corel": {
+    "site": "https://www.coreldraw.com/",
+    "source": "https://www.coreldraw.com/static/cdgs/images/favicon.ico",
+    "sha256": "ba78378a905a1fa97ff8faa1c8acd0639b8f9423cedaf97752533021b6f94530",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "naps2": {
+    "site": "https://www.naps2.com/",
+    "source": "https://www.naps2.com/images/favicon.ico",
+    "sha256": "77dd9d833690bfce339a9f424ff770154c34de394116de0df7d2591c98d866f2",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "samsung": {
+    "site": "https://www.samsung.com/",
+    "source": "https://resources.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/app_ico.png",
+    "sha256": "466bfa1802115d9a8ef53ab62278f0df859b9f4586a2bddb0e3d1f5e5da0eca2",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "lexmark": {
+    "site": "https://www.lexmark.com/",
+    "source": "https://www.lexmark.com/etc.clientlibs/touchui-base/clientlibs/clientlib-touchuibase/resources/images/favicons/xerox-favicon.ico",
+    "sha256": "57187a41104848710edb5ade4d8fd6b9abf7913e5dc8273d99bf220fc412f091",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "cpuid": {
+    "site": "https://www.cpuid.com/",
+    "source": "https://www.cpuid.com/medias/images/apple-touch-icon-precomposed.png",
+    "sha256": "b55698b1208c398459eb9f9e67b15cee3df22957954eed01b9e900771c80b673",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "crystalmark": {
+    "site": "https://crystalmark.info/",
+    "source": "https://crystalmark.info/favicon.ico",
+    "sha256": "70f583e074a1e4b8e942c5586c298e7b5a7f9676400b3730eef07fc399a84c5e",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "aida64": {
+    "site": "https://www.aida64.com/",
+    "source": "https://www.aida64.com/favicon.ico",
+    "sha256": "3d09bcb219165b5f8f16b6f724b948c11c68ff7665cde7ccbd351b51d376c558",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "safesigner": {
+    "site": "https://www.acepta.com/",
+    "source": "https://acepta.com/wp-content/uploads/2023/08/favicon_64x64.png.webp",
+    "sha256": "666dd51f229d6ef35deb9e6f0b2da61b9cc036bbc403b22dceec307f14e54de4",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "scooter": {
+    "site": "https://www.scootersoftware.com/",
+    "source": "https://www.scootersoftware.com/favicon.ico",
+    "sha256": "9f0fc804feb15809cb37762a2af7f4d40bccc906fd05498d277ca2c54660d503",
+    "license": "No declarada en el archivo; marca de su titular",
+    "changes": "Icono publico de sitio oficial ajustado a PNG 128/20/42 px"
+  },
+  "vendor-microsoft": {
+    "collection": "selfh.st",
+    "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft.png",
+    "license": "CC-BY-4.0"
+  },
+  "vendor-apple": {
+    "collection": "Simple Icons 13.21.0",
+    "source": "https://www.apple.com",
+    "license": null
+  },
+  "vendor-google": {
+    "collection": "Simple Icons 13.21.0",
+    "source": "https://partnermarketinghub.withgoogle.com",
+    "license": null
+  },
+  "vendor-oracle": {
+    "collection": "Simple Icons 13.21.0",
+    "source": "https://www.oracle.com/opn/index.html",
+    "license": null
+  },
+  "vendor-redhat": {
+    "collection": "Simple Icons 13.21.0",
+    "source": "https://www.redhat.com/en/about/brand/new-brand/details",
+    "license": null
+  },
+  "vendor-rockylinux": {
+    "collection": "Simple Icons 13.21.0",
+    "source": "https://github.com/rocky-linux/branding/blob/94e97dd30b87d909cc4f6a6838a2926f77f9ac47/logo/src/icon-black.svg",
+    "license": {
+      "type": "CC-BY-SA-4.0"
+    }
+  },
+  "vendor-debian": {
+    "collection": "Simple Icons 13.21.0",
+    "source": "https://www.debian.org/logos",
+    "license": {
+      "type": "CC-BY-SA-3.0"
+    }
+  },
+  "vendor-almalinux": {
+    "collection": "Simple Icons 13.21.0",
+    "source": "https://almalinux.org",
+    "license": null
+  }
+}

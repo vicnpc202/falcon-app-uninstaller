@@ -1,0 +1,177 @@
+{
+  "category-89522c99c05612": {
+    "file": "Papirus/64x64/mimetypes/application-pdf.svg",
+    "sha256": "89522c99c056128ec0feb52a95241dc590dc5fc55632b6d7ffe5ed16885c7709",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-a2de9626a2b810": {
+    "file": "Papirus/64x64/apps/application-default-icon.svg",
+    "sha256": "a2de9626a2b810635ece725ea7f3b109871c18ae0a04440536d32ac7ad744a9f",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-4ac1e7d62d02dc": {
+    "file": "Papirus/64x64/apps/preferences-desktop-remote-desktop.svg",
+    "sha256": "4ac1e7d62d02dcd29eca12a84415c26422204ffa2419612e3d1fc4d721c21133",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-e7510b7f0cfe82": {
+    "file": "Papirus/64x64/apps/utilities-tweak-tool.svg",
+    "sha256": "e7510b7f0cfe822fba4229c622a76b0bab55fc5b037cb4f8630fe60532c4386d",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-10f9c66c4c770e": {
+    "file": "Papirus/64x64/apps/applications-office.svg",
+    "sha256": "10f9c66c4c770e1981040c169e175fcd164e000ab5e1593f1abd26d8358cb1c3",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-4da46a6dc5bac4": {
+    "file": "Papirus/64x64/apps/applications-multimedia.svg",
+    "sha256": "4da46a6dc5bac43ec9300085fa60ac52ee794927df19c65b41253fd292df7373",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-b9efa8c0bf8946": {
+    "file": "Papirus/64x64/apps/internet-web-browser.svg",
+    "sha256": "b9efa8c0bf894638e6c520b361f7d6b33338da800409e62cb0cb66ca89d9525b",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-2a023d3464e15d": {
+    "file": "Papirus/64x64/apps/cups.svg",
+    "sha256": "2a023d3464e15d31c16aa2bb3e08c485d01b5e4095b80e7f1181697332a54388",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-2493ab08444aec": {
+    "file": "Papirus/64x64/devices/computer.svg",
+    "sha256": "2493ab08444aec1ee57f83314840900f201de92af6bcef1cfe0fb3b839288baa",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-436062df05253f": {
+    "file": "Papirus/64x64/apps/applications-utilities.svg",
+    "sha256": "436062df05253f6b8e674a72563e81ad969f44ae813d5b7d6907f0beef8d0afe",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-08d3557c5f19fc": {
+    "file": "Papirus/64x64/apps/applications-development.svg",
+    "sha256": "08d3557c5f19fc314ca2b13b5081e133f1b6fd7ca622a033e64ec2de9e708cd9",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-dba31e97e1d876": {
+    "file": "Papirus/64x64/apps/system-software-update.svg",
+    "sha256": "dba31e97e1d876bce76ffa785af6cd9bf2fffa6d6ca09a28a4b0c2688019505e",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-6e94e159951731": {
+    "file": "Papirus/64x64/apps/libreoffice-base.svg",
+    "sha256": "6e94e159951731b913fc2fa464d1c30e09221e9b7ddac588c2af5255c8f884c2",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-51291b9e3d06de": {
+    "file": "Papirus/64x64/apps/preferences-desktop-color.svg",
+    "sha256": "51291b9e3d06ded2abb385c35a9c4aff7d6eb397d8649a9f55f5e6473b29d91d",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-c92d30d963e328": {
+    "file": "Papirus/64x64/apps/libreoffice-calc.svg",
+    "sha256": "c92d30d963e3280cd8127bcc2723aa246b60dbe3098090d1e3ee672cb9939a1e",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-d5697c0fb133e1": {
+    "file": "Papirus/64x64/apps/preferences-desktop-gaming.svg",
+    "sha256": "d5697c0fb133e196964d617a2e694a2f4892ed6a379564acaa62b3b7edd48684",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-ea01222f7ab86e": {
+    "file": "Papirus/64x64/apps/preferences-system-network.svg",
+    "sha256": "ea01222f7ab86e0d3456869330fa71ae65210372e275fb282160e73554958d00",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-0908d2a401f206": {
+    "file": "Papirus/64x64/devices/network-vpn.svg",
+    "sha256": "0908d2a401f2062e3a34999bf6c2f130b76a21efa9c9d39d6a36fb7a65ef18ec",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-c100ad45b5702d": {
+    "file": "Papirus/64x64/places/folder-blue-mail-cloud.svg",
+    "sha256": "c100ad45b5702d7c0bfe587f7ee3113d77cef2ec54af046a64c78103e5e6ef7d",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-6751f5fc33c052": {
+    "file": "Papirus/64x64/places/folder-blue-sync.svg",
+    "sha256": "6751f5fc33c05290449e4cdedf25384208a7cef10ed52ee199c13f2b2a625b8f",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-096406863ac1d6": {
+    "file": "Papirus/64x64/devices/network-server.svg",
+    "sha256": "096406863ac1d61edf108528569704195410261e9dcb46b6baf7263a3dce31bc",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-2f3953d0b6f591": {
+    "file": "Papirus/64x64/devices/camera-web.svg",
+    "sha256": "2f3953d0b6f591d888e09109719e6eeb5e82b1424b983ad842f15ae38fe7c582",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-63798c381e2688": {
+    "file": "Papirus/64x64/mimetypes/application-pkix-cert.svg",
+    "sha256": "63798c381e26886db2ccae479175dd0d8f815db9711381becab2f619127d6dbd",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-5880d37a0b6e72": {
+    "file": "Papirus/64x64/apps/accessories-dictionary.svg",
+    "sha256": "5880d37a0b6e72ac8f6b4e70c869a3660985a19ef9b00dd05b76439018f099f3",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  },
+  "category-9d3920609849ba": {
+    "file": "Papirus/64x64/apps/applications-science.svg",
+    "sha256": "9d3920609849ba5b23c6e1fcfbc159039341c3dd9f4c81e05e6cdeca0bdcb244",
+    "license": "GPL-3.0",
+    "revision": "33d971eb2d0c8454bac58246687de78e58f960c8",
+    "changes": "PNG centrado a 128/20/42 px"
+  }
+}

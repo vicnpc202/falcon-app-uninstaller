@@ -1,0 +1,1158 @@
+{
+  "revision": "87a5dfd901a341e271eb453ffebce6c5a88c308e",
+  "source_collection": "https://github.com/selfhst/icons",
+  "license": "CC-BY-4.0",
+  "icons": {
+    "1password": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/1password.png",
+      "original_sha256": "c9e7403a7f06ebf4a1266128386e21202f7d12f4fe9e61b417710ce73279d91a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "7-zip": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/7-zip.png",
+      "original_sha256": "d9850516236915c75a3e3bce5dd66fe86f25a366e81ffef96afb274ddb91d279",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "adobe-express": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/adobe-express.png",
+      "original_sha256": "ff685f280e3db03bf882c310c6b7d471bbec4aba8a7cf7acf6e8a884e3c996c6",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "adobe-illustrator": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/adobe-illustrator.png",
+      "original_sha256": "7f9391644466636d6bdf23c104ec1cf5800c772158d196b95240a738099a1606",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "adobe-lightroom": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/adobe-lightroom.png",
+      "original_sha256": "b03649550addd7f21ab55d64210b35b3ff341e0093e03a8733c4a2cb84e1c9a4",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "adobe-photoshop": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/adobe-photoshop.png",
+      "original_sha256": "18a694f6f1c3b8e0baa32ebf7244f5ecaf21ef0e98763da60222e4dd74f6d6bd",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "adobe-premiere-pro": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/adobe-premiere-pro.png",
+      "original_sha256": "bb934430c71e814222b8c52892bd93795baf638c7805dc203d80bade95d82185",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "agent-dvr": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/agent-dvr.png",
+      "original_sha256": "ca691c0f578d4c1d34a7405607fdf95ded1aa15f6abaa0e9ccd44dbcd59807d5",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "amazon-music": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/amazon-music.png",
+      "original_sha256": "7421cb151e1f0d8b42150e5c05744984eba7a2a6a243fbed587508ea7e544de3",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "android": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/android.png",
+      "original_sha256": "5eabdf47a4211d9b0bbbfd57b289d81d6c1bcccacf740fa06c3b6c0829a78354",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "anki": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/anki.png",
+      "original_sha256": "40d312ef62060af66e40458fe21a8a3fc06ed3e813f3a9f58f10a4b3e80096b3",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "ansible": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/ansible.png",
+      "original_sha256": "be0c9a4394bf76a3b546e1fd8458ddb3c0d95521e70eee8b2f85660786b09e31",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "app-store": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/app-store.png",
+      "original_sha256": "b70b5b4ce615208f3838f80d4cf6a9e70277cdd4fd53a99086b54897a841fa4b",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "apple-music": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/apple-music.png",
+      "original_sha256": "ab16bfde40533d5f71e1fb42ab83b13589ed9b775e776db7ec95015ab25c4ab4",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "apple-tv": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/apple-tv.png",
+      "original_sha256": "24a4e6b7d653af3943ccee11b4888090c29af008148fcad858703c087fd5c265",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "arduino": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/arduino.png",
+      "original_sha256": "00855e369f02c92d389bef52905dfc8422f9cbc6c858d9b38d6c7dfc7a2b62ce",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "audacity": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/audacity.png",
+      "original_sha256": "c89154bf36936febf9f90f00d6d907f262e6bb3b000d3bdb08864b738654ae1b",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "backuppc": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/backuppc.png",
+      "original_sha256": "490ccdabf67d4a7f92f44b363c9ccf006fb99f829fca2de4e33b9ca29cb92f87",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "bitwarden": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/bitwarden.png",
+      "original_sha256": "030896bdf66a4db981845e7000c9bb1c5b52a9836cdf255916a7888ff57bd0b0",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "blender": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/blender.png",
+      "original_sha256": "4364d103b648043a8559fbacb05d7d32ecb919d02fd783d2ba2ac8356b25e982",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "bluetooth": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/bluetooth.png",
+      "original_sha256": "8cf4d46d6c84c90a2d46c90ea177875096df279655caf35911c275a8f2791613",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "brave": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/brave.png",
+      "original_sha256": "b4126fffc9240dc8a994b5aae06bdd40524d41ac31a41f23377366f6336109f8",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "brother": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/brother.png",
+      "original_sha256": "3f6506b54dec58a292acbd6eed5706fb99af9c67afcd9ed11dedc7af8a428f77",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "caddy": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/caddy.png",
+      "original_sha256": "d033219a9b0ad067b23fbf4df7d1b8446612c3a19ce106cc3ccb3488fd0d2a84",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "calibre": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/calibre.png",
+      "original_sha256": "e064c09e1b24800fb495b267511f09cc7f4043c4bd91d53eab4c0fe696252f9d",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "capcut": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/capcut.png",
+      "original_sha256": "10f4ae6578304103a023574c79d0961e2176cb558ef485d36effa97d48a0fe25",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "centos": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/centos.png",
+      "original_sha256": "46d8ce3614cca200cbf19903d82d06b3bdab0ee622d6810bd06880e58d6e0d5e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "chromium": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/chromium.png",
+      "original_sha256": "96f99c91fe09760d75616c6bb503f4cd837e973cf1e48d0669cbe5268f1924e5",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "clamav": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/clamav.png",
+      "original_sha256": "bbde4de1e1ca053086dab529e46e2c5c129ebc15ad1d12a12d72f05b1bf39bcc",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "claude": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/claude.png",
+      "original_sha256": "9ad0db2010a8ef85741c92ae0dd8945126f5cd738bfb84d077a614f1967bbce7",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "cockpit": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/cockpit.png",
+      "original_sha256": "8f8814be8cd43841a73a1147c4c6c9439e62df46120c4a5f9fc100763348780e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "counter-analytics": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/counter-analytics.png",
+      "original_sha256": "d9b502e1dab52c55dee6fd24b2a5db061a0468430c6c0e9bac6ac2934db220ef",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "cups": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/cups.png",
+      "original_sha256": "3ced7fb70b2741d82f9760bfa255244f37c08dfc5161637b781b5c9d6ebb4d17",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "dbgate": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/dbgate.png",
+      "original_sha256": "7193d9d2e1086b3f4678dc9be92062c50cab85c8bee97a307eb333e9fe9c699a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "deepseek": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/deepseek.png",
+      "original_sha256": "f5f989d3c42bda5963782562797b729806ca54aea60e92d0b51932cb31cc6878",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "dell": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/dell.png",
+      "original_sha256": "5949b4e40a76fdc73dc24b9e8e96d658eac93b24d5490d6ed1157de0d04a92a4",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "digikam": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/digikam.png",
+      "original_sha256": "7bfeaa8e7cf58424a73efa582af0c7da20ec756be499ba1d427fa449c07e49bc",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "discord": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/discord.png",
+      "original_sha256": "100da5cdf136423a0a5d7664d11c426c304ab3bd004eddcd015a30a4cf8883a8",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "docker": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/docker.png",
+      "original_sha256": "eb197ce27b3be164b97d7135244362abcb7018f684228829f53a6ed15f46fe26",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "docs-collaboration": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/docs-collaboration.png",
+      "original_sha256": "d0d8badf5c0739312219ee20ca4358fa5c45c1140787d8a3d7f543c3a14c17c7",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "dovecot": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/dovecot.png",
+      "original_sha256": "3eac273e5a395eac19275b1f72daf155b5783ef15064a991518eee838bbe481e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "draw-io": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/draw-io.png",
+      "original_sha256": "ad1cb41b594e3a1e37248e5d65d90f9427762d1ab4ecaa7d4e05bd8de3f2e830",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "dropbox": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/dropbox.png",
+      "original_sha256": "d732b95510ddec586074e0f3ff03f565af3b1aea6a3f3cdc6971c0f523b9c686",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "duckduckgo": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/duckduckgo.png",
+      "original_sha256": "2b6698c46f4dec43205c54284694cd5d0d5bda7da84409655cea9c780190676c",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "elasticsearch": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/elasticsearch.png",
+      "original_sha256": "28ea6ffe52f9bd0a3381add502e55f493d5748d1c2805a60e47737f5cf55b8b3",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "element": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/element.png",
+      "original_sha256": "ac4a382cafa3e8b033fd47fc2f2468ee300eec7f8296d4b879d543ac97dd7376",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "epic-games": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/epic-games.png",
+      "original_sha256": "ec73e0e187ef12dbfc4c205e66bb14ff80888d2b620f41e3acd6e2f5d29e0a8f",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "fail2ban": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/fail2ban.png",
+      "original_sha256": "c2dbcb7d9ca942b5284fd33de17fe684ed2ca2574a7e3a80d19957c69ea46574",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "fedora": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/fedora.png",
+      "original_sha256": "0d4c343de7d45c24680763320c330a51cb6c2750fff64c13f5126d7d1b934335",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "figma": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/figma.png",
+      "original_sha256": "49a020b12181601bbac3b70085bc127d96eb5d36154c6d7d4bf259f3a6b59611",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "filezilla": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/filezilla.png",
+      "original_sha256": "07fead627537a53cf24ad8b788342bbdbe2ea515e8884d863cfce1f8f3e0e1b4",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "firefox": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/firefox.png",
+      "original_sha256": "a0df27ff7a4931c61bd654f72fbf013628c7e29e0ccf8858e831d3fd9ad4b144",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "gimp": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/gimp.png",
+      "original_sha256": "7e24be3a8cacc8af591313908570515e06971388cf28d2021e0da44190f17b79",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "git": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/git.png",
+      "original_sha256": "95273954ee0774d54b090da305a2b4a70d4e61b4a7c32c5dc64f518a1640f6ae",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "github": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/github.png",
+      "original_sha256": "a7bf8919a48f7c84e9243cd646929c8b4aebbaae3ae83233f2deb90c4a814b2d",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "gitlab": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/gitlab.png",
+      "original_sha256": "e5968597b34078d49f03b969eba139be6f00e2b459f6cdf4590f8a973f0f9d2a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "glances": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/glances.png",
+      "original_sha256": "f94bf8eb45a3eefc3cd2dc62089e600cfdae9b3363d68248c142ff7fa7046e8b",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "glpi": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/glpi.png",
+      "original_sha256": "c6d10f676eb83aec9311adc15495719bdffd3e6392f848b1d323f212a94d8848",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "gmail": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/gmail.png",
+      "original_sha256": "45fb679dce0bef0c88a93152f4c0c745b1ccedbd3033572e3d13054ec29625aa",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "gns3": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/gns3.png",
+      "original_sha256": "ff0ec58dc6e85d5a3a9c09a3532fc5e32622b8f3efd16cd3d3d493809ccdfa3b",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "golang": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/golang.png",
+      "original_sha256": "6bbcab2956c3b419a4037d8bf81f488b85e9dea6eb37e28695ad7ced44f677da",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "google-chrome": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/google-chrome.png",
+      "original_sha256": "1b86f8ce91fcedef6a51747da3b6910be706a52f2ec64fd5c7d90cd5610e3003",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "google-docs": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/google-docs.png",
+      "original_sha256": "1bb554dac1a51f12a06d0390f284abe6c57197c9f069b3942e3785e6698bdc3c",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "google-drive": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/google-drive.png",
+      "original_sha256": "bf1669f85435c0a0c5cc25dd5da3b049d13b3ed2c341648e6b01a1cfee96ff13",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "google-meet": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/google-meet.png",
+      "original_sha256": "dc039ae35f7ee2e479e9f0c3f114e134be6540c5b2dfd389af8a28a2658911b4",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "google-sheets": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/google-sheets.png",
+      "original_sha256": "dbf2ac1d143d1f52ee00989cc3c77937497775da4c2489657abcae5d18c19ff0",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "google-slides": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/google-slides.png",
+      "original_sha256": "93aebe2f5431ba942434d0d52ce2a2eabbd11b94cc95183e989df06ff9e64360",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "grafana": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/grafana.png",
+      "original_sha256": "c8aad5cc571f2c234faf6a94f77e30322b2ce9479ce1fc437ca8ded2eb3b553c",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "graphite": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/graphite.png",
+      "original_sha256": "514d3719c8cd72b6ab92a4db21423c33ed32f4fdef2343da1663e6cade758d04",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "grok": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/grok.png",
+      "original_sha256": "8ca4d3df6b726575c22062e988fcc5c2625b45d31ccf19908d5937d86fd2896e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "handbrake": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/handbrake.png",
+      "original_sha256": "ac2909d8bbf7bb69746b556217f9c0f0e34512dbeb1f39240a8d22c0fc4689f9",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "haproxy": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/haproxy.png",
+      "original_sha256": "aac0e77903ebc9df798afc306453d26ea45275011c19b291b089e5da6251c115",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "icloud": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/icloud.png",
+      "original_sha256": "e5b580c6ef748cd77d8dcb893be90f5948fed6aa572d976b47c20dedc634391a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "instructure-canvas": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/instructure-canvas.png",
+      "original_sha256": "8beeb1064d91127c010809f2c73bc7edabb8102a5c62f716c239ecccbf2203c8",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "java": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/java.png",
+      "original_sha256": "171ca3227733fa318daada0b5c2b36ce5e116b9547d36d9d24be3f158f017953",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "jdownloader": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/jdownloader.png",
+      "original_sha256": "d4e94995bdb0f23c247d2c2ff921f079e33d86db3b5034537217be1528c3c4a1",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "jenkins": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/jenkins.png",
+      "original_sha256": "ee7724ad75a7b0466ebf76772c09889995d13400a20ebf03c1bcd2f7b460ed35",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "jetbrains": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/jetbrains.png",
+      "original_sha256": "b44e6e8e80f07bdb6bbf89698e681683900870bcc7e4d86a0ffb3e38523c0dcd",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "keepassxc": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/keepassxc.png",
+      "original_sha256": "689872e9125bce2ac776c5592b24745e473af006d37676cf694ec6c39f8a4a1e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "kibana": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/kibana.png",
+      "original_sha256": "80acf1bd7fa1b1d3670ce47ff5fe8d9422eb61b992c7e860de660794e0003606",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "languagetool": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/languagetool.png",
+      "original_sha256": "220439869fa5fa294637018a5eaa6498aa807b458c292b788062cec49675432d",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "ldap": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/ldap.png",
+      "original_sha256": "b5352f944c3527373494475bddb0b7269c6d52c23343eacaaacf16df1216858a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "libreoffice": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/libreoffice.png",
+      "original_sha256": "f0857b48bf5c7b8ac43c79a21084ddd2e0d29c0adb0b661f3c07d267628b9f07",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "librewolf": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/librewolf.png",
+      "original_sha256": "7eaea3076317c61fef54de40e0634f8597b62dcf2abc065647864b350b3264a8",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "linkedin": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/linkedin.png",
+      "original_sha256": "ff21d2377ae53ea32fa5d7ea0cd4f378b9c26785711ae231380a8ebe750dcc84",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "linux": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/linux.png",
+      "original_sha256": "a67046a4a118181c2132f53861b928077c0787df41e3536fb9623df2259996c6",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "localsend": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/localsend.png",
+      "original_sha256": "ecc900e0a70ef257155bbeb436d2c16dc60901c1cd310273c832954370c3c005",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "lunar": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/lunar.png",
+      "original_sha256": "1d9ebe3f5dc7fc48b89de5da6e134c2e25e21657879980251940fe357ef0f296",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "mariadb": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/mariadb.png",
+      "original_sha256": "e4fd9e2618e77a68f8a3c745973de7427987a4d764f83bebde1d0657a1803d96",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "memcached": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/memcached.png",
+      "original_sha256": "fe5bd92d503351c0a0bb8df9c0880cf34529214b19e1427c315a0b4bafc855db",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-access": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-access.png",
+      "original_sha256": "c7d613e02a4a5f27b71fb6d94459a6fa4a23cda5fb7567968c206a750f26253a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-azure": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-azure.png",
+      "original_sha256": "b69f2c91adb967b985347282ae8790d720dee166e2e5a475412db372b1f44c9b",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-copilot": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-copilot.png",
+      "original_sha256": "7ba1579308c1bf0783d3f25dedf91b920ea4deba4064c2242a37be1cfb8bfaa5",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-defender": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-defender.png",
+      "original_sha256": "70b36d22c4df3e1d1206d06e3fce05971962f5527a8f5c9739309415362e59b0",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-edge": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-edge.png",
+      "original_sha256": "9a9f6ba5824bb944838b498700fe8e2637dad0a34fa2c96adc7e1a41b7209101",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-excel": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-excel.png",
+      "original_sha256": "0891f0bbb2eb992a71aab3c81b36b1dd9225e7023e74d9e17af4b181c5f96dda",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-office": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-office.png",
+      "original_sha256": "f420eaaffe4ba61612977a74567b493cde329dcf0b5114c49a73e2441a807ca2",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-onenote": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-onenote.png",
+      "original_sha256": "c4a69d65e0821435d257e3c0d6dbefa6fb62a62018cab08339a2798cdc587d6b",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-outlook": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-outlook.png",
+      "original_sha256": "dc2c4bc1d5e3ef4340a957a078f2e612a2c74ee30fd834e2cb4527cd67aa7058",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-powerpoint": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-powerpoint.png",
+      "original_sha256": "0268f6b53457ad47abf7570ebe6e667f344a9eeb9e1b4b267cac4b9780d12bfc",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-powertoys": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-powertoys.png",
+      "original_sha256": "f8c88d223b9e16b6da1ebef594e91ab056b92246b8a0d6beb130cb0842b26e36",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-sql-server": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-sql-server.png",
+      "original_sha256": "9d19a51e55778ff6e46c6d34a75ab17669b5a48e7723bbfce3b50d5ef8dcd851",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-teams": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-teams.png",
+      "original_sha256": "743e57230379d505bc29d488ecfd4f993650ad63567c28966e827566c215747a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-word": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-word.png",
+      "original_sha256": "9867712b5617558867806bc9f7a3ecc4b6e81543d2cef4ae8874f89735630601",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "mkvtoolnix": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/mkvtoolnix.png",
+      "original_sha256": "2dca1afa3e4637932662c668ede8daf8948379aecdb45bfdcaa75ae2aa9a2acc",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "mongodb": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/mongodb.png",
+      "original_sha256": "f22d4fd6e906da14990b4884ca06886b7ebfb9268d7a0e857ea1989fc859de09",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "mozilla": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/mozilla.png",
+      "original_sha256": "3f5f7841de0abb0c6fe4eac88f9ed2d49a0432e12a14d937f6ec9feecc854f81",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "munin": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/munin.png",
+      "original_sha256": "07ee03c9858c0a0faa39cc5a2b4f55335fb7ee29bbc89cfccd05c87309699350",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "mysql": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/mysql.png",
+      "original_sha256": "2bfca465e11c1774d2f95d707d9c8c25cf4c8ba4fe3056136334539837d0668b",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "nagios": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/nagios.png",
+      "original_sha256": "3b1773b903bdb08372e4992841b072bc962e33337fa1626fb48838b7fc0f2154",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "netronome": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/netronome.png",
+      "original_sha256": "9e7d7d13456209abb2eb8614adbea975484f1d48c977caee62a5f6d9da6aaeb8",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "nextcloud": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/nextcloud.png",
+      "original_sha256": "d00a2c082f7af575dfa54a15f3bdc7a15ee85e50053ed555a5a99b0c632f166f",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "nginx": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/nginx.png",
+      "original_sha256": "510543edf8658027a632edf4e201e061a85c9cb2b057b73086b830d13f52c381",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "node-js": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/node-js.png",
+      "original_sha256": "84c0b917136300b9e9b78dafc40871377af0cd2d9b82d15c5bf65db42725eef1",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "nordvpn": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/nordvpn.png",
+      "original_sha256": "a600df7ebe9dd4b2eaa84b073a94204f2ab4350000e966f890130ff38947d9fa",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "notepad-plus-plus": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/notepad-plus-plus.png",
+      "original_sha256": "626d3bd6341258beb94b14f32f44b94eb697823c7873d5c3409d43f990f324a6",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "notion": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/notion.png",
+      "original_sha256": "c2868e10c33ea5dd99d1aca5f409f23437f1d2696e13c2ebb3baf023650c3e8a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "notion-calendar": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/notion-calendar.png",
+      "original_sha256": "a13f1a18deefa9ec6a644800d93ae723e07349908fc3c51c07ae16983509d473",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "nx-witness": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/nx-witness.png",
+      "original_sha256": "7606608f392ff4c0aa31b1e94cd80b850c4fdf7f2660ae51bc97a1dc667c666b",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "obsidian": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/obsidian.png",
+      "original_sha256": "5eeac2a82bc0b718dde32a142c3afee8d6742fbc5b978e728e9399a5a4103964",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "odoo": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/odoo.png",
+      "original_sha256": "23570c59180c67c58fb1abfaae750cce9906772c657e9b2797cd1e1fa7505d5a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "ollama": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/ollama.png",
+      "original_sha256": "9dc47ec46f98ac634eeae104c4c473fef20972f66274e1f08b795f09c882d76d",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "omada": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/omada.png",
+      "original_sha256": "e469947b1c2db2ad4b0fe6745d6b215a23ced9645309900e9a05e99bace39cfa",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "onlyoffice": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/onlyoffice.png",
+      "original_sha256": "24582abda0a34d63a9fd39106848cbea319d4d2974896548ceed9908f9b6b420",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "openldap": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/openldap.png",
+      "original_sha256": "7b1504bec51cca8e0f53610afdc164b21d546c986dc9d2c17b99e1f65b374351",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "openshift": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/openshift.png",
+      "original_sha256": "477457d6849eba7f3fd1bd20276ea4dfb6bf5f0857a9df6d2ac26de2f4400537",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "openssh": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/openssh.png",
+      "original_sha256": "bb2122ead760fd18a70525b0349e660b6bf793cbd9c38b9f0a3f3f0a8d72253c",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "openvpn": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/openvpn.png",
+      "original_sha256": "f69864ef5cb65e43346f3b7641bd9941d80ea1bcb3860c15d32a675324f00dc5",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "opera": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/opera.png",
+      "original_sha256": "fdca569d5553178706544cbf50748b3da7ce79b5eac88a88de9ca7f5859325f4",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "owncloud": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/owncloud.png",
+      "original_sha256": "68960c22ef548d0b4d93f6cdb1a0e42041cd2ce2a8096c99fbb89ccc6c240327",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "pango": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/pango.png",
+      "original_sha256": "f75cf8ce12a08077a3283c5e8325f853a640d5ae37166b4126535987a97dd8c9",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "pasta": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/pasta.png",
+      "original_sha256": "0eec954616790bca312de3081151352af9a7a54c18084970d8f2af67506ed502",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "pdfcraft": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/pdfcraft.png",
+      "original_sha256": "0c1544730863b277aab5419f70227c79d0afdd76f4680a46582d139f8c0542e4",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "perplexity-ai": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/perplexity-ai.png",
+      "original_sha256": "6ed997d0f77044b0097779d80cdb12b55cf5b19b1c2bdd6d03c1b288b5ed1b7e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "phpmyadmin": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/phpmyadmin.png",
+      "original_sha256": "2076747441cbc4f9dfec1717b0555dc4a5af5e3edef17bc5d373e222df06b95b",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "plex": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/plex.png",
+      "original_sha256": "b8011bd7d96717ddcae124cb6f5087be11188d78535361c3ebed67d156809c16",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "podman": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/podman.png",
+      "original_sha256": "9ec130743d7708006b65b476494f19b947f175fc16d2bb64ee41a536b5992485",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "postgresql": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/postgresql.png",
+      "original_sha256": "82c6eb2979db4824b3ab704d504dcd5d34e67f263888a8ba9c3d07b38f88e44b",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "proton-drive": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/proton-drive.png",
+      "original_sha256": "c017b94bd89e937c5ed5dba5aed37a23b4794d2a2eb8b9581955516c7daf56e2",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "putty": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/putty.png",
+      "original_sha256": "fd89c80cdea57fa1fb8b4a659567adb5d70f4ba69acdb81e614f2aa356b48d54",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "python": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/python.png",
+      "original_sha256": "2954a70fdc87564ef123008966b79ba0b035d049770a35314b8d53f5bc7cbe34",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "qbittorrent": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/qbittorrent.png",
+      "original_sha256": "40991cecd516daef563e1816778eb601b7df61457b683def95cfadf5b45c0c2f",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "qemu": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/qemu.png",
+      "original_sha256": "4deb0161661e9cfe9f94577f77b18f626ecaa9e5b54ada9b5a3c6db23d483130",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "qnap": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/qnap.png",
+      "original_sha256": "dc4135c18604c82c08fd164fddf781e65a2b5a5fdf634f18888d4306ce52fe6e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "rabbitmq": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/rabbitmq.png",
+      "original_sha256": "c54b7d98db48e5e59d1ebd4414e83b3b5648464af0c5c4c97d83326f80dab89a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "rancher-harvester": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/rancher-harvester.png",
+      "original_sha256": "95e81374d913813266e33094943b223b8c26d700ac5ae0461a6bca09dbe115ba",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "raspberry-pi": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/raspberry-pi.png",
+      "original_sha256": "14fabc3709d823798bbfd789cec5a1382da8ef796973a8483407373a0415735f",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "raycast": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/raycast.png",
+      "original_sha256": "2501d4ddff0639e779fa71aebdd1c8a57a1f2d287234538cf345703ba58722f2",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "razer": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/razer.png",
+      "original_sha256": "2d10af0f2f98301cc7f356e43bfd7106661b16b68a0cb44d1afda7e9b7a673ac",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "rclone": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/rclone.png",
+      "original_sha256": "5c98a16e972b17a850aff53ee02c63f9079a36b8404b76088955033c00478e3a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "red-hat": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/red-hat.png",
+      "original_sha256": "d7735db399a2ee923cddfc9a98e3fcd32d3229d3dd28c31ea3070636f58d22dd",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "redis": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/redis.png",
+      "original_sha256": "d063ba0fd397c990b4fa98efd1b3a57807e25799993422404158ff2b5bae0c60",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "remmina": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/remmina.png",
+      "original_sha256": "25aa90cf69ab6bbae54d36fe0f7306e07ddc0b9a69914da533093cdd4da7e7dd",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "resilio-sync": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/resilio-sync.png",
+      "original_sha256": "ab17f05ce8665fc76b7c05fa390fe203f1a91191080724f43b5635a9dc9527b9",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "roblox": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/roblox.png",
+      "original_sha256": "bd19ca94236440cc41eebcd862e94e6c1c0eb6b9de9898e8bb70d8ab961508c7",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "rocket-chat": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/rocket-chat.png",
+      "original_sha256": "b759139e9bc0c6d348743f120535e066a1ac20446a7f4928178f188b274e8266",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "rustdesk": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/rustdesk.png",
+      "original_sha256": "36557f83dc78a0973386ad80f15e6eb405768b10cd1fda7f28abb254f023fab7",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "safari": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/safari.png",
+      "original_sha256": "67cd2a436b310de5b5d18c71daf4fba770f0e814dc1054226c7701dddf9c79f1",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "sentry": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/sentry.png",
+      "original_sha256": "34d453563e20d127e552655af20130ecd719eaf04beccf4e1371ae04559c03f2",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "signal": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/signal.png",
+      "original_sha256": "83406a049397a8abdd9c8e8c520241b17c3370c899c33acabb9545537d5d010b",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "slack": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/slack.png",
+      "original_sha256": "90243e5d9cf97c27ac42d3770b37bb1214f8c7b30beb586529fb0a50b7d784a3",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "sony": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/sony.png",
+      "original_sha256": "15cfbb052298cb86e9a650a8666387cc3026bb48d6239b807cd8e2678130181e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "spotify": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/spotify.png",
+      "original_sha256": "7999335d90027d54c377c18d7a2887cc4685aac79d748b54e88b92902d5540d7",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "steam": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/steam.png",
+      "original_sha256": "2be39ae2cbeb4a2f7f877b2946e1cdfe4efd208c82e3b718f1eaeb451d2c682c",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "sunshine": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/sunshine.png",
+      "original_sha256": "b89cb64ff6c5990f595b4f904c78bd560ff99613d175ce1792998ffdd2a3224c",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "syncthing": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/syncthing.png",
+      "original_sha256": "61956334151a9111b59ab3608052daf416cb2637be30ba49f3b5bb4233c949af",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "synology": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/synology.png",
+      "original_sha256": "e5d1c52800c7476549a4b4d627c276ccccf3caae8aecc7663231784c277a5667",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "tableau": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/tableau.png",
+      "original_sha256": "bed780356cfa2e63c2042eb59d4fc2fce5fcf60044b8dd165b6d1711b3f322c0",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "tailscale": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/tailscale.png",
+      "original_sha256": "0b0819663b5375bc2819340ba034561ddcad7ee2ed5e13393732c7af96f8091c",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "teamviewer": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/teamviewer.png",
+      "original_sha256": "889c0a0366196a189baef1eb499d028158b1503c2d8240ed2f4e62de1bbed550",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "technitium": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/technitium.png",
+      "original_sha256": "b8b4881e64bf37d995d021da44c88bc907cacfe8f1b7671a54712a9a0b7b8ec2",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "telegraf": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/telegraf.png",
+      "original_sha256": "e3669a8891a6af84ac22af3a6f0ea910737baae24ec702969d9aaf89d1722387",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "telegram": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/telegram.png",
+      "original_sha256": "720120f9fcd56e9e53b6ff4888db70e728ba9133e1d259f28f15242b0a530715",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "thunderbird": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/thunderbird.png",
+      "original_sha256": "47c2859cc04ec55dc1d5f050ee4f8ac4a500c48e8747534ec0a219d30c709be0",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "ticktick": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/ticktick.png",
+      "original_sha256": "5b879252154ef52981d8d4b12ed150e5b7cc96d228335f96f53b2b287b0844c4",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "tidal": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/tidal.png",
+      "original_sha256": "5231bbe759b18862a771caaaef4dbc58620ac4ac4fc34420f27e8104ae731596",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "todoist": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/todoist.png",
+      "original_sha256": "650802ccb9dcd95344a83c518f4f077de03b58982b0501e94b2b447c34160964",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "tor-browser": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/tor-browser.png",
+      "original_sha256": "a9f3dd771c07c20691f10c93ce98cbfb1f4bb4fe33f29af72c5048cd94a12bdd",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "tp-link": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/tp-link.png",
+      "original_sha256": "147a1c7df62054807906dfc8b71ef656879a152ee606336b3b04e925cd2cd543",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "transmission": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/transmission.png",
+      "original_sha256": "fb19d1d568428c56a34d5f39d7f4e4b0e41bffd9d076755bef18cae97573c36c",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "ubiquiti-unifi": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/ubiquiti-unifi.png",
+      "original_sha256": "5224e22354a1ab72c867f2e162fe65ee6b3ce258f5bcff1155b3fb889a44b990",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "ubuntu": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/ubuntu.png",
+      "original_sha256": "3427c6e89c04fd3b4510cd2f85387bfcae8a24faf895db84ffe3b7821d68d9d8",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "unbound": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/unbound.png",
+      "original_sha256": "49c2f7b15ca86bc1653e005e2300ccd5274d40d766a61e3f778af645888240d7",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "utorrent": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/utorrent.png",
+      "original_sha256": "1e2159e47580cf81ef48d33538988e28bb957debbe0f2da12f1f425692c77189",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "valkey": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/valkey.png",
+      "original_sha256": "e6235db1b426809a5463ff39569986151f1b1d808c71781a69f800af046a8bf1",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "vanguard": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/vanguard.png",
+      "original_sha256": "9a58cdb7deb5b245d43b3cd00af6f14062863b1a7dc8d13c44fd64f2d7c2e91e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "visio-meet": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/visio-meet.png",
+      "original_sha256": "f0100fdb90cc6216068e9aabe5979c533dddc479066d19048cc38942ab69bbea",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "visual-studio-code": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/visual-studio-code.png",
+      "original_sha256": "3f61ddaf760d1b826a98ef33c4c966fe651370f966514edbb5873eee2acceb4a",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "vscodium": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/vscodium.png",
+      "original_sha256": "29f42ead456e315b4080302d9ae8a6f0867c6b4b13e01f7314c0776dae360b34",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "wazuh": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/wazuh.png",
+      "original_sha256": "bd9b1aa109eaa441c17eddaf79023dbcdd1c5b3237aa61aa128d8b7e85d280db",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "webmin": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/webmin.png",
+      "original_sha256": "f398c6df635c0070fc1e3c3ab7428218b95a6ee4d7199c6bd039738d6a3ec93f",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "whatsapp": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/whatsapp.png",
+      "original_sha256": "0f8cd631651502495fe320bb8c65c57c36ee271edf2993329f67c70ffd8a9d3e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "windows-terminal": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/windows-terminal.png",
+      "original_sha256": "9dfc80608658035896ce0918a12a9bdbc9ec9873506e4b9bceb5aae98393b90f",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "wireguard": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/wireguard.png",
+      "original_sha256": "89f6546d46ef4c22941d6d2bb20ebf8dae0633343b62e46c0f0fb66385743b2e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "xbox": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/xbox.png",
+      "original_sha256": "9998b597464ce04ca3af14739715a3353cdb9d5101a4519c9764864cec7a9ed3",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "yacreader": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/yacreader.png",
+      "original_sha256": "d0ded3115d7637db50cb5adc0dd8be74f9c8e04484dfa896c10c7634c3e8ed5e",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "yelp": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/yelp.png",
+      "original_sha256": "94f59c1db34bb6f0a2f5fa548324ebf5565003f790b693a063d642ffd3048429",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "youtube": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/youtube.png",
+      "original_sha256": "f4e6f8d055b165bb2e967c745131983aaa553eabe8aed5bc3db034a133e3bc12",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "zotero": {
+      "source": "https://cdn.jsdelivr.net/gh/selfhst/icons@87a5dfd901a341e271eb453ffebce6c5a88c308e/png/zotero.png",
+      "original_sha256": "1a017acaa0ee363b9d62da128d9486d76fc03e8badc7a332344360813ad24c2c",
+      "changes": "PNG convertido a RGBA, centrado y ajustado a 128, 20 y 42 px"
+    },
+    "adobe-acrobat": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/adobe-acrobat.png",
+      "original_sha256": "0081b7cc451970a4924a3b63241563efd25fa536fd86fb6efc70991bf34fd157",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "apache": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/apache.png",
+      "original_sha256": "0aaed3946d869057bd9e447e6fdbc9fb5e6f0319546676cb82835d188d6676c3",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "apache-tomcat": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/apache-tomcat.png",
+      "original_sha256": "6608bd59e8fd6f22e2d1c4da03141923c47e7c8079b2196187e401611fad588e",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "chatgpt": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/chatgpt.png",
+      "original_sha256": "bbe47002fbc86b9b372528e0243a36af79af950b600ff14e127db22ca419d491",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "crowdstrike": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/crowdstrike.png",
+      "original_sha256": "15cf71f83e4bf8db9efd1c25d0ff138ef4d1989fc86aea535fb861e97c817a4f",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "deezer": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/deezer.png",
+      "original_sha256": "787886697e7cb0ab583314ee6cd696d0624b58aeb79d7cf60b56723f693e7198",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "elastic": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/elastic.png",
+      "original_sha256": "aa4ad6dfb2b13995113090676045c120283144101e84e85537f127bba8f55ca7",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "ferdium": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/ferdium.png",
+      "original_sha256": "e158845eabcb8a50f2a6d9aa15b540ded73fd7f29e66722485e7bff99b37a0ee",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "freecad": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/freecad.png",
+      "original_sha256": "31c8069f046865dfd9859994e02af900d9b94e255cafab80dbdaec8673e7d49c",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "github-copilot": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/github-copilot.png",
+      "original_sha256": "554febac04a9fcd9a4c420374dc9022b3089e3bb013ee818a2cff131eebd8b39",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "google-photos": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/google-photos.png",
+      "original_sha256": "5208ba4b3b61289f43566a32d9aa3a59a1cb8d8e85b730d2ee15b051616d266d",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "google-play": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/google-play.png",
+      "original_sha256": "b59b581baf3b948c76efb7b71f83685d600354e2e7eaac538c49b3e9bbaf7dc9",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "influxdb": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/influxdb.png",
+      "original_sha256": "286434d6f768134dabc8a9a81d06b7039724e1a28dcfb253df3d78566b62146f",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "inkscape": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/inkscape.png",
+      "original_sha256": "076487ebde4e9e56b9238477c8057a53c2cae951c31da77fafb162654853e617",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "instagram": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/instagram.png",
+      "original_sha256": "3b280ec57d652acb9b129f3bd5b0ed40cb042133de7ffd6c1d316a242e7a71ad",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "kubernetes": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/kubernetes.png",
+      "original_sha256": "cb1d72faa05ede7cec773dac5748bed60bb34a4176aa835c33dbbc06bdd6b379",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "last-fm": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/last-fm.png",
+      "original_sha256": "a6547bb75564515a7fc4105da268df265c5386148fb0918154e4546b875c7fde",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "lynx": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/lynx.png",
+      "original_sha256": "823b7197a56081e132165ad409c3ccd144613f81c77c9e82fdce21416c1c889d",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "mattermost": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/mattermost.png",
+      "original_sha256": "a6c59d92393712c4231522ea4496e74566ea5c5a5f9e2561e9cccbfba82e41c3",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "meshcentral": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/meshcentral.png",
+      "original_sha256": "2ebff831c3198135b4abad749d0b27a1e82f614400128271be432244ded1ef1f",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-bing": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-bing.png",
+      "original_sha256": "6e717b5e23230780a1a20c97f6bd347aeaef1da58f2f7ff8e16b65c541661d46",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "microsoft-onedrive": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/microsoft-onedrive.png",
+      "original_sha256": "b1770afcecbc3ced8ebb539006d78db2f28f2d31463ada23b45131287c9eb0cf",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "minecraft": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/minecraft.png",
+      "original_sha256": "f4c98cc2de1cc288a47cc1664a18758a511960c0b1982e2ed4cd6a0298035fd6",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "modrinth": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/modrinth.png",
+      "original_sha256": "882cb1479037ee8a3024887ef56c63e7bb0c7286db955c44b88a9fdb7fa78d52",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "speedtest": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/speedtest.png",
+      "original_sha256": "f73b5dc11d3249dc5fcffcd75cea9f97b7605c74adf68b87d10ba9d147c2e0d8",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "ugreen-nas": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/ugreen-nas.png",
+      "original_sha256": "f92b07b0c4b2bda406e4324d115d463b9d49dbd64195e27bc20b20ca93d4bb85",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "western-digital": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/western-digital.png",
+      "original_sha256": "b8a020230d4f4f0aae231f4dfac82699e783621fd59c1e9be39f5248b1154ec2",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "xubuntu": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/xubuntu.png",
+      "original_sha256": "9592b57accd4bf1448c8419415d5c106483035eb47200849628e940086ddf8ca",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "youtube-dl": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/youtube-dl.png",
+      "original_sha256": "aac0bd143c6c461a0675e9e52d08e0cfdf06631927abeff8916993e4199c37d5",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "zabbix": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/zabbix.png",
+      "original_sha256": "5a71a5641dccbccca0415248ec576f24c46e0e214869b607d437ceba444a5ecd",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    },
+    "zoom": {
+      "source": "https://raw.githubusercontent.com/selfhst/icons/87a5dfd901a341e271eb453ffebce6c5a88c308e/png/zoom.png",
+      "original_sha256": "cef35ca8503fdbd4949dcb220557122f6c81da8e8789de3de38ae5ffb6aad05b",
+      "changes": "PNG RGBA centrado y ajustado a 128, 20 y 42 px"
+    }
+  },
+  "failed": {}
+}

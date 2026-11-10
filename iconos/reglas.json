@@ -1,0 +1,4529 @@
+[
+  {
+    "alias": "agente de red de kaspersky security center",
+    "archivo": "familias/si-kaspersky.png"
+  },
+  {
+    "alias": "microsoft windows desktop runtime",
+    "archivo": "familias/si-dotnet.png"
+  },
+  {
+    "alias": "agile chilecompra firma digital",
+    "archivo": "familias/official-agilefirma.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "microsoft teams meeting add-in",
+    "archivo": "familias/microsoft-teams.png"
+  },
+  {
+    "alias": "aplicaciones de microsoft 365",
+    "archivo": "familias/microsoft-office.png"
+  },
+  {
+    "alias": "aplicación wordpad de windows",
+    "archivo": "familias/papirus-093ca09ce6caf5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "microsoft visual studio code",
+    "archivo": "familias/visual-studio-code.png"
+  },
+  {
+    "alias": "lightdm gtk greeter settings",
+    "archivo": "familias/papirus-43d54604d306e0.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "lightdm-gtk-greeter-settings",
+    "archivo": "familias/papirus-43d54604d306e0.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "microsoft.outlookforwindows",
+    "archivo": "familias/microsoft-outlook.png"
+  },
+  {
+    "alias": "com.microsoft.openxml.excel",
+    "archivo": "familias/microsoft-excel.png"
+  },
+  {
+    "alias": "switch sound file converter",
+    "archivo": "familias/web-nch.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "odbc driver for sql server",
+    "archivo": "familias/microsoft-sql-server.png"
+  },
+  {
+    "alias": "agente de red de kaspersky",
+    "archivo": "familias/si-kaspersky.png"
+  },
+  {
+    "alias": "tracktion download manager",
+    "archivo": "familias/papirus-61e8457adbbf27.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "tracktion-download-manager",
+    "archivo": "familias/papirus-61e8457adbbf27.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "autodesk genuine service",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "microsoft edge webview2",
+    "archivo": "familias/microsoft-edge.png"
+  },
+  {
+    "alias": "adobe lightroom classic",
+    "archivo": "familias/si-adobelightroomclassic.png"
+  },
+  {
+    "alias": "access database engine",
+    "archivo": "familias/microsoft-access.png"
+  },
+  {
+    "alias": "office 16 click-to-run",
+    "archivo": "familias/microsoft-office.png"
+  },
+  {
+    "alias": "advanced micro devices",
+    "archivo": "familias/si-amd.png"
+  },
+  {
+    "alias": "k-lite mega codec pack",
+    "archivo": "familias/web-klite.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "robloxplayerinstaller",
+    "archivo": "familias/roblox.png"
+  },
+  {
+    "alias": "basic attention token",
+    "archivo": "familias/si-basicattentiontoken.png"
+  },
+  {
+    "alias": "360 internet security",
+    "archivo": "familias/official-qihoo.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "microsoft powerpoint",
+    "archivo": "familias/microsoft-powerpoint.png"
+  },
+  {
+    "alias": "microsoft sql server",
+    "archivo": "familias/microsoft-sql-server.png"
+  },
+  {
+    "alias": "google chrome helper",
+    "archivo": "familias/google-chrome.png"
+  },
+  {
+    "alias": "adobe acrobat reader",
+    "archivo": "familias/si-adobeacrobatreader.png"
+  },
+  {
+    "alias": "aplicación de nvidia",
+    "archivo": "familias/si-nvidia.png"
+  },
+  {
+    "alias": "oracle vm virtualbox",
+    "archivo": "familias/si-virtualbox.png"
+  },
+  {
+    "alias": "media player classic",
+    "archivo": "familias/official-mpchc.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "microsoft powertoys",
+    "archivo": "familias/microsoft-powertoys.png"
+  },
+  {
+    "alias": "roblox bootstrapper",
+    "archivo": "familias/roblox.png"
+  },
+  {
+    "alias": "adobe premiere rush",
+    "archivo": "familias/adobe-premiere-pro.png"
+  },
+  {
+    "alias": "adobe after effects",
+    "archivo": "familias/si-adobeaftereffects.png"
+  },
+  {
+    "alias": "apache netbeans ide",
+    "archivo": "familias/si-apachenetbeanside.png"
+  },
+  {
+    "alias": "kingston technology",
+    "archivo": "familias/si-kingstontechnology.png"
+  },
+  {
+    "alias": "wondershare filmora",
+    "archivo": "familias/si-wondersharefilmora.png"
+  },
+  {
+    "alias": "autodesk navisworks",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "adobe media encoder",
+    "archivo": "familias/si-adobe.png"
+  },
+  {
+    "alias": "cisco secure client",
+    "archivo": "familias/si-cisco.png"
+  },
+  {
+    "alias": "cisco packet tracer",
+    "archivo": "familias/si-cisco.png"
+  },
+  {
+    "alias": "ibus typing booster",
+    "archivo": "familias/papirus-2ac8c302b03730.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ibus-typing-booster",
+    "archivo": "familias/papirus-2ac8c302b03730.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "software-properties",
+    "archivo": "familias/papirus-c58fcedc33f54f.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "software properties",
+    "archivo": "familias/papirus-c58fcedc33f54f.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "wordpad application",
+    "archivo": "familias/papirus-093ca09ce6caf5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "wordpad for windows",
+    "archivo": "familias/papirus-093ca09ce6caf5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "debut video capture",
+    "archivo": "familias/web-nch.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "any video converter",
+    "archivo": "familias/web-anyvideoconverter.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "advanced systemcare",
+    "archivo": "familias/official-iobit.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "axis device manager",
+    "archivo": "familias/official-axis.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "advanced ip scanner",
+    "archivo": "familias/official-advancedip.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "360 extreme browser",
+    "archivo": "familias/official-qihoo.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "bulk rename utility",
+    "archivo": "familias/official-bulkrename.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "visual studio code",
+    "archivo": "familias/visual-studio-code.png"
+  },
+  {
+    "alias": "microsoft onedrive",
+    "archivo": "familias/microsoft-onedrive.png"
+  },
+  {
+    "alias": "adobe premiere pro",
+    "archivo": "familias/adobe-premiere-pro.png"
+  },
+  {
+    "alias": "microsoft defender",
+    "archivo": "familias/microsoft-defender.png"
+  },
+  {
+    "alias": "microsoft 365 apps",
+    "archivo": "familias/microsoft-office.png"
+  },
+  {
+    "alias": "zebra technologies",
+    "archivo": "familias/si-zebratechnologies.png"
+  },
+  {
+    "alias": "jetbrains phpstorm",
+    "archivo": "familias/si-phpstorm.png"
+  },
+  {
+    "alias": "jetbrains webstorm",
+    "archivo": "familias/si-webstorm.png"
+  },
+  {
+    "alias": "microsoft asp .net",
+    "archivo": "familias/si-dotnet.png"
+  },
+  {
+    "alias": "visualboyadvance-m",
+    "archivo": "familias/papirus-28a3bdcb777286.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "visualboyadvance m",
+    "archivo": "familias/papirus-28a3bdcb777286.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "wps office wpsmain",
+    "archivo": "familias/papirus-9ab906180aedd5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "wps-office-wpsmain",
+    "archivo": "familias/papirus-9ab906180aedd5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "360 total security",
+    "archivo": "familias/official-qihoo.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "microsoft outlook",
+    "archivo": "familias/microsoft-outlook.png"
+  },
+  {
+    "alias": "microsoft onenote",
+    "archivo": "familias/microsoft-onenote.png"
+  },
+  {
+    "alias": "microsoft copilot",
+    "archivo": "familias/microsoft-copilot.png"
+  },
+  {
+    "alias": "adobe illustrator",
+    "archivo": "familias/adobe-illustrator.png"
+  },
+  {
+    "alias": "adobe dreamweaver",
+    "archivo": "familias/si-adobedreamweaver.png"
+  },
+  {
+    "alias": "apache openoffice",
+    "archivo": "familias/si-apacheopenoffice.png"
+  },
+  {
+    "alias": "gnu privacy guard",
+    "archivo": "familias/si-gnuprivacyguard.png"
+  },
+  {
+    "alias": "oracle virtualbox",
+    "archivo": "familias/si-virtualbox.png"
+  },
+  {
+    "alias": "autodesk inventor",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "hpprintscandoctor",
+    "archivo": "familias/si-hp.png"
+  },
+  {
+    "alias": "intellij platform",
+    "archivo": "familias/si-intellijidea.png"
+  },
+  {
+    "alias": "jetbrains pycharm",
+    "archivo": "familias/si-pycharm.png"
+  },
+  {
+    "alias": "microsoft asp.net",
+    "archivo": "familias/si-dotnet.png"
+  },
+  {
+    "alias": "master pdf editor",
+    "archivo": "familias/papirus-7811a599393369.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "master-pdf-editor",
+    "archivo": "familias/papirus-7811a599393369.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "realvnc vncviewer",
+    "archivo": "familias/papirus-e7317ebedb7315.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "realvnc-vncviewer",
+    "archivo": "familias/papirus-e7317ebedb7315.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "k-lite codec pack",
+    "archivo": "familias/web-klite.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "corel photo-paint",
+    "archivo": "familias/web-corel.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "microsoft access",
+    "archivo": "familias/microsoft-access.png"
+  },
+  {
+    "alias": "windows terminal",
+    "archivo": "familias/windows-terminal.png"
+  },
+  {
+    "alias": "microsoft office",
+    "archivo": "familias/microsoft-office.png"
+  },
+  {
+    "alias": "chrome installer",
+    "archivo": "familias/google-chrome.png"
+  },
+  {
+    "alias": "robloxplayerbeta",
+    "archivo": "familias/roblox.png"
+  },
+  {
+    "alias": "robloxstudiobeta",
+    "archivo": "familias/roblox.png"
+  },
+  {
+    "alias": "vlc media player",
+    "archivo": "familias/si-vlcmediaplayer.png"
+  },
+  {
+    "alias": "autodesk autocad",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "autodesk 3ds max",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "cisco anyconnect",
+    "archivo": "familias/si-cisco.png"
+  },
+  {
+    "alias": "indicator applet",
+    "archivo": "familias/papirus-957663fe932a88.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "indicator-applet",
+    "archivo": "familias/papirus-957663fe932a88.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "software manager",
+    "archivo": "familias/papirus-29c83a671265fd.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "software-manager",
+    "archivo": "familias/papirus-29c83a671265fd.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "tracker software",
+    "archivo": "familias/web-pdfxchange.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "revo uninstaller",
+    "archivo": "familias/official-revouninstaller.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "advanced renamer",
+    "archivo": "familias/official-advancedrenamer.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "microsoft teams",
+    "archivo": "familias/microsoft-teams.png"
+  },
+  {
+    "alias": "microsoft excel",
+    "archivo": "familias/microsoft-excel.png"
+  },
+  {
+    "alias": "adobe lightroom",
+    "archivo": "familias/adobe-lightroom.png"
+  },
+  {
+    "alias": "adobe photoshop",
+    "archivo": "familias/adobe-photoshop.png"
+  },
+  {
+    "alias": "microsoft azure",
+    "archivo": "familias/microsoft-azure.png"
+  },
+  {
+    "alias": "western digital",
+    "archivo": "familias/western-digital.png"
+  },
+  {
+    "alias": "notion calendar",
+    "archivo": "familias/notion-calendar.png"
+  },
+  {
+    "alias": "mozilla firefox",
+    "archivo": "familias/firefox.png"
+  },
+  {
+    "alias": "microsoft.teams",
+    "archivo": "familias/microsoft-teams.png"
+  },
+  {
+    "alias": "code - insiders",
+    "archivo": "familias/visual-studio-code.png"
+  },
+  {
+    "alias": "eclipse temurin",
+    "archivo": "familias/java.png"
+  },
+  {
+    "alias": "git for windows",
+    "archivo": "familias/git.png"
+  },
+  {
+    "alias": "nextcloud agent",
+    "archivo": "familias/nextcloud.png"
+  },
+  {
+    "alias": "davinci resolve",
+    "archivo": "familias/si-davinciresolve.png"
+  },
+  {
+    "alias": "forticlient vpn",
+    "archivo": "familias/si-fortinet.png"
+  },
+  {
+    "alias": "autodesk fusion",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "autodesk access",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "adobe fireworks",
+    "archivo": "familias/si-adobe.png"
+  },
+  {
+    "alias": "adobe substance",
+    "archivo": "familias/si-adobe.png"
+  },
+  {
+    "alias": "hewlett-packard",
+    "archivo": "familias/si-hp.png"
+  },
+  {
+    "alias": "desktop effects",
+    "archivo": "familias/papirus-91efb5c3550bad.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "desktop-effects",
+    "archivo": "familias/papirus-91efb5c3550bad.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "firewall-config",
+    "archivo": "familias/papirus-2f35d798708b2c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "firewall config",
+    "archivo": "familias/papirus-2f35d798708b2c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "shutter encoder",
+    "archivo": "familias/papirus-0312fa3a9af563.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "shutter-encoder",
+    "archivo": "familias/papirus-0312fa3a9af563.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "update-notifier",
+    "archivo": "familias/papirus-dba31e97e1d876.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "update notifier",
+    "archivo": "familias/papirus-dba31e97e1d876.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "usb creator gtk",
+    "archivo": "familias/papirus-8dd310299796f8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "usb-creator-gtk",
+    "archivo": "familias/papirus-8dd310299796f8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "windows notepad",
+    "archivo": "familias/papirus-331ae74383709c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "logioptionsplus",
+    "archivo": "familias/web-logitech.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "crystaldiskinfo",
+    "archivo": "familias/web-crystalmark.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "crystaldiskmark",
+    "archivo": "familias/web-crystalmark.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "axis ip utility",
+    "archivo": "familias/official-axis.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "performancetest",
+    "archivo": "familias/official-passmark.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "ubiquiti unifi",
+    "archivo": "familias/ubiquiti-unifi.png"
+  },
+  {
+    "alias": "microsoft edge",
+    "archivo": "familias/microsoft-edge.png"
+  },
+  {
+    "alias": "microsoft word",
+    "archivo": "familias/microsoft-word.png"
+  },
+  {
+    "alias": "microsoft bing",
+    "archivo": "familias/microsoft-bing.png"
+  },
+  {
+    "alias": "github copilot",
+    "archivo": "familias/github-copilot.png"
+  },
+  {
+    "alias": "edge installer",
+    "archivo": "familias/microsoft-edge.png"
+  },
+  {
+    "alias": "adobe premiere",
+    "archivo": "familias/adobe-premiere-pro.png"
+  },
+  {
+    "alias": "github desktop",
+    "archivo": "familias/github.png"
+  },
+  {
+    "alias": "zoom workplace",
+    "archivo": "familias/zoom.png"
+  },
+  {
+    "alias": "adobe audition",
+    "archivo": "familias/si-adobeaudition.png"
+  },
+  {
+    "alias": "adobe indesign",
+    "archivo": "familias/si-adobeindesign.png"
+  },
+  {
+    "alias": "android studio",
+    "archivo": "familias/si-androidstudio.png"
+  },
+  {
+    "alias": "autodesk revit",
+    "archivo": "familias/si-autodeskrevit.png"
+  },
+  {
+    "alias": "counter-strike",
+    "archivo": "familias/si-counterstrike.png"
+  },
+  {
+    "alias": "autodesk civil",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "microsoft .net",
+    "archivo": "familias/si-dotnet.png"
+  },
+  {
+    "alias": ".net framework",
+    "archivo": "familias/si-dotnet.png"
+  },
+  {
+    "alias": "audio recorder",
+    "archivo": "familias/papirus-cc14f085bb5d6c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "audio-recorder",
+    "archivo": "familias/papirus-cc14f085bb5d6c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sound-recorder",
+    "archivo": "familias/papirus-2f9a3f61dd8a94.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sound recorder",
+    "archivo": "familias/papirus-2f9a3f61dd8a94.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "stardew-valley",
+    "archivo": "familias/papirus-46cd2f6247d3f6.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "stardew valley",
+    "archivo": "familias/papirus-46cd2f6247d3f6.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "update-manager",
+    "archivo": "familias/papirus-dba31e97e1d876.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "update manager",
+    "archivo": "familias/papirus-dba31e97e1d876.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "beyond compare",
+    "archivo": "familias/web-scooter.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "google photos",
+    "archivo": "familias/google-photos.png"
+  },
+  {
+    "alias": "google chrome",
+    "archivo": "familias/google-chrome.png"
+  },
+  {
+    "alias": "microsoft 365",
+    "archivo": "familias/microsoft-office.png"
+  },
+  {
+    "alias": "perplexity ai",
+    "archivo": "familias/perplexity-ai.png"
+  },
+  {
+    "alias": "elasticsearch",
+    "archivo": "familias/elasticsearch.png"
+  },
+  {
+    "alias": "adobe acrobat",
+    "archivo": "familias/adobe-acrobat.png"
+  },
+  {
+    "alias": "adobe express",
+    "archivo": "familias/adobe-express.png"
+  },
+  {
+    "alias": "google sheets",
+    "archivo": "familias/google-sheets.png"
+  },
+  {
+    "alias": "google slides",
+    "archivo": "familias/google-slides.png"
+  },
+  {
+    "alias": "apache tomcat",
+    "archivo": "familias/apache-tomcat.png"
+  },
+  {
+    "alias": "roblox player",
+    "archivo": "familias/roblox.png"
+  },
+  {
+    "alias": "roblox studio",
+    "archivo": "familias/roblox.png"
+  },
+  {
+    "alias": "zoom meetings",
+    "archivo": "familias/zoom.png"
+  },
+  {
+    "alias": "falcon sensor",
+    "archivo": "familias/crowdstrike.png"
+  },
+  {
+    "alias": "intellij idea",
+    "archivo": "familias/si-intellijidea.png"
+  },
+  {
+    "alias": "subtitle edit",
+    "archivo": "familias/si-subtitleedit.png"
+  },
+  {
+    "alias": "unreal engine",
+    "archivo": "familias/si-unrealengine.png"
+  },
+  {
+    "alias": "youtube music",
+    "archivo": "familias/si-youtubemusic.png"
+  },
+  {
+    "alias": "accoreconsole",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "adobe animate",
+    "archivo": "familias/si-adobe.png"
+  },
+  {
+    "alias": "accessibility",
+    "archivo": "familias/papirus-e084316e710d12.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "albion-online",
+    "archivo": "familias/papirus-9d16aa8a2b6c3d.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "albion online",
+    "archivo": "familias/papirus-9d16aa8a2b6c3d.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "google-chrome",
+    "archivo": "familias/papirus-0c1029a486fd4f.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kcolorchooser",
+    "archivo": "familias/papirus-1cbf528ec2af28.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sublime merge",
+    "archivo": "familias/papirus-4a09debf24d3ff.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sublime-merge",
+    "archivo": "familias/papirus-4a09debf24d3ff.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "pdf24 creator",
+    "archivo": "familias/web-pdf24.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "logi options+",
+    "archivo": "familias/web-logitech.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "r for windows",
+    "archivo": "familias/official-rproject.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "transmission",
+    "archivo": "familias/transmission.png"
+  },
+  {
+    "alias": "raspberry pi",
+    "archivo": "familias/raspberry-pi.png"
+  },
+  {
+    "alias": "google drive",
+    "archivo": "familias/google-drive.png"
+  },
+  {
+    "alias": "proton drive",
+    "archivo": "familias/proton-drive.png"
+  },
+  {
+    "alias": "resilio sync",
+    "archivo": "familias/resilio-sync.png"
+  },
+  {
+    "alias": "languagetool",
+    "archivo": "familias/languagetool.png"
+  },
+  {
+    "alias": "amazon music",
+    "archivo": "familias/amazon-music.png"
+  },
+  {
+    "alias": "adobe reader",
+    "archivo": "familias/adobe-acrobat.png"
+  },
+  {
+    "alias": "adoptopenjdk",
+    "archivo": "familias/java.png"
+  },
+  {
+    "alias": "adblock plus",
+    "archivo": "familias/si-adblockplus.png"
+  },
+  {
+    "alias": "godot engine",
+    "archivo": "familias/si-godotengine.png"
+  },
+  {
+    "alias": "google earth",
+    "archivo": "familias/si-googleearth.png"
+  },
+  {
+    "alias": "malwarebytes",
+    "archivo": "familias/si-malwarebytes.png"
+  },
+  {
+    "alias": "sublime text",
+    "archivo": "familias/si-sublimetext.png"
+  },
+  {
+    "alias": "adobe incopy",
+    "archivo": "familias/si-adobeindesign.png"
+  },
+  {
+    "alias": "adobe bridge",
+    "archivo": "familias/si-adobe.png"
+  },
+  {
+    "alias": "cisco jabber",
+    "archivo": "familias/si-cisco.png"
+  },
+  {
+    "alias": "intel driver",
+    "archivo": "familias/si-intel.png"
+  },
+  {
+    "alias": "dconf editor",
+    "archivo": "familias/papirus-d544e9128b3149.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "dconf-editor",
+    "archivo": "familias/papirus-d544e9128b3149.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "disk utility",
+    "archivo": "familias/papirus-408cabf8d89836.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "disk-utility",
+    "archivo": "familias/papirus-408cabf8d89836.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "foxit reader",
+    "archivo": "familias/papirus-96e0b7a2158f9c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "freefilesync",
+    "archivo": "familias/papirus-fdd1b1cf4f1d9a.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sgt-launcher",
+    "archivo": "familias/papirus-f790da74e8210c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sgt launcher",
+    "archivo": "familias/papirus-f790da74e8210c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sound juicer",
+    "archivo": "familias/papirus-f242f66fc21668.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sound-juicer",
+    "archivo": "familias/papirus-f242f66fc21668.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sqldeveloper",
+    "archivo": "familias/papirus-b725c077576bc3.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "virt manager",
+    "archivo": "familias/papirus-93a7f700bb5078.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "virt-manager",
+    "archivo": "familias/papirus-93a7f700bb5078.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "express burn",
+    "archivo": "familias/web-nch.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "workwithplus",
+    "archivo": "familias/web-genexus.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "logi options",
+    "archivo": "familias/web-logitech.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "rocket.chat",
+    "archivo": "familias/rocket-chat.png"
+  },
+  {
+    "alias": "jdownloader",
+    "archivo": "familias/jdownloader.png"
+  },
+  {
+    "alias": "qbittorrent",
+    "archivo": "familias/qbittorrent.png"
+  },
+  {
+    "alias": "google meet",
+    "archivo": "familias/google-meet.png"
+  },
+  {
+    "alias": "apple music",
+    "archivo": "familias/apple-music.png"
+  },
+  {
+    "alias": "libreoffice",
+    "archivo": "familias/libreoffice.png"
+  },
+  {
+    "alias": "thunderbird",
+    "archivo": "familias/thunderbird.png"
+  },
+  {
+    "alias": "meshcentral",
+    "archivo": "familias/meshcentral.png"
+  },
+  {
+    "alias": "google play",
+    "archivo": "familias/google-play.png"
+  },
+  {
+    "alias": "google docs",
+    "archivo": "familias/google-docs.png"
+  },
+  {
+    "alias": "tor browser",
+    "archivo": "familias/tor-browser.png"
+  },
+  {
+    "alias": "crowdstrike",
+    "archivo": "familias/crowdstrike.png"
+  },
+  {
+    "alias": "bitdefender",
+    "archivo": "familias/si-bitdefender.png"
+  },
+  {
+    "alias": "exafunction",
+    "archivo": "familias/si-codeium.png"
+  },
+  {
+    "alias": "embarcadero",
+    "archivo": "familias/si-embarcadero.png"
+  },
+  {
+    "alias": "gotomeeting",
+    "archivo": "familias/si-gotomeeting.png"
+  },
+  {
+    "alias": "micro focus",
+    "archivo": "familias/si-opentext.png"
+  },
+  {
+    "alias": "prime video",
+    "archivo": "familias/si-primevideo.png"
+  },
+  {
+    "alias": "smartthings",
+    "archivo": "familias/si-smartthings.png"
+  },
+  {
+    "alias": "steelseries",
+    "archivo": "familias/si-steelseries.png"
+  },
+  {
+    "alias": "wondershare",
+    "archivo": "familias/si-wondershare.png"
+  },
+  {
+    "alias": "forticlient",
+    "archivo": "familias/si-fortinet.png"
+  },
+  {
+    "alias": "cisco webex",
+    "archivo": "familias/si-cisco.png"
+  },
+  {
+    "alias": "prusaslicer",
+    "archivo": "familias/papirus-dfd65588c9cfaf.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "antigravity",
+    "archivo": "familias/papirus-a93db617148249.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "bambustudio",
+    "archivo": "familias/papirus-443d906ad509c5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "bluegriffon",
+    "archivo": "familias/papirus-0acf3832cdaebb.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "file roller",
+    "archivo": "familias/papirus-640e1a1290a1cb.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "file-roller",
+    "archivo": "familias/papirus-640e1a1290a1cb.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ibus pinyin",
+    "archivo": "familias/papirus-b64de6166ae0bd.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ibus-pinyin",
+    "archivo": "familias/papirus-b64de6166ae0bd.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kcharselect",
+    "archivo": "familias/papirus-7284b8b8f85254.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "libresprite",
+    "archivo": "familias/papirus-547e1cce789bc4.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "losslesscut",
+    "archivo": "familias/papirus-aab402d0f5088d.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "pavucontrol",
+    "archivo": "familias/papirus-400da177b6ec52.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "qdbusviewer",
+    "archivo": "familias/papirus-5061f47b7aed52.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sonic-mania",
+    "archivo": "familias/papirus-cefad3d3ff8adb.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sonic mania",
+    "archivo": "familias/papirus-cefad3d3ff8adb.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "thunderbolt",
+    "archivo": "familias/papirus-99a34e81a0aaf6.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "usb creator",
+    "archivo": "familias/papirus-8dd310299796f8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "usb-creator",
+    "archivo": "familias/papirus-8dd310299796f8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "zen-browser",
+    "archivo": "familias/papirus-2a4065e824db19.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "zen browser",
+    "archivo": "familias/papirus-2a4065e824db19.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "pdf-xchange",
+    "archivo": "familias/web-pdfxchange.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "displaylink",
+    "archivo": "familias/official-displaylink.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "mattermost",
+    "archivo": "familias/mattermost.png"
+  },
+  {
+    "alias": "postgresql",
+    "archivo": "familias/postgresql.png"
+  },
+  {
+    "alias": "youtube-dl",
+    "archivo": "familias/youtube-dl.png"
+  },
+  {
+    "alias": "duckduckgo",
+    "archivo": "familias/duckduckgo.png"
+  },
+  {
+    "alias": "epic games",
+    "archivo": "familias/epic-games.png"
+  },
+  {
+    "alias": "phpmyadmin",
+    "archivo": "familias/phpmyadmin.png"
+  },
+  {
+    "alias": "technitium",
+    "archivo": "familias/technitium.png"
+  },
+  {
+    "alias": "teamviewer",
+    "archivo": "familias/teamviewer.png"
+  },
+  {
+    "alias": "kubernetes",
+    "archivo": "familias/kubernetes.png"
+  },
+  {
+    "alias": "ugreen nas",
+    "archivo": "familias/ugreen-nas.png"
+  },
+  {
+    "alias": "nx witness",
+    "archivo": "familias/nx-witness.png"
+  },
+  {
+    "alias": "onlyoffice",
+    "archivo": "familias/onlyoffice.png"
+  },
+  {
+    "alias": "mkvtoolnix",
+    "archivo": "familias/mkvtoolnix.png"
+  },
+  {
+    "alias": "powerpoint",
+    "archivo": "familias/microsoft-powerpoint.png"
+  },
+  {
+    "alias": "sql server",
+    "archivo": "familias/microsoft-sql-server.png"
+  },
+  {
+    "alias": "autohotkey",
+    "archivo": "familias/si-autohotkey.png"
+  },
+  {
+    "alias": "battle.net",
+    "archivo": "familias/si-battledotnet.png"
+  },
+  {
+    "alias": "bittorrent",
+    "archivo": "familias/si-bittorrent.png"
+  },
+  {
+    "alias": "blackberry",
+    "archivo": "familias/si-blackberry.png"
+  },
+  {
+    "alias": "burp suite",
+    "archivo": "familias/si-burpsuite.png"
+  },
+  {
+    "alias": "chocolatey",
+    "archivo": "familias/si-chocolatey.png"
+  },
+  {
+    "alias": "containerd",
+    "archivo": "familias/si-containerd.png"
+  },
+  {
+    "alias": "elementary",
+    "archivo": "familias/si-elementary.png"
+  },
+  {
+    "alias": "expressvpn",
+    "archivo": "familias/si-expressvpn.png"
+  },
+  {
+    "alias": "foobar2000",
+    "archivo": "familias/si-foobar2000.png"
+  },
+  {
+    "alias": "javascript",
+    "archivo": "familias/si-javascript.png"
+  },
+  {
+    "alias": "logitech g",
+    "archivo": "familias/si-logitechg.png"
+  },
+  {
+    "alias": "obs studio",
+    "archivo": "familias/si-obsstudio.png"
+  },
+  {
+    "alias": "perplexity",
+    "archivo": "familias/si-perplexity.png"
+  },
+  {
+    "alias": "rad studio",
+    "archivo": "familias/si-radstudio.png"
+  },
+  {
+    "alias": "sennheiser",
+    "archivo": "familias/si-sennheiser.png"
+  },
+  {
+    "alias": "sourcetree",
+    "archivo": "familias/si-sourcetree.png"
+  },
+  {
+    "alias": "streamlabs",
+    "archivo": "familias/si-streamlabs.png"
+  },
+  {
+    "alias": "subversion",
+    "archivo": "familias/si-subversion.png"
+  },
+  {
+    "alias": "virtualbox",
+    "archivo": "familias/si-virtualbox.png"
+  },
+  {
+    "alias": "mediahuman",
+    "archivo": "familias/papirus-946c33690beee7.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "alsa-tools",
+    "archivo": "familias/papirus-8a8c64f8570499.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "alsa tools",
+    "archivo": "familias/papirus-8a8c64f8570499.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "cherrytree",
+    "archivo": "familias/papirus-02521d0a13701a.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "dictionary",
+    "archivo": "familias/papirus-5880d37a0b6e72.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "genymotion",
+    "archivo": "familias/papirus-dc236018563010.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ibus-anthy",
+    "archivo": "familias/papirus-aa8c8b3bf185aa.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ibus anthy",
+    "archivo": "familias/papirus-aa8c8b3bf185aa.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ibus-setup",
+    "archivo": "familias/papirus-3fa03e6dd16fdd.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ibus setup",
+    "archivo": "familias/papirus-3fa03e6dd16fdd.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "im chooser",
+    "archivo": "familias/papirus-86aa947455b398.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "im-chooser",
+    "archivo": "familias/papirus-86aa947455b398.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kcoloredit",
+    "archivo": "familias/papirus-3d77854c3754f0.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "nitroshare",
+    "archivo": "familias/papirus-4be260ed2b7e1b.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "stellarium",
+    "archivo": "familias/papirus-48911900d62794.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "strawberry",
+    "archivo": "familias/papirus-f65f6e2903be88.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "vnc viewer",
+    "archivo": "familias/papirus-e7317ebedb7315.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "wps office",
+    "archivo": "familias/papirus-9ab906180aedd5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "wps writer",
+    "archivo": "familias/papirus-9ab906180aedd5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "gom player",
+    "archivo": "familias/web-gom.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "tenorshare",
+    "archivo": "familias/web-tenorshare.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "pdf-viewer",
+    "archivo": "familias/web-pdfxchange.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "axis media",
+    "archivo": "familias/official-axis.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "bluestacks",
+    "archivo": "familias/official-bluestacks.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "freeoffice",
+    "archivo": "familias/official-easypdf.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "bitwarden",
+    "archivo": "familias/bitwarden.png"
+  },
+  {
+    "alias": "handbrake",
+    "archivo": "familias/handbrake.png"
+  },
+  {
+    "alias": "keepassxc",
+    "archivo": "familias/keepassxc.png"
+  },
+  {
+    "alias": "nextcloud",
+    "archivo": "familias/nextcloud.png"
+  },
+  {
+    "alias": "syncthing",
+    "archivo": "familias/syncthing.png"
+  },
+  {
+    "alias": "tailscale",
+    "archivo": "familias/tailscale.png"
+  },
+  {
+    "alias": "wireguard",
+    "archivo": "familias/wireguard.png"
+  },
+  {
+    "alias": "instagram",
+    "archivo": "familias/instagram.png"
+  },
+  {
+    "alias": "minecraft",
+    "archivo": "familias/minecraft.png"
+  },
+  {
+    "alias": "librewolf",
+    "archivo": "familias/librewolf.png"
+  },
+  {
+    "alias": "harvester",
+    "archivo": "familias/rancher-harvester.png"
+  },
+  {
+    "alias": "localsend",
+    "archivo": "familias/localsend.png"
+  },
+  {
+    "alias": "1password",
+    "archivo": "familias/1password.png"
+  },
+  {
+    "alias": "app store",
+    "archivo": "familias/app-store.png"
+  },
+  {
+    "alias": "bluetooth",
+    "archivo": "familias/bluetooth.png"
+  },
+  {
+    "alias": "speedtest",
+    "archivo": "familias/speedtest.png"
+  },
+  {
+    "alias": "filezilla",
+    "archivo": "familias/filezilla.png"
+  },
+  {
+    "alias": "agent dvr",
+    "archivo": "familias/agent-dvr.png"
+  },
+  {
+    "alias": "memcached",
+    "archivo": "familias/memcached.png"
+  },
+  {
+    "alias": "jetbrains",
+    "archivo": "familias/jetbrains.png"
+  },
+  {
+    "alias": "yacreader",
+    "archivo": "familias/yacreader.png"
+  },
+  {
+    "alias": "notepad++",
+    "archivo": "familias/notepad-plus-plus.png"
+  },
+  {
+    "alias": "openshift",
+    "archivo": "familias/openshift.png"
+  },
+  {
+    "alias": "netronome",
+    "archivo": "familias/netronome.png"
+  },
+  {
+    "alias": "powertoys",
+    "archivo": "familias/microsoft-powertoys.png"
+  },
+  {
+    "alias": "cinema 4d",
+    "archivo": "familias/si-cinema4d.png"
+  },
+  {
+    "alias": "grammarly",
+    "archivo": "familias/si-grammarly.png"
+  },
+  {
+    "alias": "gstreamer",
+    "archivo": "familias/si-gstreamer.png"
+  },
+  {
+    "alias": "interbase",
+    "archivo": "familias/si-interbase.png"
+  },
+  {
+    "alias": "kakaotalk",
+    "archivo": "familias/si-kakaotalk.png"
+  },
+  {
+    "alias": "kaspersky",
+    "archivo": "familias/si-kaspersky.png"
+  },
+  {
+    "alias": "lightburn",
+    "archivo": "familias/si-lightburn.png"
+  },
+  {
+    "alias": "mercurial",
+    "archivo": "familias/si-mercurial.png"
+  },
+  {
+    "alias": "messenger",
+    "archivo": "familias/si-messenger.png"
+  },
+  {
+    "alias": "musescore",
+    "archivo": "familias/si-musescore.png"
+  },
+  {
+    "alias": "quicklook",
+    "archivo": "familias/si-quicklook.png"
+  },
+  {
+    "alias": "quicktime",
+    "archivo": "familias/si-quicktime.png"
+  },
+  {
+    "alias": "rainmeter",
+    "archivo": "familias/si-rainmeter.png"
+  },
+  {
+    "alias": "retroarch",
+    "archivo": "familias/si-retroarch.png"
+  },
+  {
+    "alias": "sonicwall",
+    "archivo": "familias/si-sonicwall.png"
+  },
+  {
+    "alias": "spotlight",
+    "archivo": "familias/si-spotlight.png"
+  },
+  {
+    "alias": "startpage",
+    "archivo": "familias/si-startpage.png"
+  },
+  {
+    "alias": "steinberg",
+    "archivo": "familias/si-steinberg.png"
+  },
+  {
+    "alias": "studio 3t",
+    "archivo": "familias/si-studio3t.png"
+  },
+  {
+    "alias": "wireshark",
+    "archivo": "familias/si-wireshark.png"
+  },
+  {
+    "alias": "audacious",
+    "archivo": "familias/papirus-2bd70683d08d80.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "bleachbit",
+    "archivo": "familias/papirus-6271a99677a0f6.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "emacs nox",
+    "archivo": "familias/papirus-8f2b9837750aa8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "emacs-nox",
+    "archivo": "familias/papirus-8f2b9837750aa8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "evolution",
+    "archivo": "familias/papirus-80df867854806a.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "flameshot",
+    "archivo": "familias/papirus-97dc56eafea78f.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kmenuedit",
+    "archivo": "familias/papirus-af3ecc36adcee7.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ksnapshot",
+    "archivo": "familias/papirus-31750114835307.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ksysguard",
+    "archivo": "familias/papirus-401fb921a98ed8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "mediainfo",
+    "archivo": "familias/papirus-72a1cbd6056314.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "menulibre",
+    "archivo": "familias/papirus-5317f010f5e4db.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "microsoft",
+    "archivo": "familias/papirus-e674f3a4706c51.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "moonlight",
+    "archivo": "familias/papirus-83505b8110f08c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ocenaudio",
+    "archivo": "familias/papirus-7579006cd8b112.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "passwords",
+    "archivo": "familias/papirus-f9f40c709b3d79.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "pdfeditor",
+    "archivo": "familias/papirus-fe8a114078e173.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "photoshop",
+    "archivo": "familias/papirus-50afe33c806c24.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "rhythmbox",
+    "archivo": "familias/papirus-cc72d1e4ef2eff.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ristretto",
+    "archivo": "familias/papirus-494099fcf9a2b2.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "rustrover",
+    "archivo": "familias/papirus-3d43ffe5a0a8eb.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "securecrt",
+    "archivo": "familias/papirus-b35233f278ce88.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "texstudio",
+    "archivo": "familias/papirus-0ae342b868a59c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "tuxguitar",
+    "archivo": "familias/papirus-8fd0f102fe349f.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "veracrypt",
+    "archivo": "familias/papirus-8a22a23afba120.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "whatpulse",
+    "archivo": "familias/papirus-aa1226893ade52.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "xnconvert",
+    "archivo": "familias/papirus-8d686524b8968e.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "foxit pdf",
+    "archivo": "familias/papirus-96e0b7a2158f9c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "logi bolt",
+    "archivo": "familias/web-logitech.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "logi tune",
+    "archivo": "familias/web-logitech.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "coreldraw",
+    "archivo": "familias/web-corel.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "hwmonitor",
+    "archivo": "familias/web-cpuid.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "irfanview",
+    "archivo": "familias/official-irfanview.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "avs audio",
+    "archivo": "familias/official-avsaudio.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "avs video",
+    "archivo": "familias/official-avsaudio.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "autofirma",
+    "archivo": "familias/official-lafirma.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "softmaker",
+    "archivo": "familias/official-easypdf.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "synaptics",
+    "archivo": "familias/official-synaptics.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "influxdb",
+    "archivo": "familias/influxdb.png"
+  },
+  {
+    "alias": "obsidian",
+    "archivo": "familias/obsidian.png"
+  },
+  {
+    "alias": "owncloud",
+    "archivo": "familias/owncloud.png"
+  },
+  {
+    "alias": "audacity",
+    "archivo": "familias/audacity.png"
+  },
+  {
+    "alias": "whatsapp",
+    "archivo": "familias/whatsapp.png"
+  },
+  {
+    "alias": "chromium",
+    "archivo": "familias/chromium.png"
+  },
+  {
+    "alias": "linkedin",
+    "archivo": "familias/linkedin.png"
+  },
+  {
+    "alias": "telegram",
+    "archivo": "familias/telegram.png"
+  },
+  {
+    "alias": "apple tv",
+    "archivo": "familias/apple-tv.png"
+  },
+  {
+    "alias": "telegraf",
+    "archivo": "familias/telegraf.png"
+  },
+  {
+    "alias": "synology",
+    "archivo": "familias/synology.png"
+  },
+  {
+    "alias": "fail2ban",
+    "archivo": "familias/fail2ban.png"
+  },
+  {
+    "alias": "deepseek",
+    "archivo": "familias/deepseek.png"
+  },
+  {
+    "alias": "vanguard",
+    "archivo": "familias/vanguard.png"
+  },
+  {
+    "alias": "rabbitmq",
+    "archivo": "familias/rabbitmq.png"
+  },
+  {
+    "alias": "utorrent",
+    "archivo": "familias/utorrent.png"
+  },
+  {
+    "alias": "rustdesk",
+    "archivo": "familias/rustdesk.png"
+  },
+  {
+    "alias": "openldap",
+    "archivo": "familias/openldap.png"
+  },
+  {
+    "alias": "vscodium",
+    "archivo": "familias/vscodium.png"
+  },
+  {
+    "alias": "inkscape",
+    "archivo": "familias/inkscape.png"
+  },
+  {
+    "alias": "graphite",
+    "archivo": "familias/graphite.png"
+  },
+  {
+    "alias": "ticktick",
+    "archivo": "familias/ticktick.png"
+  },
+  {
+    "alias": "modrinth",
+    "archivo": "familias/modrinth.png"
+  },
+  {
+    "alias": "sunshine",
+    "archivo": "familias/sunshine.png"
+  },
+  {
+    "alias": "backuppc",
+    "archivo": "familias/backuppc.png"
+  },
+  {
+    "alias": "pdfcraft",
+    "archivo": "familias/pdfcraft.png"
+  },
+  {
+    "alias": "onedrive",
+    "archivo": "familias/microsoft-onedrive.png"
+  },
+  {
+    "alias": "acrotray",
+    "archivo": "familias/adobe-acrobat.png"
+  },
+  {
+    "alias": "psqlodbc",
+    "archivo": "familias/postgresql.png"
+  },
+  {
+    "alias": "java(tm)",
+    "archivo": "familias/java.png"
+  },
+  {
+    "alias": "academia",
+    "archivo": "familias/si-academia.png"
+  },
+  {
+    "alias": "affinity",
+    "archivo": "familias/si-affinity.png"
+  },
+  {
+    "alias": "anaconda",
+    "archivo": "familias/si-anaconda.png"
+  },
+  {
+    "alias": "archicad",
+    "archivo": "familias/si-archicad.png"
+  },
+  {
+    "alias": "autodesk",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "broadcom",
+    "archivo": "familias/si-broadcom.png"
+  },
+  {
+    "alias": "caffeine",
+    "archivo": "familias/si-caffeine.png"
+  },
+  {
+    "alias": "ccleaner",
+    "archivo": "familias/si-ccleaner.png"
+  },
+  {
+    "alias": "composer",
+    "archivo": "familias/si-composer.png"
+  },
+  {
+    "alias": "creality",
+    "archivo": "familias/si-creality.png"
+  },
+  {
+    "alias": "datagrip",
+    "archivo": "familias/si-datagrip.png"
+  },
+  {
+    "alias": "electron",
+    "archivo": "familias/si-electron.png"
+  },
+  {
+    "alias": "evernote",
+    "archivo": "familias/si-evernote.png"
+  },
+  {
+    "alias": "fortinet",
+    "archivo": "familias/si-fortinet.png"
+  },
+  {
+    "alias": "fujifilm",
+    "archivo": "familias/si-fujifilm.png"
+  },
+  {
+    "alias": "insomnia",
+    "archivo": "familias/si-insomnia.png"
+  },
+  {
+    "alias": "insta360",
+    "archivo": "familias/si-insta360.png"
+  },
+  {
+    "alias": "kdenlive",
+    "archivo": "familias/si-kdenlive.png"
+  },
+  {
+    "alias": "kingston",
+    "archivo": "familias/si-kingstontechnology.png"
+  },
+  {
+    "alias": "logitech",
+    "archivo": "familias/si-logitech.png"
+  },
+  {
+    "alias": "logstash",
+    "archivo": "familias/si-logstash.png"
+  },
+  {
+    "alias": "mediatek",
+    "archivo": "familias/si-mediatek.png"
+  },
+  {
+    "alias": "mendeley",
+    "archivo": "familias/si-mendeley.png"
+  },
+  {
+    "alias": "motorola",
+    "archivo": "familias/si-motorola.png"
+  },
+  {
+    "alias": "openscad",
+    "archivo": "familias/si-openscad.png"
+  },
+  {
+    "alias": "opentext",
+    "archivo": "familias/si-opentext.png"
+  },
+  {
+    "alias": "opera gx",
+    "archivo": "familias/si-operagx.png"
+  },
+  {
+    "alias": "phpstorm",
+    "archivo": "familias/si-phpstorm.png"
+  },
+  {
+    "alias": "progress",
+    "archivo": "familias/si-progress.png"
+  },
+  {
+    "alias": "qualcomm",
+    "archivo": "familias/si-qualcomm.png"
+  },
+  {
+    "alias": "redragon",
+    "archivo": "familias/si-redragon.png"
+  },
+  {
+    "alias": "rubygems",
+    "archivo": "familias/si-rubygems.png"
+  },
+  {
+    "alias": "selenium",
+    "archivo": "familias/si-selenium.png"
+  },
+  {
+    "alias": "sketchup",
+    "archivo": "familias/si-sketchup.png"
+  },
+  {
+    "alias": "stardock",
+    "archivo": "familias/si-stardock.png"
+  },
+  {
+    "alias": "symantec",
+    "archivo": "familias/si-symantec.png"
+  },
+  {
+    "alias": "thinkpad",
+    "archivo": "familias/si-thinkpad.png"
+  },
+  {
+    "alias": "ubiquiti",
+    "archivo": "familias/si-ubiquiti.png"
+  },
+  {
+    "alias": "webstorm",
+    "archivo": "familias/si-webstorm.png"
+  },
+  {
+    "alias": "intel(r)",
+    "archivo": "familias/si-intel.png"
+  },
+  {
+    "alias": "asp .net",
+    "archivo": "familias/si-dotnet.png"
+  },
+  {
+    "alias": "droidcam",
+    "archivo": "familias/papirus-92b37dcb8eb9aa.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "texworks",
+    "archivo": "familias/papirus-034adc813d1c48.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "avidemux",
+    "archivo": "familias/papirus-109784776a6a60.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "brackets",
+    "archivo": "familias/papirus-4e15fb6a60bcca.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "clipgrab",
+    "archivo": "familias/papirus-53f42fd0bfa118.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "codelite",
+    "archivo": "familias/papirus-de02c1fcc9feb4.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "deja-dup",
+    "archivo": "familias/papirus-7f3c55e2056d94.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "deja dup",
+    "archivo": "familias/papirus-7f3c55e2056d94.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "dupeguru",
+    "archivo": "familias/papirus-75fb24d6bb0b76.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "engrampa",
+    "archivo": "familias/papirus-640e1a1290a1cb.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "gwenview",
+    "archivo": "familias/papirus-e80ca21e34e9c5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "intellij",
+    "archivo": "familias/papirus-edf1ebd72ae547.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "khotkeys",
+    "archivo": "familias/papirus-634e06016a3e35.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "librecad",
+    "archivo": "familias/papirus-6f58a65ca521b0.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "metacity",
+    "archivo": "familias/papirus-423e902194b383.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "mousepad",
+    "archivo": "familias/papirus-c58eac36f3133c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "nautilus",
+    "archivo": "familias/papirus-8daf2f86667db4.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "netbeans",
+    "archivo": "familias/papirus-489ad7f5dea3a3.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "openshot",
+    "archivo": "familias/papirus-359fbb243a2384.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "password",
+    "archivo": "familias/papirus-f9f40c709b3d79.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "pinentry",
+    "archivo": "familias/papirus-648526f3f74cac.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "seahorse",
+    "archivo": "familias/papirus-fec561f0ed31e9.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sentinel",
+    "archivo": "familias/papirus-aee5bf0e996120.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "shotwell",
+    "archivo": "familias/papirus-aeb3cec5043ff9.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "synaptic",
+    "archivo": "familias/papirus-3c41e50c7e2b65.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "terraria",
+    "archivo": "familias/papirus-1e2185c090cf09.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "texmaker",
+    "archivo": "familias/papirus-78397be4ed1994.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "tigervnc",
+    "archivo": "familias/papirus-116de45b05a00c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "tightvnc",
+    "archivo": "familias/web-tightvnc.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "ultravnc",
+    "archivo": "familias/web-ultravnc.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "minitool",
+    "archivo": "familias/web-minitool.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "videopad",
+    "archivo": "familias/web-nch.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "bandicam",
+    "archivo": "familias/web-bandicam.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "freemake",
+    "archivo": "familias/web-freemake.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "atlas.ti",
+    "archivo": "familias/official-atlas.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "passmark",
+    "archivo": "familias/official-passmark.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "ansible",
+    "archivo": "familias/ansible.png"
+  },
+  {
+    "alias": "calibre",
+    "archivo": "familias/calibre.png"
+  },
+  {
+    "alias": "counter",
+    "archivo": "familias/counter-analytics.png"
+  },
+  {
+    "alias": "dovecot",
+    "archivo": "familias/dovecot.png"
+  },
+  {
+    "alias": "draw.io",
+    "archivo": "familias/draw-io.png"
+  },
+  {
+    "alias": "grafana",
+    "archivo": "familias/grafana.png"
+  },
+  {
+    "alias": "haproxy",
+    "archivo": "familias/haproxy.png"
+  },
+  {
+    "alias": "unbound",
+    "archivo": "familias/unbound.png"
+  },
+  {
+    "alias": "cockpit",
+    "archivo": "familias/cockpit.png"
+  },
+  {
+    "alias": "tp-link",
+    "archivo": "familias/tp-link.png"
+  },
+  {
+    "alias": "element",
+    "archivo": "familias/element.png"
+  },
+  {
+    "alias": "youtube",
+    "archivo": "familias/youtube.png"
+  },
+  {
+    "alias": "spotify",
+    "archivo": "familias/spotify.png"
+  },
+  {
+    "alias": "firefox",
+    "archivo": "familias/firefox.png"
+  },
+  {
+    "alias": "chatgpt",
+    "archivo": "familias/chatgpt.png"
+  },
+  {
+    "alias": "discord",
+    "archivo": "familias/discord.png"
+  },
+  {
+    "alias": "dropbox",
+    "archivo": "familias/dropbox.png"
+  },
+  {
+    "alias": "android",
+    "archivo": "familias/android.png"
+  },
+  {
+    "alias": "mongodb",
+    "archivo": "familias/mongodb.png"
+  },
+  {
+    "alias": "mariadb",
+    "archivo": "familias/mariadb.png"
+  },
+  {
+    "alias": "openvpn",
+    "archivo": "familias/openvpn.png"
+  },
+  {
+    "alias": "nordvpn",
+    "archivo": "familias/nordvpn.png"
+  },
+  {
+    "alias": "ferdium",
+    "archivo": "familias/ferdium.png"
+  },
+  {
+    "alias": "brother",
+    "archivo": "familias/brother.png"
+  },
+  {
+    "alias": "jenkins",
+    "archivo": "familias/jenkins.png"
+  },
+  {
+    "alias": "glances",
+    "archivo": "familias/glances.png"
+  },
+  {
+    "alias": "arduino",
+    "archivo": "familias/arduino.png"
+  },
+  {
+    "alias": "remmina",
+    "archivo": "familias/remmina.png"
+  },
+  {
+    "alias": "digikam",
+    "archivo": "familias/digikam.png"
+  },
+  {
+    "alias": "pgadmin",
+    "archivo": "familias/postgresql.png"
+  },
+  {
+    "alias": "last.fm",
+    "archivo": "familias/last-fm.png"
+  },
+  {
+    "alias": "elastic",
+    "archivo": "familias/elastic.png"
+  },
+  {
+    "alias": "freecad",
+    "archivo": "familias/freecad.png"
+  },
+  {
+    "alias": "tableau",
+    "archivo": "familias/tableau.png"
+  },
+  {
+    "alias": "raycast",
+    "archivo": "familias/raycast.png"
+  },
+  {
+    "alias": "mozilla",
+    "archivo": "familias/mozilla.png"
+  },
+  {
+    "alias": "blender",
+    "archivo": "familias/blender.png"
+  },
+  {
+    "alias": "xubuntu",
+    "archivo": "familias/xubuntu.png"
+  },
+  {
+    "alias": "openssh",
+    "archivo": "familias/openssh.png"
+  },
+  {
+    "alias": "node.js",
+    "archivo": "familias/node-js.png"
+  },
+  {
+    "alias": "todoist",
+    "archivo": "familias/todoist.png"
+  },
+  {
+    "alias": "red hat",
+    "archivo": "familias/red-hat.png"
+  },
+  {
+    "alias": "outlook",
+    "archivo": "familias/microsoft-outlook.png"
+  },
+  {
+    "alias": "onenote",
+    "archivo": "familias/microsoft-onenote.png"
+  },
+  {
+    "alias": "copilot",
+    "archivo": "familias/microsoft-copilot.png"
+  },
+  {
+    "alias": "acrobat",
+    "archivo": "familias/adobe-acrobat.png"
+  },
+  {
+    "alias": "acrocef",
+    "archivo": "familias/adobe-acrobat.png"
+  },
+  {
+    "alias": "openjdk",
+    "archivo": "familias/java.png"
+  },
+  {
+    "alias": "adblock",
+    "archivo": "familias/si-adblock.png"
+  },
+  {
+    "alias": "adguard",
+    "archivo": "familias/si-adguard.png"
+  },
+  {
+    "alias": "anydesk",
+    "archivo": "familias/si-anydesk.png"
+  },
+  {
+    "alias": "autocad",
+    "archivo": "familias/si-autodesk.png"
+  },
+  {
+    "alias": "chatbot",
+    "archivo": "familias/si-chatbot.png"
+  },
+  {
+    "alias": "codeium",
+    "archivo": "familias/si-codeium.png"
+  },
+  {
+    "alias": "corsair",
+    "archivo": "familias/si-corsair.png"
+  },
+  {
+    "alias": "dbeaver",
+    "archivo": "familias/si-dbeaver.png"
+  },
+  {
+    "alias": "doxygen",
+    "archivo": "familias/si-doxygen.png"
+  },
+  {
+    "alias": "express",
+    "archivo": "familias/si-express.png"
+  },
+  {
+    "alias": "flatpak",
+    "archivo": "familias/si-flatpak.png"
+  },
+  {
+    "alias": "fujitsu",
+    "archivo": "familias/si-fujitsu.png"
+  },
+  {
+    "alias": "kyocera",
+    "archivo": "familias/si-kyocera.png"
+  },
+  {
+    "alias": "laragon",
+    "archivo": "familias/si-laragon.png"
+  },
+  {
+    "alias": "laravel",
+    "archivo": "familias/si-laravel.png"
+  },
+  {
+    "alias": "openssl",
+    "archivo": "familias/si-openssl.png"
+  },
+  {
+    "alias": "postman",
+    "archivo": "familias/si-postman.png"
+  },
+  {
+    "alias": "pycharm",
+    "archivo": "familias/si-pycharm.png"
+  },
+  {
+    "alias": "samsung",
+    "archivo": "familias/si-samsung.png"
+  },
+  {
+    "alias": "sandisk",
+    "archivo": "familias/si-sandisk.png"
+  },
+  {
+    "alias": "scratch",
+    "archivo": "familias/si-scratch.png"
+  },
+  {
+    "alias": "session",
+    "archivo": "familias/si-session.png"
+  },
+  {
+    "alias": "stellar",
+    "archivo": "familias/si-stellar.png"
+  },
+  {
+    "alias": "stremio",
+    "archivo": "familias/si-stremio.png"
+  },
+  {
+    "alias": "termius",
+    "archivo": "familias/si-termius.png"
+  },
+  {
+    "alias": "trimble",
+    "archivo": "familias/si-trimble.png"
+  },
+  {
+    "alias": "ubisoft",
+    "archivo": "familias/si-ubisoft.png"
+  },
+  {
+    "alias": "unicode",
+    "archivo": "familias/si-unicode.png"
+  },
+  {
+    "alias": "veritas",
+    "archivo": "familias/si-veritas.png"
+  },
+  {
+    "alias": "vivaldi",
+    "archivo": "familias/si-vivaldi.png"
+  },
+  {
+    "alias": "wayland",
+    "archivo": "familias/si-wayland.png"
+  },
+  {
+    "alias": "wezterm",
+    "archivo": "familias/si-wezterm.png"
+  },
+  {
+    "alias": "openrgb",
+    "archivo": "familias/papirus-9178d8bb48f89c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "akonadi",
+    "archivo": "familias/papirus-3fedc3319b0d12.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "argouml",
+    "archivo": "familias/papirus-78ab718c1817f6.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "blueman",
+    "archivo": "familias/papirus-a62e5c1d86be91.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "brasero",
+    "archivo": "familias/papirus-8a66f97baddca2.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "browser",
+    "archivo": "familias/papirus-b9efa8c0bf8946.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "catfish",
+    "archivo": "familias/papirus-fd83bf0d02ea29.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "cuphead",
+    "archivo": "familias/papirus-3c35b9a8db48db.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "hexchat",
+    "archivo": "familias/papirus-7b34204a25d271.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "keepass",
+    "archivo": "familias/papirus-68f2b8904f273f.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "konsole",
+    "archivo": "familias/papirus-f67a1fafbe1a5c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "makemkv",
+    "archivo": "familias/papirus-372c904f05b31c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "meshlab",
+    "archivo": "familias/papirus-1b55d5aa7d6e8a.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "mplayer",
+    "archivo": "familias/papirus-6d68b3cdffed5b.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "mugshot",
+    "archivo": "familias/papirus-5dc469e27d084c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "navicat",
+    "archivo": "familias/papirus-667aa155ecba80.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "nepomuk",
+    "archivo": "familias/papirus-7b140ab49b9666.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "notepad",
+    "archivo": "familias/papirus-331ae74383709c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "nuclear",
+    "archivo": "familias/papirus-7c5f94545d9bed.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "olympus",
+    "archivo": "familias/papirus-93bd7485369c8d.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "onboard",
+    "archivo": "familias/papirus-c6149d010109be.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "pureref",
+    "archivo": "familias/papirus-d8f20380e0b8ff.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "qprompt",
+    "archivo": "familias/papirus-d3359dcd79bfcb.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "rstudio",
+    "archivo": "familias/papirus-eeb4012f0e8c95.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ryujinx",
+    "archivo": "familias/papirus-9689c996c6da8d.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "selinux",
+    "archivo": "familias/papirus-8fddba89efc461.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "serviio",
+    "archivo": "familias/papirus-9e4ae961bd52ec.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "shotcut",
+    "archivo": "familias/papirus-04b7164f79d0f1.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "staruml",
+    "archivo": "familias/papirus-7d344e000161a5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sweeper",
+    "archivo": "familias/papirus-a29e7dda12db01.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sysprof",
+    "archivo": "familias/papirus-2c5322620fa175.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "toolbox",
+    "archivo": "familias/papirus-adcc45c66b097d.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "tracker",
+    "archivo": "familias/papirus-055cd07d1b0471.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "twinkle",
+    "archivo": "familias/papirus-2d2faf6e1a9ff3.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "upscayl",
+    "archivo": "familias/papirus-6beeaa049ecb80.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "vuescan",
+    "archivo": "familias/papirus-ac776a0fe06a22.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "weather",
+    "archivo": "familias/papirus-ab8b5d147a59d7.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "wordpad",
+    "archivo": "familias/papirus-093ca09ce6caf5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "realvnc",
+    "archivo": "familias/papirus-e7317ebedb7315.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "filmora",
+    "archivo": "familias/web-wondershare.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "acronis",
+    "archivo": "familias/web-acronis.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "wavepad",
+    "archivo": "familias/web-nch.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "genexus",
+    "archivo": "familias/web-genexus.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "imyfone",
+    "archivo": "familias/web-imyfone.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "passfab",
+    "archivo": "familias/web-passfab.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "bullzip",
+    "archivo": "familias/web-bullzip.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "cutepdf",
+    "archivo": "familias/web-cutepdf.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "lexmark",
+    "archivo": "familias/web-lexmark.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "realtek",
+    "archivo": "familias/official-realtek.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "ableton",
+    "archivo": "familias/official-ableton.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "docker",
+    "archivo": "familias/docker.png"
+  },
+  {
+    "alias": "gitlab",
+    "archivo": "familias/gitlab.png"
+  },
+  {
+    "alias": "rclone",
+    "archivo": "familias/rclone.png"
+  },
+  {
+    "alias": "sentry",
+    "archivo": "familias/sentry.png"
+  },
+  {
+    "alias": "valkey",
+    "archivo": "familias/valkey.png"
+  },
+  {
+    "alias": "zabbix",
+    "archivo": "familias/zabbix.png"
+  },
+  {
+    "alias": "fedora",
+    "archivo": "familias/fedora.png"
+  },
+  {
+    "alias": "ubuntu",
+    "archivo": "familias/ubuntu.png"
+  },
+  {
+    "alias": "signal",
+    "archivo": "familias/signal.png"
+  },
+  {
+    "alias": "notion",
+    "archivo": "familias/notion.png"
+  },
+  {
+    "alias": "podman",
+    "archivo": "familias/podman.png"
+  },
+  {
+    "alias": "github",
+    "archivo": "familias/github.png"
+  },
+  {
+    "alias": "dbgate",
+    "archivo": "familias/dbgate.png"
+  },
+  {
+    "alias": "clamav",
+    "archivo": "familias/clamav.png"
+  },
+  {
+    "alias": "claude",
+    "archivo": "familias/claude.png"
+  },
+  {
+    "alias": "ollama",
+    "archivo": "familias/ollama.png"
+  },
+  {
+    "alias": "deezer",
+    "archivo": "familias/deezer.png"
+  },
+  {
+    "alias": "canvas",
+    "archivo": "familias/instructure-canvas.png"
+  },
+  {
+    "alias": "webmin",
+    "archivo": "familias/webmin.png"
+  },
+  {
+    "alias": "kibana",
+    "archivo": "familias/kibana.png"
+  },
+  {
+    "alias": "icloud",
+    "archivo": "familias/icloud.png"
+  },
+  {
+    "alias": "safari",
+    "archivo": "familias/safari.png"
+  },
+  {
+    "alias": "golang",
+    "archivo": "familias/golang.png"
+  },
+  {
+    "alias": "nagios",
+    "archivo": "familias/nagios.png"
+  },
+  {
+    "alias": "roblox",
+    "archivo": "familias/roblox.png"
+  },
+  {
+    "alias": "capcut",
+    "archivo": "familias/capcut.png"
+  },
+  {
+    "alias": "zotero",
+    "archivo": "familias/zotero.png"
+  },
+  {
+    "alias": "apache",
+    "archivo": "familias/apache.png"
+  },
+  {
+    "alias": "centos",
+    "archivo": "familias/centos.png"
+  },
+  {
+    "alias": "chrome",
+    "archivo": "familias/google-chrome.png"
+  },
+  {
+    "alias": "python",
+    "archivo": "familias/python.png"
+  },
+  {
+    "alias": "arcgis",
+    "archivo": "familias/si-arcgis.png"
+  },
+  {
+    "alias": "autoit",
+    "archivo": "familias/si-autoit.png"
+  },
+  {
+    "alias": "bamboo",
+    "archivo": "familias/si-bamboo.png"
+  },
+  {
+    "alias": "citrix",
+    "archivo": "familias/si-citrix.png"
+  },
+  {
+    "alias": "duckdb",
+    "archivo": "familias/si-duckdb.png"
+  },
+  {
+    "alias": "elgato",
+    "archivo": "familias/si-elgato.png"
+  },
+  {
+    "alias": "erlang",
+    "archivo": "familias/si-erlang.png"
+  },
+  {
+    "alias": "falcon",
+    "archivo": "familias/si-falcon.png"
+  },
+  {
+    "alias": "ffmpeg",
+    "archivo": "familias/si-ffmpeg.png"
+  },
+  {
+    "alias": "flyway",
+    "archivo": "familias/si-flyway.png"
+  },
+  {
+    "alias": "garmin",
+    "archivo": "familias/si-garmin.png"
+  },
+  {
+    "alias": "genius",
+    "archivo": "familias/si-genius.png"
+  },
+  {
+    "alias": "helium",
+    "archivo": "familias/si-helium.png"
+  },
+  {
+    "alias": "hermes",
+    "archivo": "familias/si-hermes.png"
+  },
+  {
+    "alias": "huawei",
+    "archivo": "familias/si-huawei.png"
+  },
+  {
+    "alias": "hyperx",
+    "archivo": "familias/si-hyperx.png"
+  },
+  {
+    "alias": "itunes",
+    "archivo": "familias/si-itunes.png"
+  },
+  {
+    "alias": "lenovo",
+    "archivo": "familias/si-lenovo.png"
+  },
+  {
+    "alias": "mcafee",
+    "archivo": "familias/si-mcafee.png"
+  },
+  {
+    "alias": "neovim",
+    "archivo": "familias/si-neovim.png"
+  },
+  {
+    "alias": "norton",
+    "archivo": "familias/si-norton.png"
+  },
+  {
+    "alias": "nvidia",
+    "archivo": "familias/si-nvidia.png"
+  },
+  {
+    "alias": "opencv",
+    "archivo": "familias/si-opencv.png"
+  },
+  {
+    "alias": "origin",
+    "archivo": "familias/si-origin.png"
+  },
+  {
+    "alias": "oxygen",
+    "archivo": "familias/si-oxygen.png"
+  },
+  {
+    "alias": "photon",
+    "archivo": "familias/si-photon.png"
+  },
+  {
+    "alias": "proton",
+    "archivo": "familias/si-proton.png"
+  },
+  {
+    "alias": "puppet",
+    "archivo": "familias/si-puppet.png"
+  },
+  {
+    "alias": "qualys",
+    "archivo": "familias/si-qualys.png"
+  },
+  {
+    "alias": "quarto",
+    "archivo": "familias/si-quarto.png"
+  },
+  {
+    "alias": "readme",
+    "archivo": "familias/si-readme.png"
+  },
+  {
+    "alias": "reason",
+    "archivo": "familias/si-reason.png"
+  },
+  {
+    "alias": "rocket",
+    "archivo": "familias/si-rocket.png"
+  },
+  {
+    "alias": "shadow",
+    "archivo": "familias/si-shadow.png"
+  },
+  {
+    "alias": "sharex",
+    "archivo": "familias/si-sharex.png"
+  },
+  {
+    "alias": "slides",
+    "archivo": "familias/si-slides.png"
+  },
+  {
+    "alias": "sqlite",
+    "archivo": "familias/si-sqlite.png"
+  },
+  {
+    "alias": "tomtom",
+    "archivo": "familias/si-tomtom.png"
+  },
+  {
+    "alias": "tunein",
+    "archivo": "familias/si-tunein.png"
+  },
+  {
+    "alias": "uipath",
+    "archivo": "familias/si-uipath.png"
+  },
+  {
+    "alias": "vmware",
+    "archivo": "familias/si-vmware.png"
+  },
+  {
+    "alias": "vulkan",
+    "archivo": "familias/si-vulkan.png"
+  },
+  {
+    "alias": "webrtc",
+    "archivo": "familias/si-webrtc.png"
+  },
+  {
+    "alias": "winamp",
+    "archivo": "familias/si-winamp.png"
+  },
+  {
+    "alias": "xiaomi",
+    "archivo": "familias/si-xiaomi.png"
+  },
+  {
+    "alias": "zoiper",
+    "archivo": "familias/si-zoiper.png"
+  },
+  {
+    "alias": "cursor",
+    "archivo": "familias/papirus-7debb07c42e2c2.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "thunar",
+    "archivo": "familias/papirus-75582297e3b661.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "weasis",
+    "archivo": "familias/papirus-31ed2a0e06fa2d.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "access",
+    "archivo": "familias/papirus-e084316e710d12.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "agenda",
+    "archivo": "familias/papirus-dc6173ab6d260e.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "amazon",
+    "archivo": "familias/papirus-0db2a0d31fda02.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "apport",
+    "archivo": "familias/papirus-37edeceb8ecad2.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "atomic",
+    "archivo": "familias/papirus-66fa072a651432.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "atomix",
+    "archivo": "familias/papirus-9d3920609849ba.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "baobab",
+    "archivo": "familias/papirus-e28b3dd70bf40e.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "cheese",
+    "archivo": "familias/papirus-54fd4809b1d7f7.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "compiz",
+    "archivo": "familias/papirus-6fb2ea88b196a5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "dosbox",
+    "archivo": "familias/papirus-e7515e00cafe0e.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "evince",
+    "archivo": "familias/papirus-7e9bc89fa6cfd8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "gemini",
+    "archivo": "familias/papirus-9c623c6751c54b.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "google",
+    "archivo": "familias/papirus-c2fdad4c6d94c8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "gthumb",
+    "archivo": "familias/papirus-e1d232d4bd17c6.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "hwinfo",
+    "archivo": "familias/papirus-957663fe932a88.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "jamovi",
+    "archivo": "familias/papirus-98089ed299722c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "jd-gui",
+    "archivo": "familias/papirus-28a6bae012e83e.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "jd gui",
+    "archivo": "familias/papirus-28a6bae012e83e.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kruler",
+    "archivo": "familias/papirus-19061508757dfe.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ktimer",
+    "archivo": "familias/papirus-454bb864ad6451.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kwrite",
+    "archivo": "familias/papirus-331ae74383709c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "launch",
+    "archivo": "familias/papirus-ce348e6276bbe7.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "matlab",
+    "archivo": "familias/papirus-4b18b2d5cfafe1.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "midori",
+    "archivo": "familias/papirus-45c82b759619e7.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "nomacs",
+    "archivo": "familias/papirus-9402484647f4f1.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "okular",
+    "archivo": "familias/papirus-9e35971aea08aa.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "parole",
+    "archivo": "familias/papirus-c6777e7201e36f.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "parsec",
+    "archivo": "familias/papirus-402e9e20e9b993.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "pdfsam",
+    "archivo": "familias/papirus-80a7d872032f4e.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "pencil",
+    "archivo": "familias/papirus-4d08cb30fef6e3.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "pidgin",
+    "archivo": "familias/papirus-58d159aba9d06d.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "plasma",
+    "archivo": "familias/papirus-7b140ab49b9666.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "portal",
+    "archivo": "familias/papirus-7ad1d3b7d03aac.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ppsspp",
+    "archivo": "familias/papirus-d76d1d931a7346.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "redhat",
+    "archivo": "familias/papirus-4f89935711ca5b.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "sheets",
+    "archivo": "familias/papirus-d98032843928a7.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "snes9x",
+    "archivo": "familias/papirus-76647cf653f9ec.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "soapui",
+    "archivo": "familias/papirus-84be29689a25e8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "studio",
+    "archivo": "familias/papirus-25441facda1410.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "tomato",
+    "archivo": "familias/papirus-9d663fd26e8ab4.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "typora",
+    "archivo": "familias/papirus-5a4493b48230b8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ventoy",
+    "archivo": "familias/papirus-0a98a5766143eb.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "xfburn",
+    "archivo": "familias/papirus-8a66f97baddca2.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "xnview",
+    "archivo": "familias/papirus-d1fb4ebb1ea193.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "winrar",
+    "archivo": "familias/web-winrar.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "k-lite",
+    "archivo": "familias/web-klite.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "easeus",
+    "archivo": "familias/web-easeus.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "mixpad",
+    "archivo": "familias/web-nch.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "nuance",
+    "archivo": "familias/web-nuance.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "aranda",
+    "archivo": "familias/web-aranda.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "aida64",
+    "archivo": "familias/web-aida64.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "acepta",
+    "archivo": "familias/web-safesigner.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "zimbra",
+    "archivo": "familias/official-zimbra.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "movavi",
+    "archivo": "familias/official-movavi.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "mpc-hc",
+    "archivo": "familias/official-mpchc.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "radmin",
+    "archivo": "familias/official-radmin.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "caddy",
+    "archivo": "familias/caddy.png"
+  },
+  {
+    "alias": "mysql",
+    "archivo": "familias/mysql.png"
+  },
+  {
+    "alias": "omada",
+    "archivo": "familias/omada.png"
+  },
+  {
+    "alias": "steam",
+    "archivo": "familias/steam.png"
+  },
+  {
+    "alias": "gmail",
+    "archivo": "familias/gmail.png"
+  },
+  {
+    "alias": "opera",
+    "archivo": "familias/opera.png"
+  },
+  {
+    "alias": "linux",
+    "archivo": "familias/linux.png"
+  },
+  {
+    "alias": "slack",
+    "archivo": "familias/slack.png"
+  },
+  {
+    "alias": "nginx",
+    "archivo": "familias/nginx.png"
+  },
+  {
+    "alias": "redis",
+    "archivo": "familias/redis.png"
+  },
+  {
+    "alias": "wazuh",
+    "archivo": "familias/wazuh.png"
+  },
+  {
+    "alias": "tidal",
+    "archivo": "familias/tidal.png"
+  },
+  {
+    "alias": "pasta",
+    "archivo": "familias/pasta.png"
+  },
+  {
+    "alias": "visio",
+    "archivo": "familias/visio-meet.png"
+  },
+  {
+    "alias": "brave",
+    "archivo": "familias/brave.png"
+  },
+  {
+    "alias": "razer",
+    "archivo": "familias/razer.png"
+  },
+  {
+    "alias": "putty",
+    "archivo": "familias/putty.png"
+  },
+  {
+    "alias": "munin",
+    "archivo": "familias/munin.png"
+  },
+  {
+    "alias": "lunar",
+    "archivo": "familias/lunar.png"
+  },
+  {
+    "alias": "pango",
+    "archivo": "familias/pango.png"
+  },
+  {
+    "alias": "7-zip",
+    "archivo": "familias/7-zip.png"
+  },
+  {
+    "alias": "figma",
+    "archivo": "familias/figma.png"
+  },
+  {
+    "alias": "teams",
+    "archivo": "familias/microsoft-teams.png"
+  },
+  {
+    "alias": "excel",
+    "archivo": "familias/microsoft-excel.png"
+  },
+  {
+    "alias": "adobe",
+    "archivo": "familias/si-adobe.png"
+  },
+  {
+    "alias": "asana",
+    "archivo": "familias/si-asana.png"
+  },
+  {
+    "alias": "atari",
+    "archivo": "familias/si-atari.png"
+  },
+  {
+    "alias": "avast",
+    "archivo": "familias/si-avast.png"
+  },
+  {
+    "alias": "avira",
+    "archivo": "familias/si-avira.png"
+  },
+  {
+    "alias": "boost",
+    "archivo": "familias/si-boost.png"
+  },
+  {
+    "alias": "bosch",
+    "archivo": "familias/si-bosch.png"
+  },
+  {
+    "alias": "bruno",
+    "archivo": "familias/si-bruno.png"
+  },
+  {
+    "alias": "canva",
+    "archivo": "familias/si-canva.png"
+  },
+  {
+    "alias": "cisco",
+    "archivo": "familias/si-cisco.png"
+  },
+  {
+    "alias": "cmake",
+    "archivo": "familias/si-cmake.png"
+  },
+  {
+    "alias": "deepl",
+    "archivo": "familias/si-deepl.png"
+  },
+  {
+    "alias": "epson",
+    "archivo": "familias/si-epson.png"
+  },
+  {
+    "alias": "files",
+    "archivo": "familias/si-files.png"
+  },
+  {
+    "alias": "gnome",
+    "archivo": "familias/si-gnome.png"
+  },
+  {
+    "alias": "helix",
+    "archivo": "familias/si-helix.png"
+  },
+  {
+    "alias": "honor",
+    "archivo": "familias/si-honor.png"
+  },
+  {
+    "alias": "intel",
+    "archivo": "familias/si-intel.png"
+  },
+  {
+    "alias": "known",
+    "archivo": "familias/si-known.png"
+  },
+  {
+    "alias": "kodak",
+    "archivo": "familias/si-kodak.png"
+  },
+  {
+    "alias": "kofax",
+    "archivo": "familias/si-kofax.png"
+  },
+  {
+    "alias": "krita",
+    "archivo": "familias/si-krita.png"
+  },
+  {
+    "alias": "libuv",
+    "archivo": "familias/si-libuv.png"
+  },
+  {
+    "alias": "local",
+    "archivo": "familias/si-local.png"
+  },
+  {
+    "alias": "magic",
+    "archivo": "familias/si-magic.png"
+  },
+  {
+    "alias": "mocha",
+    "archivo": "familias/si-mocha.png"
+  },
+  {
+    "alias": "naver",
+    "archivo": "familias/si-naver.png"
+  },
+  {
+    "alias": "ngrok",
+    "archivo": "familias/si-ngrok.png"
+  },
+  {
+    "alias": "nuget",
+    "archivo": "familias/si-nuget.png"
+  },
+  {
+    "alias": "numpy",
+    "archivo": "familias/si-numpy.png"
+  },
+  {
+    "alias": "ocaml",
+    "archivo": "familias/si-ocaml.png"
+  },
+  {
+    "alias": "prezi",
+    "archivo": "familias/si-prezi.png"
+  },
+  {
+    "alias": "quest",
+    "archivo": "familias/si-quest.png"
+  },
+  {
+    "alias": "rapid",
+    "archivo": "familias/si-rapid.png"
+  },
+  {
+    "alias": "react",
+    "archivo": "familias/si-react.png"
+  },
+  {
+    "alias": "relay",
+    "archivo": "familias/si-relay.png"
+  },
+  {
+    "alias": "rider",
+    "archivo": "familias/si-rider.png"
+  },
+  {
+    "alias": "smart",
+    "archivo": "familias/si-smart.png"
+  },
+  {
+    "alias": "solid",
+    "archivo": "familias/si-solid.png"
+  },
+  {
+    "alias": "swift",
+    "archivo": "familias/si-swift.png"
+  },
+  {
+    "alias": "turbo",
+    "archivo": "familias/si-turbo.png"
+  },
+  {
+    "alias": "unity",
+    "archivo": "familias/si-unity.png"
+  },
+  {
+    "alias": "vegas",
+    "archivo": "familias/si-vegas.png"
+  },
+  {
+    "alias": "wacom",
+    "archivo": "familias/si-wacom.png"
+  },
+  {
+    "alias": "webex",
+    "archivo": "familias/si-webex.png"
+  },
+  {
+    "alias": "xampp",
+    "archivo": "familias/si-xampp.png"
+  },
+  {
+    "alias": "xcode",
+    "archivo": "familias/si-xcode.png"
+  },
+  {
+    "alias": "revit",
+    "archivo": "familias/si-autodeskrevit.png"
+  },
+  {
+    "alias": "pcsx2",
+    "archivo": "familias/papirus-b1e1d822933260.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "xmind",
+    "archivo": "familias/papirus-bfb2e10904f46a.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "agent",
+    "archivo": "familias/papirus-df7d37a527f894.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "atril",
+    "archivo": "familias/papirus-19904e28f7d778.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "byobu",
+    "archivo": "familias/papirus-a4bd0f62eadb71.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "cardo",
+    "archivo": "familias/papirus-f434c359e6fdc4.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "chess",
+    "archivo": "familias/papirus-b25f5f4b92ff9d.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "copyq",
+    "archivo": "familias/papirus-46a3249ffdd58a.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ekiga",
+    "archivo": "familias/papirus-82b60c66be8a9c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "emacs",
+    "archivo": "familias/papirus-8f2b9837750aa8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "emule",
+    "archivo": "familias/papirus-b200b074148f8c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "flash",
+    "archivo": "familias/papirus-e693684eb3ed92.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "fonts",
+    "archivo": "familias/papirus-01a7ea1e55a6ae.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "fwupd",
+    "archivo": "familias/papirus-48ad374d5b24f8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "geany",
+    "archivo": "familias/papirus-3eb9692a315d98.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "gedit",
+    "archivo": "familias/papirus-004ff48f7211bf.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "glade",
+    "archivo": "familias/papirus-4c6a4a4dec3f13.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "gnote",
+    "archivo": "familias/papirus-1470d26e5d0f53.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "gnupg",
+    "archivo": "familias/papirus-648526f3f74cac.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "godot",
+    "archivo": "familias/papirus-6d0266c87aa7f0.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "grass",
+    "archivo": "familias/papirus-6bf87d809a0515.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "hplip",
+    "archivo": "familias/papirus-6281d5b9676821.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "hwloc",
+    "archivo": "familias/papirus-c97a89a4740175.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kcalc",
+    "archivo": "familias/papirus-070513016b24c6.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "links",
+    "archivo": "familias/papirus-0effab6300d2b2.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "mesen",
+    "archivo": "familias/papirus-fa56b1b472603f.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "mixxx",
+    "archivo": "familias/papirus-9f9cbbf7c233c4.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "notes",
+    "archivo": "familias/papirus-2e6d2465715f1c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "p7zip",
+    "archivo": "familias/papirus-640e1a1290a1cb.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "rygel",
+    "archivo": "familias/papirus-e8eff4b6488a02.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "samba",
+    "archivo": "familias/papirus-fdca49590f73c9.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "servo",
+    "archivo": "familias/papirus-80958230b2eee1.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "skype",
+    "archivo": "familias/papirus-be6613d605dbac.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "words",
+    "archivo": "familias/papirus-06930380ad9235.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "xfwm4",
+    "archivo": "familias/papirus-db73b2e85b4dd5.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "xsane",
+    "archivo": "familias/papirus-ac776a0fe06a22.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "xterm",
+    "archivo": "familias/papirus-2f3704c4978629.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "aimp2",
+    "archivo": "familias/papirus-21d03e52e1f347.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "foxit",
+    "archivo": "familias/papirus-96e0b7a2158f9c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "pdf24",
+    "archivo": "familias/web-pdf24.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "abbyy",
+    "archivo": "familias/web-abbyy.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "aomei",
+    "archivo": "familias/web-aomei.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "lghub",
+    "archivo": "familias/web-logitech.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "4ddig",
+    "archivo": "familias/web-tenorshare.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "nitro",
+    "archivo": "familias/web-nitro.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "zwcad",
+    "archivo": "familias/web-zwsoft.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "corel",
+    "archivo": "familias/web-corel.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "naps2",
+    "archivo": "familias/web-naps2.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "cpu-z",
+    "archivo": "familias/web-cpuid.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "canon",
+    "archivo": "familias/official-canon.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "iobit",
+    "archivo": "familias/official-iobit.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "roxio",
+    "archivo": "familias/official-roxio.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "rufus",
+    "archivo": "familias/official-rufus.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "glpi",
+    "archivo": "familias/glpi.png"
+  },
+  {
+    "alias": "lynx",
+    "archivo": "familias/lynx.png"
+  },
+  {
+    "alias": "plex",
+    "archivo": "familias/plex.png"
+  },
+  {
+    "alias": "xbox",
+    "archivo": "familias/xbox.png"
+  },
+  {
+    "alias": "zoom",
+    "archivo": "familias/zoom.png"
+  },
+  {
+    "alias": "gimp",
+    "archivo": "familias/gimp.png"
+  },
+  {
+    "alias": "qnap",
+    "archivo": "familias/qnap.png"
+  },
+  {
+    "alias": "cups",
+    "archivo": "familias/cups.png"
+  },
+  {
+    "alias": "docs",
+    "archivo": "familias/docs-collaboration.png"
+  },
+  {
+    "alias": "sony",
+    "archivo": "familias/sony.png"
+  },
+  {
+    "alias": "ldap",
+    "archivo": "familias/ldap.png"
+  },
+  {
+    "alias": "qemu",
+    "archivo": "familias/qemu.png"
+  },
+  {
+    "alias": "odoo",
+    "archivo": "familias/odoo.png"
+  },
+  {
+    "alias": "anki",
+    "archivo": "familias/anki.png"
+  },
+  {
+    "alias": "yelp",
+    "archivo": "familias/yelp.png"
+  },
+  {
+    "alias": "grok",
+    "archivo": "familias/grok.png"
+  },
+  {
+    "alias": "gns3",
+    "archivo": "familias/gns3.png"
+  },
+  {
+    "alias": "dell",
+    "archivo": "familias/dell.png"
+  },
+  {
+    "alias": "word",
+    "archivo": "familias/microsoft-word.png"
+  },
+  {
+    "alias": "java",
+    "archivo": "familias/java.png"
+  },
+  {
+    "alias": ".net",
+    "archivo": "familias/si-dotnet.png"
+  },
+  {
+    "alias": "acer",
+    "archivo": "familias/si-acer.png"
+  },
+  {
+    "alias": "asus",
+    "archivo": "familias/si-asus.png"
+  },
+  {
+    "alias": "bose",
+    "archivo": "familias/si-bose.png"
+  },
+  {
+    "alias": "curl",
+    "archivo": "familias/si-curl.png"
+  },
+  {
+    "alias": "dash",
+    "archivo": "familias/si-dash.png"
+  },
+  {
+    "alias": "deno",
+    "archivo": "familias/si-deno.png"
+  },
+  {
+    "alias": "epel",
+    "archivo": "familias/si-epel.png"
+  },
+  {
+    "alias": "fing",
+    "archivo": "familias/si-fing.png"
+  },
+  {
+    "alias": "gdal",
+    "archivo": "familias/si-gdal.png"
+  },
+  {
+    "alias": "htop",
+    "archivo": "familias/si-htop.png"
+  },
+  {
+    "alias": "icon",
+    "archivo": "familias/si-icon.png"
+  },
+  {
+    "alias": "json",
+    "archivo": "familias/si-json.png"
+  },
+  {
+    "alias": "lens",
+    "archivo": "familias/si-lens.png"
+  },
+  {
+    "alias": "less",
+    "archivo": "familias/si-less.png"
+  },
+  {
+    "alias": "line",
+    "archivo": "familias/si-line.png"
+  },
+  {
+    "alias": "llvm",
+    "archivo": "familias/si-llvm.png"
+  },
+  {
+    "alias": "make",
+    "archivo": "familias/si-make.png"
+  },
+  {
+    "alias": "mamp",
+    "archivo": "familias/si-mamp.png"
+  },
+  {
+    "alias": "miro",
+    "archivo": "familias/si-miro.png"
+  },
+  {
+    "alias": "nano",
+    "archivo": "familias/si-nano.png"
+  },
+  {
+    "alias": "osu!",
+    "archivo": "familias/si-osu.png"
+  },
+  {
+    "alias": "perl",
+    "archivo": "familias/si-perl.png"
+  },
+  {
+    "alias": "poly",
+    "archivo": "familias/si-poly.png"
+  },
+  {
+    "alias": "qgis",
+    "archivo": "familias/si-qgis.png"
+  },
+  {
+    "alias": "ruby",
+    "archivo": "familias/si-ruby.png"
+  },
+  {
+    "alias": "rust",
+    "archivo": "familias/si-rust.png"
+  },
+  {
+    "alias": "sega",
+    "archivo": "familias/si-sega.png"
+  },
+  {
+    "alias": "tmux",
+    "archivo": "familias/si-tmux.png"
+  },
+  {
+    "alias": "warp",
+    "archivo": "familias/si-warp.png"
+  },
+  {
+    "alias": "wire",
+    "archivo": "familias/si-wire.png"
+  },
+  {
+    "alias": "wise",
+    "archivo": "familias/si-wise.png"
+  },
+  {
+    "alias": "wish",
+    "archivo": "familias/si-wish.png"
+  },
+  {
+    "alias": "xfce",
+    "archivo": "familias/si-xfce.png"
+  },
+  {
+    "alias": "yarn",
+    "archivo": "familias/si-yarn.png"
+  },
+  {
+    "alias": "myhp",
+    "archivo": "familias/si-hp.png"
+  },
+  {
+    "alias": "play",
+    "archivo": "familias/papirus-29c8f7edd05179.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "abrt",
+    "archivo": "familias/papirus-37edeceb8ecad2.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "aimp",
+    "archivo": "familias/papirus-21d03e52e1f347.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "arts",
+    "archivo": "familias/papirus-1a7a91bee98206.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "atom",
+    "archivo": "familias/papirus-4ed93842b2bd58.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "bash",
+    "archivo": "familias/papirus-f67a1fafbe1a5c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "boot",
+    "archivo": "familias/papirus-ccaa87b53094d7.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "calc",
+    "archivo": "familias/papirus-070513016b24c6.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "code",
+    "archivo": "familias/papirus-d2e5bb0cb7a8ed.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "date",
+    "archivo": "familias/papirus-5f0438105d49f7.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "flow",
+    "archivo": "familias/papirus-c4c1bdfb7264eb.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "fuse",
+    "archivo": "familias/papirus-e4e21477cb637a.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "ibus",
+    "archivo": "familias/papirus-3fa03e6dd16fdd.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "idle",
+    "archivo": "familias/papirus-1f8c6e962f4393.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kate",
+    "archivo": "familias/papirus-1a23b46dabc0d4.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kgpg",
+    "archivo": "familias/papirus-648526f3f74cac.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kipi",
+    "archivo": "familias/papirus-3d77854c3754f0.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kmag",
+    "archivo": "familias/papirus-055cd07d1b0471.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kmix",
+    "archivo": "familias/papirus-400da177b6ec52.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "kwin",
+    "archivo": "familias/papirus-85e8065df0051f.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "lftp",
+    "archivo": "familias/papirus-35e5d230831f18.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "lshw",
+    "archivo": "familias/papirus-19b7864b0f113e.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "mame",
+    "archivo": "familias/papirus-0b152aa2db4961.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "maps",
+    "archivo": "familias/papirus-6a90ff7560cedd.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "mate",
+    "archivo": "familias/papirus-259adbad70b444.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "meld",
+    "archivo": "familias/papirus-f23ccd3848e21d.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "mgba",
+    "archivo": "familias/papirus-1a18c9b379508f.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "mono",
+    "archivo": "familias/papirus-c7708ce699e509.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "mutt",
+    "archivo": "familias/papirus-a36ef481d6c48c.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "nmap",
+    "archivo": "familias/papirus-6a8eb6b8e70fa9.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "orca",
+    "archivo": "familias/papirus-e084316e710d12.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "pspp",
+    "archivo": "familias/papirus-9caed75f22aea1.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "riot",
+    "archivo": "familias/papirus-791c6bdbc258e4.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "spek",
+    "archivo": "familias/papirus-6ed364f74cbdac.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "time",
+    "archivo": "familias/papirus-7c0abac1a3f3f4.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "vuze",
+    "archivo": "familias/papirus-83f53a8cdefbf8.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "xorg",
+    "archivo": "familias/papirus-35d6bf3f5f0061.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "xpdf",
+    "archivo": "familias/papirus-19904e28f7d778.png",
+    "tipo": "tema de aplicación"
+  },
+  {
+    "alias": "eset",
+    "archivo": "familias/web-eset.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "nero",
+    "archivo": "familias/web-nero.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "toad",
+    "archivo": "familias/web-quest.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "zw3d",
+    "archivo": "familias/web-zwsoft.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "jdk",
+    "archivo": "familias/java.png"
+  },
+  {
+    "alias": "git",
+    "archivo": "familias/git.png"
+  },
+  {
+    "alias": "bat",
+    "archivo": "familias/si-basicattentiontoken.png"
+  },
+  {
+    "alias": "vlc",
+    "archivo": "familias/si-vlcmediaplayer.png"
+  },
+  {
+    "alias": "amd",
+    "archivo": "familias/si-amd.png"
+  },
+  {
+    "alias": "obs",
+    "archivo": "familias/si-obsstudio.png"
+  },
+  {
+    "alias": "rar",
+    "archivo": "familias/web-winrar.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "nch",
+    "archivo": "familias/web-nch.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "gom",
+    "archivo": "familias/web-gom.png",
+    "tipo": "sitio oficial"
+  },
+  {
+    "alias": "wd",
+    "archivo": "familias/si-westerndigital.png"
+  },
+  {
+    "alias": "hp",
+    "archivo": "familias/si-hp.png"
+  }
+]
