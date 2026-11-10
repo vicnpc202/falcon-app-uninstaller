@@ -111,6 +111,8 @@ un cursor de continuación, puede ser necesario reiniciar la lectura completa.
 5. Pulsa **Revisar desinstalación…**, comprueba el programa, el script y los destinatarios, y confirma el envío.
 6. Consulta **Seguimiento** y después **Historial**. El historial general reúne las aplicaciones gestionadas, no solo la que está seleccionada.
 
+![Editor y publicación de scripts en Falcon](docs/images/script.png)
+
 El gestor no genera un desinstalador universal: el script debe contemplar el
 método de instalación, usuarios, permisos y plataforma del programa. Prueba cada
 script en un equipo antes de enviarlo a un grupo. El editor presenta PowerShell
@@ -148,7 +150,7 @@ para instalaciones nuevas y las consultas periódicas necesitan que el gestor es
 abierto. Una regla local no se convierte en un servicio que ejecute trabajo al
 cerrar Windows. No borres `datos/` si quieres conservar el seguimiento y el historial.
 
-![Historial con datos de ejemplo](docs/images/historial.png)
+![Historial de ejecución y verificación de instalaciones](docs/images/historial.png)
 
 ## Datos locales y privacidad
 
