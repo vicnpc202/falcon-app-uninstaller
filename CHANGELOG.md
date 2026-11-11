@@ -1,5 +1,11 @@
 # Cambios
 
+## 1.0.3 — 2026-11-11
+
+- Elimina **Guardar y volver a equipos** del editor para evitar confundir el guardado local con la publicación en Falcon.
+- Destaca **Publicar en Falcon** en azul como acción principal y conserva **Elegir script de Falcon…** para reutilizar scripts publicados.
+- Aclara que los scripts nuevos o modificados deben publicarse antes de enviarlos desde Equipos.
+
 ## 1.0.2 — 2026-11-11
 
 - Corrige el selector de scripts: los botones **Vincular seleccionado**,

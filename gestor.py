@@ -3,7 +3,7 @@
 import argparse
 import zipfile
 
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 import csv
 import hashlib
 import json
@@ -2599,14 +2599,10 @@ class Panel:
                 return
             draft.delete("1.0","end")
             draft.insert("1.0", source.replace("\r\n","\n"))
-        def save_and_return():
-            if save():
-                tabs.select(devices)
-        ttk.Button(actions,text="Guardar y volver a equipos",style="Accent.TButton",command=save_and_return).pack(side="left")
-        publish_button = ttk.Button(actions,text="Publicar en Falcon",command=publish)
-        publish_button.pack(side="left",padx=6)
+        publish_button = ttk.Button(actions,text="Publicar en Falcon",style="Accent.TButton",command=publish)
+        publish_button.pack(side="left")
         ttk.Button(actions,text="Elegir script de Falcon…",command=select_cloud_script).pack(side="left",padx=6)
-        hint=ttk.Label(frame,text="Publica un script nuevo o elige uno existente de Falcon. Después selecciona los equipos para enviarlo.",
+        hint=ttk.Label(frame,text="Publica el script nuevo o modificado, o elige uno ya publicado. Luego ve a Equipos para revisar el envío.",
                        wraplength=440,style="Muted.TLabel")
         hint.grid(row=4,column=0,sticky="w",pady=(2,4))
         frame.bind("<Configure>",lambda event:hint.configure(wraplength=max(240,event.width-30)))
