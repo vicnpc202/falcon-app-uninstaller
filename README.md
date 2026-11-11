@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.1-e51937?style=flat-square" alt="Versión 1.0.1">
+  <img src="https://img.shields.io/badge/version-1.0.2-e51937?style=flat-square" alt="Versión 1.0.2">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python 3.10 o superior">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-238636?style=flat-square" alt="Licencia GPL-3.0"></a>
   <a href="https://github.com/vicnpc202/falcon-app-uninstaller/actions/workflows/tests.yml"><img src="https://github.com/vicnpc202/falcon-app-uninstaller/actions/workflows/tests.yml/badge.svg" alt="Estado de las pruebas"></a>
@@ -227,4 +227,4 @@ Código **GPL-3.0-only**. Consulta [LICENSE](LICENSE). Los derivados distribuido
 deben cumplir sus condiciones. Las imágenes, logos y marcas conservan sus
 licencias y derechos propios; la licencia del código no los relicencia.
 
-**Versión 1.0.1** · Interfaz en español · Windows.
+**Versión 1.0.2** · Interfaz en español · Windows.

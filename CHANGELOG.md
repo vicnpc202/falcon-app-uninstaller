@@ -1,5 +1,14 @@
 # Cambios
 
+## 1.0.2 — 2026-11-11
+
+- Corrige el selector de scripts: los botones **Vincular seleccionado**,
+  **Cancelar** y **Actualizar lista** permanecen visibles al redimensionar.
+- La tabla ocupa solo el espacio disponible; los textos se ajustan al ancho.
+- Permite vincular el script seleccionado con doble clic o la tecla Enter.
+- Añade una prueba de interfaz que comprueba visibilidad y vínculo con distintas
+  escalas de texto y tamaños de ventana, sin ejecutar órdenes remotas.
+
 ## 1.0.1 — 2026-11-11
 
 - Reemplaza **Exportar para Falcon…** por **Elegir script de Falcon…**.

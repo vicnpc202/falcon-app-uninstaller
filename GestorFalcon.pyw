@@ -3,7 +3,7 @@
 import argparse
 import zipfile
 
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 import csv
 import hashlib
 import json
@@ -2430,18 +2430,31 @@ class Panel:
             dialog.transient(window)
             shell = ttk.Frame(dialog, padding=16)
             shell.pack(fill="both", expand=True)
-            ttk.Label(shell, text="Custom scripts de Falcon", style="Section.TLabel").pack(anchor="w")
-            ttk.Label(shell, text="Vincula un script existente a esta aplicación. Puedes reutilizarlo en otras versiones.",
-                      wraplength=820, style="Muted.TLabel").pack(anchor="w", pady=(6, 0))
+            shell.columnconfigure(0, weight=1)
+            shell.rowconfigure(3, weight=1)
+            ttk.Label(shell, text="Custom scripts de Falcon", style="Section.TLabel").grid(row=0, column=0, sticky="w")
+            subtitle = ttk.Label(shell, text="Vincula un script existente a esta aplicación. Puedes reutilizarlo en otras versiones.",
+                                 wraplength=820, style="Muted.TLabel")
+            subtitle.grid(row=1, column=0, sticky="ew", pady=(6, 0))
             search = ttk.Frame(shell)
-            search.pack(fill="x", pady=10)
+            search.grid(row=2, column=0, sticky="ew", pady=10)
             ttk.Label(search, text="Buscar script").pack(side="left", padx=(0, 8))
             query = tk.StringVar()
             field = ttk.Entry(search, textvariable=query)
             field.pack(side="left", fill="x", expand=True)
-            tree = table(shell, [("Nombre", 370), ("Plataforma", 100), ("Actualizado", 170)])
+            # Only this row expands: actions retain their space at every window size.
+            listing = ttk.Frame(shell)
+            listing.grid(row=3, column=0, sticky="nsew")
+            tree = table(listing, [("Nombre", 370), ("Plataforma", 100), ("Actualizado", 170)])
+            tree.configure(height=5)
             notice = tk.StringVar(value="Consultando biblioteca…")
-            ttk.Label(shell, textvariable=notice, wraplength=820, style="Muted.TLabel").pack(anchor="w", pady=6)
+            notice_label = ttk.Label(shell, textvariable=notice, wraplength=820, style="Muted.TLabel")
+            notice_label.grid(row=4, column=0, sticky="ew", pady=6)
+            def fit_text(event):
+                width = max(200, event.width - 32)
+                subtitle.configure(wraplength=width)
+                notice_label.configure(wraplength=width)
+            shell.bind("<Configure>", fit_text)
             replies = queue.Queue()
             records = []
             loading = [False]
@@ -2516,12 +2529,14 @@ class Panel:
                 self.footer.set("Script vinculado: " + binding["name"])
                 dialog.destroy()
             buttons = ttk.Frame(shell)
-            buttons.pack(fill="x", pady=(8, 0))
+            buttons.grid(row=5, column=0, sticky="ew", pady=(8, 0))
             refresh_button = ttk.Button(buttons, text="Actualizar lista", command=fetch)
             refresh_button.pack(side="left")
             use_button = ttk.Button(buttons, text="Vincular seleccionado", style="Accent.TButton", command=use, state="disabled")
             use_button.pack(side="right")
             ttk.Button(buttons, text="Cancelar", command=dialog.destroy).pack(side="right", padx=8)
+            tree.bind("<Double-1>", lambda _: use())
+            dialog.bind("<Return>", lambda _: use())
             dialog.bind("<Escape>", lambda _: dialog.destroy())
             dialog.grab_set()
             field.focus_set()
