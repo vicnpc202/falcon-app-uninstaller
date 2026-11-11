@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
   <title id="title">GestorFalcon — Gestión de desinstalación masiva con CrowdStrike Falcon</title>
-  <desc id="desc">Falcon App Uninstaller. Inventario, scripts RTR e historial CSV. Versión 1.0.2.</desc>
+  <desc id="desc">Falcon App Uninstaller. Inventario, scripts RTR e historial CSV. Versión 1.0.3.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#1b202a"/>
@@ -18,7 +18,7 @@
     <text x="268" y="214" font-size="30" font-weight="600" fill="#f1f5f9">Gestión de desinstalación masiva</text>
     <text x="268" y="255" font-size="21" fill="#b5bfcc">CrowdStrike Falcon · Inventario · RTR · Historial CSV</text>
     <rect x="1125" y="40" width="109" height="32" rx="16" fill="#261a23" stroke="#813044"/>
-    <text x="1179.5" y="61" text-anchor="middle" font-size="14" font-weight="600" fill="#ff8092">v1.0.2</text>
+    <text x="1179.5" y="61" text-anchor="middle" font-size="14" font-weight="600" fill="#ff8092">v1.0.3</text>
     <text x="268" y="303" font-size="13" letter-spacing="1" fill="#7f8b9b">PROYECTO INDEPENDIENTE · INTERFAZ EN ESPAÑOL</text>
   </g>
 </svg>
