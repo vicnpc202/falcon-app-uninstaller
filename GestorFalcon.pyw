@@ -3,7 +3,7 @@
 import argparse
 import zipfile
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 import csv
 import hashlib
 import json
@@ -660,6 +660,44 @@ def body(response):
 
 class ScriptNotPublished(ValueError):
     pass
+
+
+def rtr_script_binding(record, platform):
+    """Validate the exact remote script before linking it to an application."""
+    name = record.get("name", "")
+    if not isinstance(name, str) or not re.fullmatch(r"[\w .()-]{1,200}", name):
+        raise ValueError("El nombre del script no es compatible con el comando RTR.")
+    platforms = record.get("platform", [])
+    if isinstance(platforms, str):
+        platforms = [platforms]
+    expected = {"macos":"mac"}.get(platform.casefold(), platform.casefold())
+    if not isinstance(platforms, list) or expected not in [str(p).casefold() for p in platforms]:
+        raise ValueError("La plataforma del script no coincide con la aplicación.")
+    content = record.get("content")
+    digest = str(record.get("sha256") or "").lower()
+    if (not isinstance(content, str) or not content.strip() or not record.get("id")
+            or hashlib.sha256(content.encode("utf-8")).hexdigest() != digest):
+        raise ValueError("Falcon no devolvió contenido, identificador y hash verificables del script.")
+    return content, {"name":name, "id":record["id"], "sha256":digest}
+
+
+def save_uninstaller(db, service, app, source, binding):
+    digest = hashlib.sha256(source.encode("utf-8")).hexdigest()
+    linked = bool(binding and digest == binding["sha256"])
+    name = binding["name"] if linked else (cloud_name(app, source) if source.strip() else "")
+    policy = db.execute("SELECT script FROM policy WHERE app_id=?", (app["id"],)).fetchone()
+    if policy and policy[0] != name:
+        raise ValueError("Desactiva la regla de este programa antes de cambiar su script.")
+    with db:
+        db.execute("UPDATE app SET draft=?,script=? WHERE id=?", (source, name, app["id"]))
+        key = "rtr_binding:" + str(app["id"])
+        if linked:
+            db.execute("INSERT OR REPLACE INTO meta VALUES(?,?)", (key, json.dumps(binding)))
+        else:
+            db.execute("DELETE FROM meta WHERE key=?", (key,))
+    if linked:
+        service.script_bindings[name] = dict(binding)
+    return name
 
 
 class Falcon:
@@ -2369,22 +2407,126 @@ class Panel:
                 messagebox.showinfo("Operación en curso","Espera a que termine la operación actual.",parent=window)
                 return False
             source = draft.get("1.0","end-1c")
-            digest = hashlib.sha256(source.encode("utf-8")).hexdigest()
-            name = linked["name"] if linked and digest==linked["sha256"] else (cloud_name(app,source) if source.strip() else "")
-            policy = self.db.execute("SELECT script FROM policy WHERE app_id=?", (aid,)).fetchone()
-            if policy and policy[0]!=name:
-                messagebox.showinfo("Regla activa","Desactiva la regla de este programa antes de cambiar su script.",
-                                    parent=window)
+            try:
+                name = save_uninstaller(self.db, self.service, app, source, linked)
+            except ValueError as err:
+                messagebox.showinfo("Guardar desinstalador", str(err), parent=window)
                 return False
-            with self.db:
-                self.db.execute("UPDATE app SET draft=?,script=? WHERE id=?",(source,name,aid))
-                if linked and name==linked["name"]:
-                    self.db.execute("INSERT OR REPLACE INTO meta VALUES(?,?)",("rtr_binding:"+str(aid),json.dumps(linked)))
-                    self.service.script_bindings[name] = dict(linked)
             published.set(name or "Sin script vinculado")
             choose_script.configure(text="Editar desinstalador" if name else "Elegir desinstalador")
             self.refresh()
             return True
+        def select_cloud_script():
+            if self.demo:
+                messagebox.showinfo("Scripts de Falcon", "Conecta un perfil Falcon para ver los custom scripts.", parent=window)
+                return
+            if self.busy:
+                messagebox.showinfo("Operación en curso", "Espera a que termine la consulta actual.", parent=window)
+                return
+            dialog = tk.Toplevel(window)
+            dialog.title("Elegir script de Falcon")
+            dialog.geometry("900x540")
+            dialog.minsize(680, 400)
+            dialog.transient(window)
+            shell = ttk.Frame(dialog, padding=16)
+            shell.pack(fill="both", expand=True)
+            ttk.Label(shell, text="Custom scripts de Falcon", style="Section.TLabel").pack(anchor="w")
+            ttk.Label(shell, text="Vincula un script existente a esta aplicación. Puedes reutilizarlo en otras versiones.",
+                      wraplength=820, style="Muted.TLabel").pack(anchor="w", pady=(6, 0))
+            search = ttk.Frame(shell)
+            search.pack(fill="x", pady=10)
+            ttk.Label(search, text="Buscar script").pack(side="left", padx=(0, 8))
+            query = tk.StringVar()
+            field = ttk.Entry(search, textvariable=query)
+            field.pack(side="left", fill="x", expand=True)
+            tree = table(shell, [("Nombre", 370), ("Plataforma", 100), ("Actualizado", 170)])
+            notice = tk.StringVar(value="Consultando biblioteca…")
+            ttk.Label(shell, textvariable=notice, wraplength=820, style="Muted.TLabel").pack(anchor="w", pady=6)
+            replies = queue.Queue()
+            records = []
+            loading = [False]
+            def render(*_):
+                tree.delete(*tree.get_children())
+                for index, record in enumerate(records):
+                    if query.get().casefold() not in str(record.get("name", "")).casefold():
+                        continue
+                    platforms = record.get("platform", "")
+                    if isinstance(platforms, list): platforms = ", ".join(map(str, platforms))
+                    stamp = record.get("modified_timestamp") or record.get("modified_at") or "—"
+                    tree.insert("", "end", iid=str(index), values=(record.get("name", ""), platforms, stamp))
+                use_button.state(["disabled"])
+                if not loading[0]:
+                    notice.set(f"{len(tree.get_children())} de {len(records)} scripts. Vincular no ejecuta ni publica el script.")
+            query.trace_add("write", render)
+            def selected(_=None):
+                use_button.state(["!disabled"] if tree.selection() and not loading[0] else ["disabled"])
+            tree.bind("<<TreeviewSelect>>", selected)
+            def fetch():
+                if loading[0]: return
+                loading[0] = True
+                refresh_button.state(["disabled"])
+                use_button.state(["disabled"])
+                notice.set("Consultando biblioteca…")
+                def work():
+                    try: replies.put((self.service.library_scripts(), None))
+                    except Exception as err: replies.put((None, str(err)))
+                threading.Thread(target=work, daemon=True).start()
+                dialog.after(150, received)
+            def received():
+                if not dialog.winfo_exists(): return
+                try: result, error = replies.get_nowait()
+                except queue.Empty:
+                    dialog.after(150, received)
+                    return
+                loading[0] = False
+                refresh_button.state(["!disabled"])
+                if error:
+                    records.clear()
+                    render()
+                    notice.set("No se pudo consultar la biblioteca: " + error)
+                    return
+                records[:] = sorted(result, key=lambda r: str(r.get("name", "")).casefold())
+                render()
+            def use():
+                if loading[0] or not tree.selection(): return
+                record = records[int(tree.selection()[0])]
+                try:
+                    content, binding = rtr_script_binding(record, app["platform"])
+                    if sum(r.get("name") == binding["name"] for r in records) != 1:
+                        raise ValueError("Hay varios scripts con el mismo nombre. Usa un nombre único en Falcon.")
+                except ValueError as err:
+                    messagebox.showerror("Vincular script", str(err), parent=dialog)
+                    return
+                if not messagebox.askyesno("Vincular script", f"Aplicación: {app['name']}\nScript: {binding['name']}\n\n"
+                        "Se reemplazará el contenido del editor de esta ficha. El script no se ejecutará.", parent=dialog):
+                    return
+                previous = dict(linked)
+                previous_source = draft.get("1.0", "end-1c")
+                linked.clear()
+                linked.update(binding)
+                draft.delete("1.0", "end")
+                draft.insert("1.0", content)
+                if not save():
+                    linked.clear()
+                    linked.update(previous)
+                    draft.delete("1.0", "end")
+                    draft.insert("1.0", previous_source)
+                    return
+                self.pending_edits.pop(aid, None)
+                self.footer.set("Script vinculado: " + binding["name"])
+                dialog.destroy()
+            buttons = ttk.Frame(shell)
+            buttons.pack(fill="x", pady=(8, 0))
+            refresh_button = ttk.Button(buttons, text="Actualizar lista", command=fetch)
+            refresh_button.pack(side="left")
+            use_button = ttk.Button(buttons, text="Vincular seleccionado", style="Accent.TButton", command=use, state="disabled")
+            use_button.pack(side="right")
+            ttk.Button(buttons, text="Cancelar", command=dialog.destroy).pack(side="right", padx=8)
+            dialog.bind("<Escape>", lambda _: dialog.destroy())
+            dialog.grab_set()
+            field.focus_set()
+            fetch()
+
         def publish():
             if self.demo:
                 messagebox.showinfo("Publicar en Falcon","Conecta un perfil Falcon para publicar scripts.",parent=window)
@@ -2427,40 +2569,6 @@ class Panel:
             threading.Thread(target=upload,daemon=True).start()
             self.root.after(150,completed)
 
-        def export():
-            if not draft.get("1.0","end-1c").strip():
-                draft.focus_set()
-                messagebox.showinfo("Desinstalador","Pega el comando o abre un archivo primero.",parent=window)
-                return
-            if not save():
-                return
-            ext = ".ps1" if app["platform"].casefold()=="windows" else ".sh"
-            dest = filedialog.asksaveasfilename(parent=window,initialfile=published.get()+ext,defaultextension=ext)
-            if dest:
-                try:
-                    Path(dest).write_bytes(draft.get("1.0","end-1c").encode("utf-8"))
-                except OSError as err:
-                    messagebox.showerror("Exportar archivo",str(err),parent=window)
-                    return
-                dialog=tk.Toplevel(window)
-                dialog.title("Publicar en Falcon")
-                dialog.transient(window)
-                box=ttk.Frame(dialog,padding=16)
-                box.pack()
-                ttk.Label(box,text="Archivo exportado",style="Section.TLabel").pack(anchor="w")
-                ttk.Label(box,text=f"Sube {Path(dest).name} a la biblioteca de scripts RTR de Falcon con este nombre:",
-                          wraplength=420).pack(anchor="w",pady=8)
-                ttk.Entry(box,textvariable=published,width=42,state="readonly").pack(fill="x")
-                buttons=ttk.Frame(box)
-                buttons.pack(fill="x",pady=(8,0))
-                def copy_name():
-                    window.clipboard_clear()
-                    window.clipboard_append(published.get())
-                    copy.configure(text="Nombre copiado")
-                copy=ttk.Button(buttons,text="Copiar nombre RTR",command=copy_name)
-                copy.pack(side="left")
-                ttk.Button(buttons,text="Listo",command=dialog.destroy).pack(side="right")
-                dialog.grab_set()
         actions = ttk.Frame(frame)
         actions.grid(row=3,column=0,sticky="ew",pady=(8,4))
         def import_file():
@@ -2482,8 +2590,8 @@ class Panel:
         ttk.Button(actions,text="Guardar y volver a equipos",style="Accent.TButton",command=save_and_return).pack(side="left")
         publish_button = ttk.Button(actions,text="Publicar en Falcon",command=publish)
         publish_button.pack(side="left",padx=6)
-        ttk.Button(actions,text="Exportar para Falcon…",command=export).pack(side="left",padx=6)
-        hint=ttk.Label(frame,text="Publicar en Falcon sube y verifica el script. Después selecciona los equipos para enviarlo.",
+        ttk.Button(actions,text="Elegir script de Falcon…",command=select_cloud_script).pack(side="left",padx=6)
+        hint=ttk.Label(frame,text="Publica un script nuevo o elige uno existente de Falcon. Después selecciona los equipos para enviarlo.",
                        wraplength=440,style="Muted.TLabel")
         hint.grid(row=4,column=0,sticky="w",pady=(2,4))
         frame.bind("<Configure>",lambda event:hint.configure(wraplength=max(240,event.width-30)))

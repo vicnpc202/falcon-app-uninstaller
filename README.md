@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-e51937?style=flat-square" alt="Versión 1.0.0">
+  <img src="https://img.shields.io/badge/version-1.0.1-e51937?style=flat-square" alt="Versión 1.0.1">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python 3.10 o superior">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-238636?style=flat-square" alt="Licencia GPL-3.0"></a>
   <a href="https://github.com/vicnpc202/falcon-app-uninstaller/actions/workflows/tests.yml"><img src="https://github.com/vicnpc202/falcon-app-uninstaller/actions/workflows/tests.yml/badge.svg" alt="Estado de las pruebas"></a>
@@ -31,6 +31,7 @@ no está desarrollado, certificado ni respaldado por CrowdStrike.
 - Buscar aplicaciones y filtrarlas por categoría, fabricante e instalación.
 - Ver los equipos asociados, su conexión y su última comunicación en hora local.
 - Editar, publicar y verificar un script en la biblioteca RTR desde la ficha del programa.
+- Elegir un custom script existente de Falcon y reutilizarlo en distintas versiones de una aplicación.
 - Revisar los destinatarios antes de enviar una desinstalación a varios equipos.
 - Dejar órdenes en cola para equipos desconectados.
 - Consultar el historial de todos los programas y equipos, o filtrar por aplicación.
@@ -119,7 +120,7 @@ un cursor de continuación, puede ser necesario reiniciar la lectura completa.
 ## Uso habitual
 
 1. **Aplicaciones:** busca un programa y abre su ficha.
-2. **Desinstalador:** pega o abre un script que corresponda a esa aplicación y plataforma. Guarda y pulsa **Publicar en Falcon**. La publicación utiliza un nombre que incluye una huella del contenido y verifica la versión publicada.
+2. **Desinstalador:** pega o abre un script y pulsa **Publicar en Falcon**, o usa **Elegir script de Falcon…** para buscar un custom script ya publicado. Selecciona **Vincular seleccionado** para guardar su nombre, contenido, identificador y hash en esa ficha. Puedes vincular el mismo script a varias versiones compatibles sin volver a subirlo. Vincularlo no lo ejecuta; los destinatarios se confirman después. Si editas el contenido vinculado, debes publicar esa nueva versión antes de enviarla.
 3. **Equipos:** usa **Actualizar conexión** para consultar el sensor, o **Verificar instalación** para volver a consultar el inventario de ese programa.
 4. Marca los equipos. Si corresponde, activa **Ejecutar al reconectarse**.
 5. Pulsa **Revisar desinstalación…**, comprueba el programa, el script y los destinatarios, y confirma el envío.
@@ -226,4 +227,4 @@ Código **GPL-3.0-only**. Consulta [LICENSE](LICENSE). Los derivados distribuido
 deben cumplir sus condiciones. Las imágenes, logos y marcas conservan sus
 licencias y derechos propios; la licencia del código no los relicencia.
 
-**Versión 1.0.0** · Interfaz en español · Windows.
+**Versión 1.0.1** · Interfaz en español · Windows.
