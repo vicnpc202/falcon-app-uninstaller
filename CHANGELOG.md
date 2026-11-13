@@ -1,5 +1,15 @@
 # Cambios
 
+## 1.1.0 — 2026-11-13
+
+- Añade **Usar archivo previo (put)** por aplicación y un selector con búsqueda de los archivos ya subidos a Falcon.
+- Comprueba el archivo existente o realiza la transferencia; valida SHA256 antes de ejecutar el desinstalador.
+- Conserva las etapas y la selección de cada envío al reiniciar, sin modificar órdenes antiguas.
+- Recupera sesiones RTR caducadas y vuelve a preparar el destino cuando corresponde.
+- Bloquea archivos cambiados, transferencias fallidas y envíos de resultado incierto; mantiene el flujo sin put para scripts que no lo necesitan.
+- Documenta el uso y sus límites e incluye la captura de la nueva función.
+- Añade pruebas de cola, migración, errores de transferencia y selector de interfaz.
+
 ## 1.0.3 — 2026-11-11
 
 - Elimina **Guardar y volver a equipos** del editor para evitar confundir el guardado local con la publicación en Falcon.

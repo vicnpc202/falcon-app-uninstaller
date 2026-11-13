@@ -3,7 +3,7 @@
 import argparse
 import zipfile
 
-__version__ = "1.0.3"
+__version__ = "1.1.0"
 import csv
 import hashlib
 import json
@@ -301,6 +301,10 @@ def db_open(path):
     """)
     if "installed_at" not in {r[1] for r in db.execute("PRAGMA table_info(inventory)")}:
         db.execute("ALTER TABLE inventory ADD COLUMN installed_at TEXT DEFAULT ''")
+    job_columns = {r[1] for r in db.execute("PRAGMA table_info(job)")}
+    for field, default in (("phase", "script"), ("put_id", ""), ("put_file", ""), ("put_sha256", "")):
+        if field not in job_columns:
+            db.execute(f"ALTER TABLE job ADD COLUMN {field} TEXT DEFAULT '{default}'")
     migrate_categories(db)
     if not db.execute("SELECT 1 FROM meta WHERE key='catalog_v4'").fetchone():
         classify_pending(db)
@@ -592,6 +596,13 @@ def plan_rows(db, app_id, aids, offline, campaign):
                          (campaign, offline, now(), app_id, aid))
         if cur.rowcount:
             created.append(cur.lastrowid)
+            attachment = get_put_binding(db, app_id)
+            if attachment:
+                app = db.execute("SELECT platform FROM app WHERE id=?", (app_id,)).fetchone()
+                if str(app[0]).casefold() != "windows":
+                    raise ValueError("El archivo previo está disponible para desinstaladores Windows.")
+                db.execute("UPDATE job SET phase='put_probe',put_id=?,put_file=?,put_sha256=? WHERE id=?",
+                           (attachment["id"], attachment["name"], attachment["sha256"], cur.lastrowid))
             db.execute("INSERT INTO event(job_id,stamp,status,detail) VALUES(?,?,'Preparado','')",
                        (cur.lastrowid, now()))
     return created
@@ -698,6 +709,131 @@ def save_uninstaller(db, service, app, source, binding):
     if linked:
         service.script_bindings[name] = dict(binding)
     return name
+
+
+def put_file_binding(record):
+    name = record.get("name", "")
+    digest = str(record.get("sha256") or "").lower()
+    if not isinstance(name, str) or not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9_. -]{0,127}", name) or ".." in name:
+        raise ValueError("El archivo debe tener un nombre simple, sin rutas, comillas ni caracteres de comando.")
+    if not record.get("id") or not re.fullmatch(r"[0-9a-f]{64}", digest):
+        raise ValueError("Falcon no devolvió identificador y SHA256 verificables del archivo.")
+    return {"id": str(record["id"]), "name": name, "sha256": digest}
+
+
+def get_put_binding(db, app_id):
+    row = db.execute("SELECT value FROM meta WHERE key=?", ("rtr_put:" + str(app_id),)).fetchone()
+    return put_file_binding(json.loads(row[0])) if row else None
+
+
+def save_put_binding(db, app_id, attachment):
+    attachment = put_file_binding(attachment) if attachment else None
+    previous = get_put_binding(db, app_id)
+    if previous == attachment:
+        return
+    if db.execute("SELECT 1 FROM policy WHERE app_id=?", (app_id,)).fetchone():
+        raise ValueError("Desactiva la regla automática antes de cambiar su archivo previo.")
+    with db:
+        if attachment:
+            db.execute("INSERT OR REPLACE INTO meta VALUES(?,?)",
+                       ("rtr_put:"+str(app_id), json.dumps(attachment)))
+        else:
+            db.execute("DELETE FROM meta WHERE key=?", ("rtr_put:"+str(app_id),))
+
+
+def job_put_binding(job):
+    return put_file_binding({"id":job["put_id"], "name":job["put_file"], "sha256":job["put_sha256"]})
+
+
+PUT_PHASES = {"put_probe":"Comprobando archivo previo", "put_cd":"Preparando carpeta de destino", "put_copy":"Transfiriendo archivo de Falcon",
+              "put_check":"Verificando archivo recibido", "script":"Ejecutando desinstalador"}
+
+
+def choose_put_file(parent, service, selected_callback):
+    dialog = tk.Toplevel(parent)
+    dialog.title("Elegir archivo previo de Falcon")
+    dialog.geometry("850x480")
+    dialog.minsize(640, 360)
+    dialog.transient(parent)
+    shell = ttk.Frame(dialog, padding=16)
+    shell.pack(fill="both", expand=True)
+    shell.columnconfigure(0, weight=1)
+    shell.rowconfigure(2, weight=1)
+    ttk.Label(shell, text='Archivos de Falcon (put)', style="Section.TLabel").grid(row=0,column=0,sticky="w")
+    query = tk.StringVar()
+    search = ttk.Frame(shell)
+    search.grid(row=1,column=0,sticky="ew",pady=10)
+    ttk.Label(search,text="Buscar archivo").pack(side="left",padx=(0,8))
+    entry = ttk.Entry(search,textvariable=query)
+    entry.pack(side="left",fill="x",expand=True)
+    listing = ttk.Frame(shell)
+    listing.grid(row=2,column=0,sticky="nsew")
+    tree = table(listing, [("Nombre",380),("Tamaño",100),("Actualizado",180)])
+    tree.configure(height=5)
+    notice = tk.StringVar(value="Consultando biblioteca…")
+    label = ttk.Label(shell,textvariable=notice,style="Muted.TLabel",wraplength=780)
+    label.grid(row=3,column=0,sticky="ew",pady=6)
+    shell.bind("<Configure>",lambda e:label.configure(wraplength=max(220,e.width-32)))
+    records, loading, replies = [], [False], queue.Queue()
+    def render(*_):
+        tree.delete(*tree.get_children())
+        for index, record in enumerate(records):
+            if query.get().casefold() in str(record.get("name", "")).casefold():
+                try: size = f'{int(record.get("size") or 0)/1048576:.2f} MB'
+                except (ValueError,TypeError): size = "—"
+                stamp = record.get("modified_timestamp") or record.get("created_timestamp") or "—"
+                tree.insert("","end",iid=str(index),values=(record.get("name",""),size,stamp))
+        use_button.state(["disabled"])
+        if not loading[0]: notice.set(f"{len(tree.get_children())} archivos. Seleccionar guarda el vínculo; no ejecuta ni transfiere.")
+    def selection(_=None):
+        use_button.state(["!disabled"] if tree.selection() and not loading[0] else ["disabled"])
+    def fetch():
+        if loading[0]: return
+        loading[0] = True
+        refresh_button.state(["disabled"])
+        use_button.state(["disabled"])
+        notice.set("Consultando biblioteca…")
+        def work():
+            try: replies.put((service.library_put_files(),None))
+            except Exception as err: replies.put((None,str(err)))
+        threading.Thread(target=work,daemon=True).start()
+        dialog.after(120,received)
+    def received():
+        if not dialog.winfo_exists(): return
+        try: result,error = replies.get_nowait()
+        except queue.Empty:
+            dialog.after(120,received)
+            return
+        loading[0] = False
+        refresh_button.state(["!disabled"])
+        records[:] = sorted(result or [],key=lambda r:str(r.get("name","")).casefold())
+        render()
+        if error: notice.set("No se pudo consultar Falcon: "+error)
+    def use():
+        if loading[0] or not tree.selection(): return
+        record = records[int(tree.selection()[0])]
+        try:
+            binding = put_file_binding(record)
+            if sum(r.get("name")==binding["name"] for r in records) != 1:
+                raise ValueError("Hay archivos con nombres repetidos. Usa un nombre único en Falcon.")
+            if selected_callback(binding) is not False: dialog.destroy()
+        except ValueError as err:
+            messagebox.showerror("Archivo previo",str(err),parent=dialog)
+    buttons = ttk.Frame(shell)
+    buttons.grid(row=4,column=0,sticky="ew",pady=(8,0))
+    refresh_button = ttk.Button(buttons,text="Actualizar lista",command=fetch)
+    refresh_button.pack(side="left")
+    use_button = ttk.Button(buttons,text="Usar archivo seleccionado",style="Accent.TButton",command=use,state="disabled")
+    use_button.pack(side="right")
+    ttk.Button(buttons,text="Cancelar",command=dialog.destroy).pack(side="right",padx=8)
+    query.trace_add("write",render)
+    tree.bind("<<TreeviewSelect>>",selection)
+    tree.bind("<Double-1>",lambda _:use())
+    dialog.bind("<Return>",lambda _:use())
+    dialog.bind("<Escape>",lambda _:dialog.destroy())
+    dialog.grab_set()
+    entry.focus_set()
+    fetch()
 
 
 class Falcon:
@@ -864,6 +1000,37 @@ class Falcon:
             offset = next_offset
         return records
 
+    def library_put_files(self):
+        offset, seen, used, records = "0", set(), set(), []
+        for _ in range(1000):
+            used.add(offset)
+            data = body(self.admin.list_put_files(limit=100,offset=offset))
+            ids = data["resources"]
+            if not ids: break
+            fresh = list(dict.fromkeys(i for i in ids if i not in seen))
+            if not fresh: raise ValueError("La biblioteca de archivos RTR repitió una página.")
+            seen.update(fresh)
+            for start in range(0,len(fresh),100):
+                records.extend(body(self.admin.get_put_files(ids=fresh[start:start+100]))["resources"])
+            paging = data.get("meta",{}).get("pagination") or {}
+            if not paging: break
+            total = paging.get("total")
+            if str(total).isdigit() and len(seen)>=int(total): break
+            limit = paging.get("limit") or 100
+            if not str(total).isdigit() and len(ids)<int(limit): break
+            supplied = paging.get("offset")
+            next_offset = str(supplied) if supplied is not None and not str(supplied).isdigit() else str((int(offset) if offset.isdigit() else len(seen)-len(fresh))+len(ids))
+            if next_offset in used: raise ValueError("La biblioteca de archivos RTR no avanzó.")
+            offset = next_offset
+        else: raise ValueError("La biblioteca de archivos RTR excedió el límite de páginas.")
+        return records
+
+    def verify_put(self, binding):
+        expected = put_file_binding(binding)
+        records = body(self.admin.get_put_files(ids=[expected["id"]]))["resources"]
+        if len(records)!=1 or put_file_binding(records[0])!=expected:
+            raise ValueError("El archivo previo cambió o ya no existe en Falcon. Vuelve a seleccionarlo antes de crear otra campaña.")
+
     def verify(self, script):
         binding = getattr(self,"script_bindings",{}).get(script)
         if binding:
@@ -904,9 +1071,36 @@ class Falcon:
         return "Script publicado y contenido verificado en Falcon."
 
     def submit(self, job, session):
-        script = job["script"]
-        return body(self.admin.execute_admin_command(session_id=session, base_command="runscript",
-                    command_string=f'runscript -CloudFile="{script}"', persist=bool(job["offline"])))["resources"][0]
+        phase = job["phase"]
+        command, base = f'runscript -CloudFile="{job["script"]}"', "runscript"
+        if job["put_file"]:
+            attachment = job_put_binding(job)
+            if phase == "put_probe":
+                path = "C:\\"+attachment["name"]
+                raw = ("$ErrorActionPreference='Stop'; if(Test-Path -LiteralPath '"+path+"'){"
+                       "$item=Get-Item -LiteralPath '"+path+"'; "
+                       "if($item.PSIsContainer -or ($item.Attributes -band [IO.FileAttributes]::ReparsePoint)){throw 'Destino RTR no valido'}; "
+                       "if((Get-FileHash -LiteralPath '"+path+"' -Algorithm SHA256).Hash -ine '"+attachment["sha256"]+"'){throw 'Ya existe otro archivo en el destino. No se sobrescribe'}; "
+                       "Write-Output 'GF_PUT_OK:"+attachment["sha256"]+"'}else{Write-Output 'GF_PUT_MISSING'}")
+                command = 'runscript -Raw=```'+raw+'```'
+            elif phase == "put_cd":
+                base, command = "cd", "cd C:\\"
+            elif phase == "put_copy":
+                base, command = "put", f'put "{attachment["name"]}"'
+            elif phase == "put_check":
+                path = "C:\\"+attachment["name"]
+                raw = ("$ErrorActionPreference='Stop'; $item=Get-Item -LiteralPath '"+path+"'; "
+                       "if($item.PSIsContainer -or ($item.Attributes -band [IO.FileAttributes]::ReparsePoint)){throw 'Archivo RTR no valido'}; "
+                       "if((Get-FileHash -LiteralPath '"+path+"' -Algorithm SHA256).Hash -ine '"+attachment["sha256"]+"'){throw 'SHA256 RTR no coincide'}; "
+                       "Write-Output 'GF_PUT_OK:"+attachment["sha256"]+"'")
+                command = 'runscript -Raw=```'+raw+'```'
+            elif phase != "script":
+                raise ValueError("Etapa RTR desconocida.")
+            if phase == "script": command += " -Timeout=180"
+        elif phase != "script":
+            raise ValueError("Falta el archivo de la etapa RTR.")
+        return body(self.admin.execute_admin_command(session_id=session,base_command=base,
+                    command_string=command,persist=bool(job["offline"])))["resources"][0]
 
     def status(self, job):
         return body(self.admin.check_admin_command_status(cloud_request_id=job["request"],
@@ -930,9 +1124,11 @@ def dispatch(db, service, ids, progress):
                     verified[script] = str(err)
             if verified[script]:
                 raise ValueError(verified[script])
+            if job["put_file"]:
+                service.verify_put(job_put_binding(job))
             session = service.session(job)
             sid = session["session_id"]
-            set_state(db, jid, "Enviando", session=sid)
+            set_state(db, jid, "Enviando", PUT_PHASES[job["phase"]], session=sid)
             submitting = True
             result = service.submit(job, sid)
             queued = result.get("queued_command_offline", session.get("offline_queued", False))
@@ -953,6 +1149,40 @@ def poll(db, service, progress):
             output = (job["output"] + str(result.get("stdout") or ""))[-10000:]
             error = str(result.get("stderr") or "")
             seq = job["seq"]
+            if result.get("complete") is True and job["phase"] != "script":
+                failure = error or ("Error previo en la etapa RTR" if "[stderr]" in output else "")
+                if job["phase"]=="put_check" and "GF_PUT_OK:"+job["put_sha256"] not in output.splitlines():
+                    failure = failure or "No se pudo verificar el archivo recibido. El desinstalador no se ejecutó."
+                if failure:
+                    set_state(db,job["id"],"Error",PUT_PHASES[job["phase"]]+": "+failure,output=output)
+                    continue
+                if job["phase"]=="put_probe":
+                    if "GF_PUT_OK:"+job["put_sha256"] in output.splitlines(): next_phase="script"
+                    elif "GF_PUT_MISSING" in output.splitlines(): next_phase="put_cd"
+                    else:
+                        set_state(db,job["id"],"Error","No se pudo comprobar el archivo previo. No se ejecutó el script.",output=output)
+                        continue
+                else:
+                    next_phase = {"put_cd":"put_copy","put_copy":"put_check","put_check":"script"}[job["phase"]]
+                submitting = False
+                try:
+                    service.verify(job["script"])
+                    service.verify_put(job_put_binding(job))
+                    # Reopen an expired session; repeat cd before put if its directory was lost.
+                    session = service.session(job)
+                    sid = session["session_id"]
+                    if next_phase=="put_copy" and sid!=job["session"]:
+                        next_phase="put_cd"
+                    set_state(db,job["id"],"Enviando",PUT_PHASES[next_phase],phase=next_phase,session=sid,request="",seq=0,output="")
+                    current = db.execute("SELECT * FROM job WHERE id=?",(job["id"],)).fetchone()
+                    submitting = True
+                    sent = service.submit(current,sid)
+                    state = "En cola" if sent.get("queued_command_offline",session.get("offline_queued",False)) else "Enviado"
+                    set_state(db,job["id"],state,PUT_PHASES[next_phase],request=sent["cloud_request_id"])
+                except Exception as err:
+                    uncertain = submitting and not (isinstance(err,FalconError) and 400<=err.code<500)
+                    set_state(db,job["id"],"Revisar en Falcon" if uncertain else "Error",str(err))
+                continue
             if result.get("complete") is True:
                 state = "Finalizado · verificar"
                 if error or "[stderr]" in output:
@@ -2408,6 +2638,8 @@ class Panel:
                 return False
             source = draft.get("1.0","end-1c")
             try:
+                if put_enabled.get() and not attachment:
+                    raise ValueError("Selecciona el archivo previo de Falcon o desactiva la casilla put.")
                 name = save_uninstaller(self.db, self.service, app, source, linked)
             except ValueError as err:
                 messagebox.showinfo("Guardar desinstalador", str(err), parent=window)
@@ -2584,8 +2816,62 @@ class Panel:
             threading.Thread(target=upload,daemon=True).start()
             self.root.after(150,completed)
 
+        attachment = dict(get_put_binding(self.db,aid) or {})
+        put_enabled = tk.BooleanVar(value=bool(attachment))
+        put_notice = tk.StringVar()
+        put_box = ttk.Frame(frame,padding=(8,4),relief="solid",borderwidth=1)
+        put_box.grid(row=3,column=0,sticky="ew",pady=(8,0))
+        put_box.columnconfigure(0,weight=1)
+        def paint_put():
+            enabled = put_enabled.get()
+            put_pick.state(["!disabled"] if enabled and app["platform"].casefold()=="windows" else ["disabled"])
+            put_notice.set(("Antes del script: C:\\"+attachment["name"]) if enabled and attachment else
+                           ("Selecciona un archivo de Falcon." if enabled else "Sin transferencia previa."))
+        def toggle_put():
+            if self.busy:
+                put_enabled.set(bool(get_put_binding(self.db,aid)))
+                paint_put()
+                return
+            try:
+                save_put_binding(self.db,aid,attachment if put_enabled.get() and attachment else None)
+            except ValueError as err:
+                put_enabled.set(bool(get_put_binding(self.db,aid)))
+                messagebox.showinfo("Archivo previo",str(err),parent=window)
+            paint_put()
+        def pick_put():
+            if self.demo:
+                messagebox.showinfo("Archivo previo","Conecta Falcon para consultar los archivos put.",parent=window)
+                return
+            if self.busy: return
+            def picked(binding):
+                save_put_binding(self.db,aid,binding)
+                attachment.clear()
+                attachment.update(binding)
+                put_enabled.set(True)
+                paint_put()
+                self.footer.set("Archivo previo guardado: "+binding["name"])
+            choose_put_file(window,self.service,picked)
+        put_check = ttk.Checkbutton(put_box,text="Usar archivo previo (put)",variable=put_enabled,command=toggle_put)
+        put_check.grid(row=0,column=0,sticky="w")
+        put_pick = ttk.Button(put_box,text="Elegir archivo de Falcon…",command=pick_put)
+        put_pick.grid(row=0,column=1,sticky="e",padx=(8,0))
+        put_label = ttk.Label(put_box,textvariable=put_notice,style="Muted.TLabel",wraplength=600)
+        put_label.grid(row=1,column=0,columnspan=2,sticky="ew",pady=(4,0))
+        def fit_put(event):
+            width=max(200,event.width-24)
+            put_label.configure(wraplength=width)
+            if event.width<put_check.winfo_reqwidth()+put_pick.winfo_reqwidth()+36:
+                put_pick.grid_configure(row=1,column=0,sticky="w",padx=0,pady=(4,0))
+                put_label.grid_configure(row=2)
+            else:
+                put_pick.grid_configure(row=0,column=1,sticky="e",padx=(8,0),pady=0)
+                put_label.grid_configure(row=1)
+        put_box.bind("<Configure>",fit_put)
+        if app["platform"].casefold()!="windows": put_check.state(["disabled"])
+        paint_put()
+
         actions = ttk.Frame(frame)
-        actions.grid(row=3,column=0,sticky="ew",pady=(8,4))
+        actions.grid(row=4,column=0,sticky="ew",pady=(8,4))
         def import_file():
             ext = "*.ps1" if app["platform"].casefold()=="windows" else "*.sh"
             file = filedialog.askopenfilename(parent=window,filetypes=[("Script del programa",ext)])
@@ -2604,7 +2890,7 @@ class Panel:
         ttk.Button(actions,text="Elegir script de Falcon…",command=select_cloud_script).pack(side="left",padx=6)
         hint=ttk.Label(frame,text="Publica el script nuevo o modificado, o elige uno ya publicado. Luego ve a Equipos para revisar el envío.",
                        wraplength=440,style="Muted.TLabel")
-        hint.grid(row=4,column=0,sticky="w",pady=(2,4))
+        hint.grid(row=5,column=0,sticky="w",pady=(2,4))
         frame.bind("<Configure>",lambda event:hint.configure(wraplength=max(240,event.width-30)))
         opts = ttk.Frame(devices)
         opts.pack(side="bottom",fill="x",pady=(8,0))
@@ -2624,10 +2910,10 @@ class Panel:
                 auto_opts.grid_remove()
                 more.configure(text="▸ Regla automática")
             else:
-                auto_opts.grid(row=6,column=0,sticky="w")
+                auto_opts.grid(row=7,column=0,sticky="w")
                 more.configure(text="▾ Regla automática")
         more=ttk.Button(frame,text="▸ Regla automática",command=show_auto)
-        more.grid(row=5,column=0,sticky="w",pady=(4,0))
+        more.grid(row=6,column=0,sticky="w",pady=(4,0))
         ttk.Checkbutton(auto_opts,text="Ejecutar al reconectarse",variable=offline).pack(anchor="w",pady=3)
         def automatic():
             if not draft.get("1.0","end-1c").strip() or not save():
@@ -2661,6 +2947,9 @@ class Panel:
                 return
             cname = published.get()
             mode = "Simulación local" if self.demo else "Desinstalación real por RTR"
+            previous_file = get_put_binding(self.db,aid)
+            if previous_file:
+                mode += " · archivo previo: "+previous_file["name"]+" → C:\\"
             if not messagebox.askyesno(mode,f"{app['name']} · {app['platform']}\n{len(targets)} equipos seleccionados\nScript RTR: {cname}\nCola al reconectarse: {'sí' if offline.get() else 'no'}\n\n¿Confirmas el envío?",parent=window):
                 return
             ids = plan(self.db,aid,targets,offline.get(),uuid.uuid4().hex[:10])

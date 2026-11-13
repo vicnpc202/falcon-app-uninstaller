@@ -30,3 +30,7 @@ __pycache__/
 .idea/
 Thumbs.db
 .DS_Store
+
+# Archivos temporales de las pruebas
+/test-temp/
+/tests/test-temp/

@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.3-e51937?style=flat-square" alt="Versión 1.0.3">
+  <img src="https://img.shields.io/badge/version-1.1.0-e51937?style=flat-square" alt="Versión 1.1.0">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python 3.10 o superior">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-238636?style=flat-square" alt="Licencia GPL-3.0"></a>
   <a href="https://github.com/vicnpc202/falcon-app-uninstaller/actions/workflows/tests.yml"><img src="https://github.com/vicnpc202/falcon-app-uninstaller/actions/workflows/tests.yml/badge.svg" alt="Estado de las pruebas"></a>
@@ -32,6 +32,7 @@ no está desarrollado, certificado ni respaldado por CrowdStrike.
 - Ver los equipos asociados, su conexión y su última comunicación en hora local.
 - Editar, publicar y verificar un script en la biblioteca RTR desde la ficha del programa.
 - Elegir un custom script existente de Falcon y reutilizarlo en distintas versiones de una aplicación.
+- Activar un archivo previo opcional, seleccionarlo desde los **put files** de Falcon y transferirlo antes del script, verificando su SHA256.
 - Revisar los destinatarios antes de enviar una desinstalación a varios equipos.
 - Dejar órdenes en cola para equipos desconectados.
 - Consultar el historial de todos los programas y equipos, o filtrar por aplicación.
@@ -81,7 +82,7 @@ a las funciones que vas a utilizar:
 | **Assets** | **Read** | Leer el inventario de aplicaciones de Discover. |
 | **Hosts** | **Read** | Consultar conexión del sensor y `last_seen`. |
 | **Real time response** | **Read** | Iniciar sesiones RTR, incluidas las sesiones para equipos desconectados. |
-| **Real time response (admin)** | **Write** | Publicar, listar, verificar y ejecutar scripts; consultar su resultado. |
+| **Real time response (admin)** | **Write** | Publicar, listar, verificar y ejecutar scripts; listar y transferir archivos put; consultar resultados. |
 
 Los nombres y permisos anteriores corresponden a las operaciones de la
 documentación oficial de [Discover](https://developer.crowdstrike.com/api-reference/collections/discover/),
@@ -132,6 +133,35 @@ El gestor no genera un desinstalador universal: el script debe contemplar el
 método de instalación, usuarios, permisos y plataforma del programa. Prueba cada
 script en un equipo antes de enviarlo a un grupo. El editor presenta PowerShell
 para Windows; otras plataformas requieren scripts compatibles y validación propia.
+
+### Archivo previo opcional (put) — nuevo en 1.1.0
+
+Algunos desinstaladores necesitan un limpiador u otro archivo además del `.ps1`.
+Sube ese archivo a **Response scripts and files → put files** de Falcon y después:
+
+1. Abre la aplicación en GestorFalcon y entra en **Desinstalador**.
+2. Activa **Usar archivo previo (put)**.
+3. Pulsa **Elegir archivo de Falcon…**, busca el archivo y selecciona **Usar archivo seleccionado**.
+4. Comprueba la ruta indicada: el archivo estará disponible como `C:\nombre-del-archivo`.
+   El script debe utilizar esa misma ruta. Elegir un archivo no modifica el `.ps1`.
+5. Publica o vincula el script y crea un envío nuevo desde **Equipos**.
+
+![Selección de un archivo previo de Falcon para un desinstalador](docs/images/archivo-previo-put.png)
+
+La elección se guarda por aplicación. El gestor comprueba si el archivo ya está
+en el equipo con el SHA256 seleccionado; si coincide, lo reutiliza. Si falta,
+prepara el destino, transfiere el archivo y verifica su huella antes de ejecutar
+el script. Un archivo diferente en la misma ruta bloquea el envío; no se sobrescribe.
+El gestor no ejecuta el desinstalador si falla una etapa previa o si el archivo
+seleccionado cambia en Falcon. Desactivar la casilla conserva el flujo habitual
+sin transferencia. Esta opción está disponible para aplicaciones Windows.
+
+Las etapas quedan guardadas en la cola local. **El gestor debe estar abierto para
+avanzar de una etapa a la siguiente**: una transferencia pendiente en Falcon
+no equivale a tener también el script encolado. Al reabrir, puede continuar desde
+la etapa guardada; una respuesta de envío incierta requiere revisión en Falcon.
+Los envíos creados antes de cambiar esta configuración conservan su archivo y
+versión anteriores. Para usar otra selección, crea una campaña nueva.
 
 ### Conexión y resultados
 
@@ -227,4 +257,4 @@ Código **GPL-3.0-only**. Consulta [LICENSE](LICENSE). Los derivados distribuido
 deben cumplir sus condiciones. Las imágenes, logos y marcas conservan sus
 licencias y derechos propios; la licencia del código no los relicencia.
 
-**Versión 1.0.3** · Interfaz en español · Windows.
+**Versión 1.1.0** · Interfaz en español · Windows.
